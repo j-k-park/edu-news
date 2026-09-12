@@ -1,0 +1,322 @@
+<title>교육청 브리핑 보드</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Nanum+Myeongjo:wght@700;800&display=swap">
+<style>
+:root{
+  --paper:#F4F6F9; --panel:#FFFFFF; --panel-2:#FBFCFE;
+  --ink:#101A2E; --ink-2:#41506B; --ink-3:#7A879E;
+  --rule:#DCE3ED; --rule-2:#EDF1F6;
+  --navy:#1F3A75; --navy-soft:#E7EDF9;
+  --signal:#B7410E; --signal-soft:#FBEDE7;
+  --focus:#2A5CC4;
+  --shadow:0 1px 2px rgba(16,26,46,.05), 0 8px 24px -18px rgba(16,26,46,.35);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+  --paper:#0C1220; --panel:#131B2C; --panel-2:#172133;
+  --ink:#E8EDF6; --ink-2:#A8B6CD; --ink-3:#72809A;
+  --rule:#26314A; --rule-2:#1D2739;
+  --navy:#9DB6EA; --navy-soft:#1B2947;
+  --signal:#F0916A; --signal-soft:#31201A;
+  --focus:#7FA5F0;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 10px 28px -20px rgba(0,0,0,.8);
+}
+}
+:root[data-theme="dark"]{
+  --paper:#0C1220; --panel:#131B2C; --panel-2:#172133;
+  --ink:#E8EDF6; --ink-2:#A8B6CD; --ink-3:#72809A;
+  --rule:#26314A; --rule-2:#1D2739;
+  --navy:#9DB6EA; --navy-soft:#1B2947;
+  --signal:#F0916A; --signal-soft:#31201A;
+  --focus:#7FA5F0;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 10px 28px -20px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1360px; margin:0 auto; padding-inline:20px; padding-block:0 64px}
+a{color:inherit}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums}
+
+/* ---------- masthead ---------- */
+header.mast{padding-block:30px 18px; border-bottom:2px solid var(--ink); margin-bottom:0}
+.mast-row{display:flex; flex-wrap:wrap; align-items:flex-end; gap:16px 24px; justify-content:space-between}
+h1{
+  font-family:"Nanum Myeongjo","Apple SD Gothic Neo",serif; font-weight:800;
+  font-size:clamp(26px,3.6vw,38px); line-height:1.15; margin:0; letter-spacing:-.01em;
+  text-wrap:balance;
+}
+h1 .sub{display:block; font-family:"IBM Plex Sans KR",sans-serif; font-weight:400;
+  font-size:13px; letter-spacing:.14em; color:var(--ink-3); margin-bottom:9px}
+.mast-meta{display:flex; gap:22px; flex-wrap:wrap; align-items:baseline; padding-bottom:4px}
+.mm{display:flex; flex-direction:column; gap:1px}
+.mm b{font-size:21px; font-weight:600; line-height:1.1}
+.mm span{font-size:11px; letter-spacing:.09em; color:var(--ink-3)}
+.mm.hot b{color:var(--signal)}
+
+/* ---------- controls ---------- */
+.controls{
+  position:sticky; top:0; z-index:20; background:var(--paper);
+  border-bottom:1px solid var(--rule); padding-block:12px;
+  display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center;
+}
+.search{flex:1 1 240px; min-width:0; position:relative}
+.search input{
+  width:100%; padding:9px 12px 9px 32px; border:1px solid var(--rule); border-radius:3px;
+  background:var(--panel); color:var(--ink); font:inherit; font-size:14px;
+}
+.search input::placeholder{color:var(--ink-3)}
+.search svg{position:absolute; left:10px; top:50%; transform:translateY(-50%); color:var(--ink-3)}
+.seg{display:flex; border:1px solid var(--rule); border-radius:3px; overflow:hidden; background:var(--panel)}
+.seg button{
+  font:inherit; font-size:13px; padding:8px 13px; border:0; background:transparent;
+  color:var(--ink-2); cursor:pointer; border-right:1px solid var(--rule-2);
+}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--navy); color:#fff; font-weight:500}
+:root[data-theme="dark"] .seg button[aria-pressed="true"]{color:#0C1220}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .seg button[aria-pressed="true"]{color:#0C1220}}
+:root[data-theme="dark"] .kind.press{color:#0C1220}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .kind.press{color:#0C1220}}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--focus); outline-offset:2px}
+
+.tagrow{display:flex; flex-wrap:wrap; gap:6px; padding-block:12px 4px}
+.chip{
+  font:inherit; font-size:12.5px; padding:4px 11px; border-radius:999px; cursor:pointer;
+  border:1px solid var(--rule); background:transparent; color:var(--ink-2);
+}
+.chip[aria-pressed="true"]{background:var(--ink); color:var(--paper); border-color:var(--ink)}
+.chip .n{color:var(--ink-3); margin-left:5px; font-size:11px}
+.chip[aria-pressed="true"] .n{color:var(--paper); opacity:.6}
+
+/* ---------- office board ---------- */
+.board{display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)); gap:14px; margin-top:18px}
+.office{
+  background:var(--panel); border:1px solid var(--rule); border-radius:4px;
+  display:flex; flex-direction:column; overflow:hidden; box-shadow:var(--shadow);
+}
+.office > h2{
+  margin:0; display:flex; align-items:center; gap:9px; padding:11px 14px;
+  border-bottom:1px solid var(--rule-2); background:var(--panel-2);
+  font-size:15px; font-weight:600; letter-spacing:-.01em;
+}
+.dot{width:9px; height:9px; border-radius:2px; flex:none; background:var(--oc,#888)}
+.office h2 .full{font-size:11px; color:var(--ink-3); font-weight:400; margin-left:auto; white-space:nowrap}
+.office h2 .cnt{font-size:12px; color:var(--ink-3); font-weight:500}
+.items{list-style:none; margin:0; padding:4px 0; overflow-y:auto; max-height:430px}
+.items li{border-bottom:1px solid var(--rule-2)}
+.items li:last-child{border-bottom:0}
+.items a{
+  display:block; padding:9px 14px; text-decoration:none;
+  border-left:3px solid transparent;
+}
+.items a:hover{background:var(--navy-soft); border-left-color:var(--navy)}
+.it-title{font-size:13.5px; line-height:1.45; color:var(--ink); display:block}
+.it-meta{display:flex; gap:7px; align-items:center; flex-wrap:wrap; margin-top:4px; font-size:11px; color:var(--ink-3)}
+.kind{
+  font-size:10px; letter-spacing:.04em; padding:1px 5px; border-radius:2px;
+  border:1px solid var(--rule); color:var(--ink-2);
+}
+.kind.press{background:var(--navy); border-color:var(--navy); color:#fff}
+:root[data-theme="dark"] .kind.press{color:var(--paper)}
+.new{color:var(--signal); font-weight:600; letter-spacing:.02em}
+.empty{padding:26px 14px; color:var(--ink-3); font-size:13px; text-align:center}
+
+/* ---------- timeline ---------- */
+.tl{margin-top:18px; background:var(--panel); border:1px solid var(--rule); border-radius:4px; box-shadow:var(--shadow)}
+.daysep{
+  position:sticky; top:57px; background:var(--panel-2); border-block:1px solid var(--rule-2);
+  padding:7px 16px; font-size:12px; letter-spacing:.06em; color:var(--ink-2); font-weight:500; z-index:5;
+}
+.tl ul{list-style:none; margin:0; padding:0}
+.tl li{border-bottom:1px solid var(--rule-2)}
+.tl a{display:grid; grid-template-columns:86px 1fr; gap:14px; padding:11px 16px; text-decoration:none; align-items:start}
+.tl a:hover{background:var(--navy-soft)}
+.tl .who{display:flex; align-items:center; gap:7px; font-size:12.5px; color:var(--ink-2); font-weight:500; padding-top:1px}
+.tagpill{font-size:10.5px; color:var(--ink-3); border:1px solid var(--rule); border-radius:999px; padding:0 6px}
+
+footer{margin-top:34px; padding-top:16px; border-top:1px solid var(--rule); font-size:12px; color:var(--ink-3)}
+footer a{color:var(--navy)}
+@media (max-width:520px){
+  .tl a{grid-template-columns:1fr; gap:5px}
+  .mm b{font-size:18px}
+  .items{max-height:340px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important; animation:none!important}}
+</style>
+
+<div class="wrap">
+<header class="mast">
+  <div class="mast-row">
+    <h1><span class="sub">전국 시도교육청 일일 동향</span>교육청 브리핑 보드</h1>
+    <div class="mast-meta">
+      <div class="mm hot"><b class="mono" id="s-new">–</b><span>오늘 신규</span></div>
+      <div class="mm"><b class="mono" id="s-all">–</b><span>수집 건수</span></div>
+      <div class="mm"><b class="mono" id="s-press">–</b><span>보도자료</span></div>
+      <div class="mm"><b class="mono" id="s-ai">–</b><span>AI·디지털</span></div>
+      <div class="mm"><b class="mono" id="s-time" style="font-size:14px">–</b><span>최종 수집</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+    <input id="q" type="search" placeholder="제목·기관·키워드 검색 (예: 고교학점제, 늘봄, AI)" autocomplete="off">
+  </div>
+  <div class="seg" id="period" role="group" aria-label="기간">
+    <button data-v="1">오늘</button><button data-v="3">3일</button><button data-v="7" aria-pressed="true">7일</button><button data-v="0">전체</button>
+  </div>
+  <div class="seg" id="kind" role="group" aria-label="구분">
+    <button data-v="" aria-pressed="true">전체</button><button data-v="보도자료">보도자료</button><button data-v="뉴스">뉴스</button>
+  </div>
+  <div class="seg" id="view" role="group" aria-label="보기">
+    <button data-v="board" aria-pressed="true">교육청별</button><button data-v="time">최신순</button>
+  </div>
+</div>
+
+<div class="tagrow" id="tagrow"></div>
+<main id="out" aria-live="polite"></main>
+
+<footer>
+  매일 자동 수집 · 출처는 각 시도교육청 보도자료와 언론 보도이며, 제목을 누르면 원문으로 이동합니다.
+  <span id="foot-note"></span>
+</footer>
+</div>
+
+<script>
+const EMBEDDED_DATA = null; /*__DATA__*/
+const OFFICE_COLOR = {
+  "서울":"#3B4CCA","인천":"#5A6BD8","경기":"#7C89E6",
+  "강원":"#0E7490","제주":"#12A4B0",
+  "대전":"#166534","세종":"#1E8449","충북":"#2FA36A","충남":"#5BBE8C",
+  "전남광주":"#A65A12","전북":"#D48806",
+  "부산":"#8E1537","대구":"#B3123C","울산":"#CE2A63","경북":"#DE2A4A","경남":"#EE5A72"
+};
+const state = {q:"", period:7, kind:"", tag:"", view:"board"};
+let DATA = null;
+
+const esc = s => String(s??"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const todayStr = () => new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
+const daysAgo = n => new Date(Date.now()+9*3600e3-n*864e5).toISOString().slice(0,10);
+const fmtDate = d => d.slice(5).replace("-",".");
+
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  const from = state.period ? daysAgo(state.period-1) : "0000";
+  return DATA.items.filter(i =>
+    i.date >= from &&
+    (!state.kind || i.kind === state.kind) &&
+    (!state.tag || i.tags.includes(state.tag)) &&
+    (!q || (i.title+" "+i.office+" "+i.source+" "+i.tags.join(" ")).toLowerCase().includes(q))
+  );
+}
+
+function itemHTML(i, withOffice){
+  const isNew = i.collected_at === DATA.today;
+  return `<li><a href="${esc(i.url)}" target="_blank" rel="noopener">
+    <span class="it-title">${esc(i.title)}</span>
+    <span class="it-meta">
+      ${withOffice ? `<span class="dot" style="--oc:${OFFICE_COLOR[i.office]||"#888"}"></span>${esc(i.office)}` : ""}
+      <span class="kind ${i.kind==="보도자료"?"press":""}">${esc(i.kind)}</span>
+      <span class="mono">${fmtDate(i.date)}</span>
+      <span>${esc(i.source)}</span>
+      ${i.tags[0] && i.tags[0]!=="기타" ? `<span class="tagpill">${esc(i.tags[0])}</span>`:""}
+      ${isNew ? `<span class="new">NEW</span>`:""}
+    </span></a></li>`;
+}
+
+function renderBoard(items){
+  const by = {};
+  items.forEach(i => (by[i.office] ||= []).push(i));
+  return `<div class="board">` + DATA.offices.map(o => {
+    const list = by[o.name] || [];
+    return `<section class="office">
+      <h2><span class="dot" style="--oc:${OFFICE_COLOR[o.name]||"#888"}"></span>${esc(o.name)}
+        <span class="cnt mono">${list.length}</span>
+        <a class="full" href="${esc(o.site)}" target="_blank" rel="noopener">${esc(o.full)} ↗</a></h2>
+      ${list.length
+        ? `<ul class="items">${list.map(i=>itemHTML(i,false)).join("")}</ul>`
+        : `<p class="empty">조건에 맞는 소식이 없습니다</p>`}
+    </section>`;
+  }).join("") + `</div>`;
+}
+
+function renderTimeline(items){
+  if(!items.length) return `<div class="tl"><p class="empty">조건에 맞는 소식이 없습니다</p></div>`;
+  const by = {};
+  items.forEach(i => (by[i.date] ||= []).push(i));
+  const days = Object.keys(by).sort().reverse();
+  return `<div class="tl">` + days.map(d => {
+    const w = ["일","월","화","수","목","금","토"][new Date(d+"T00:00:00+09:00").getUTCDay()];
+    return `<div class="daysep mono">${d} (${w}) · ${by[d].length}건</div>
+      <ul>${by[d].map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener">
+        <span class="who"><span class="dot" style="--oc:${OFFICE_COLOR[i.office]||"#888"}"></span>${esc(i.office)}</span>
+        <span><span class="it-title">${esc(i.title)}</span>
+        <span class="it-meta"><span class="kind ${i.kind==="보도자료"?"press":""}">${esc(i.kind)}</span>
+        <span>${esc(i.source)}</span>
+        ${i.tags.filter(t=>t!=="기타").map(t=>`<span class="tagpill">${esc(t)}</span>`).join("")}
+        ${i.collected_at===DATA.today?`<span class="new">NEW</span>`:""}</span></span></a></li>`).join("")}</ul>`;
+  }).join("") + `</div>`;
+}
+
+function render(){
+  const items = filtered();
+  document.getElementById("out").innerHTML =
+    state.view === "board" ? renderBoard(items) : renderTimeline(items);
+  document.getElementById("foot-note").textContent =
+    ` 현재 화면: ${items.length.toLocaleString("ko")}건.`;
+}
+
+function renderTags(){
+  const counts = {};
+  DATA.items.forEach(i => i.tags.forEach(t => counts[t] = (counts[t]||0)+1));
+  const tags = DATA.tags.filter(t => counts[t]).sort((a,b)=>counts[b]-counts[a]);
+  const row = document.getElementById("tagrow");
+  row.innerHTML = [`<button class="chip" data-tag="" aria-pressed="true">전체 분류</button>`]
+    .concat(tags.map(t=>`<button class="chip" data-tag="${esc(t)}" aria-pressed="false">${esc(t)}<span class="n mono">${counts[t]}</span></button>`)).join("");
+  row.onclick = e => {
+    const b = e.target.closest(".chip"); if(!b) return;
+    state.tag = b.dataset.tag;
+    row.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", String(c===b)));
+    render();
+  };
+}
+
+function wireSeg(id, key, cast){
+  const el = document.getElementById(id);
+  el.onclick = e => {
+    const b = e.target.closest("button"); if(!b) return;
+    state[key] = cast ? cast(b.dataset.v) : b.dataset.v;
+    el.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", String(x===b)));
+    render();
+  };
+}
+
+function boot(d){
+  DATA = d;
+  DATA.today = todayStr();
+  const nw = DATA.items.filter(i => i.collected_at === DATA.today).length;
+  document.getElementById("s-new").textContent   = nw.toLocaleString("ko");
+  document.getElementById("s-all").textContent   = DATA.items.length.toLocaleString("ko");
+  document.getElementById("s-press").textContent = DATA.items.filter(i=>i.kind==="보도자료").length.toLocaleString("ko");
+  document.getElementById("s-ai").textContent    = DATA.items.filter(i=>i.tags.includes("AI·디지털")).length.toLocaleString("ko");
+  document.getElementById("s-time").textContent  = DATA.generated_at;
+  renderTags();
+  wireSeg("period","period",Number); wireSeg("kind","kind"); wireSeg("view","view");
+  let t; document.getElementById("q").addEventListener("input", e => {
+    clearTimeout(t); t = setTimeout(() => { state.q = e.target.value; render(); }, 140);
+  });
+  render();
+}
+
+if (EMBEDDED_DATA) boot(EMBEDDED_DATA);
+else fetch("data.json").then(r=>r.json()).then(boot).catch(err => {
+  document.getElementById("out").innerHTML =
+    `<p class="empty">데이터를 불러오지 못했습니다. collect.py 를 먼저 실행해 data.json 을 만들어 주세요.</p>`;
+});
+</script>
