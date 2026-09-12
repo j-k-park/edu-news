@@ -1,0 +1,43 @@
+name: 매일 교육청 소식 수집
+
+on:
+  schedule:
+    - cron: "0 22 * * *"    # UTC 22:00 = 한국시간 오전 7:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 소식 수집
+        run: python collect.py
+
+      - name: 노션에 저장
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python to_notion.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name  "eduwatch-bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json docs/archive
+          git diff --staged --quiet || git commit -m "수집: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push
