@@ -1,3 +1,9 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#1F3A75">
 <title>교육청 브리핑 보드</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -94,7 +100,7 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .chip[aria-pressed="true"] .n{color:var(--paper); opacity:.6}
 
 /* ---------- office board ---------- */
-.board{display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)); gap:14px; margin-top:18px}
+.board{display:grid; grid-template-columns:repeat(auto-fill,minmax(min(310px,100%),1fr)); gap:14px; margin-top:18px}
 .office{
   background:var(--panel); border:1px solid var(--rule); border-radius:4px;
   display:flex; flex-direction:column; overflow:hidden; box-shadow:var(--shadow);
@@ -142,13 +148,24 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 footer{margin-top:34px; padding-top:16px; border-top:1px solid var(--rule); font-size:12px; color:var(--ink-3)}
 footer a{color:var(--navy)}
 @media (max-width:520px){
-  .tl a{grid-template-columns:1fr; gap:5px}
+  body{font-size:14.5px}
+  .wrap{padding-inline:14px; padding-block:0 48px}
+  header.mast{padding-block:20px 14px}
+  .mast-meta{gap:14px 18px}
+  .controls{position:static; gap:8px}
+  .search{flex-basis:100%}
+  .seg{flex:1 1 auto}
+  .seg button{flex:1; padding:9px 6px}
+  .daysep{top:0}
+  .tl a{grid-template-columns:1fr; gap:5px; padding:11px 14px}
   .mm b{font-size:18px}
   .items{max-height:340px}
+  .office h2 .full{display:none}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important; animation:none!important}}
 </style>
-
+</head>
+<body>
 <div class="wrap">
 <header class="mast">
   <div class="mast-row">
@@ -320,3 +337,5 @@ else fetch("data.json").then(r=>r.json()).then(boot).catch(err => {
     `<p class="empty">데이터를 불러오지 못했습니다. collect.py 를 먼저 실행해 data.json 을 만들어 주세요.</p>`;
 });
 </script>
+</body>
+</html>
