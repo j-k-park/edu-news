@@ -3,187 +3,272 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#1F3A75">
-<title>교육청 브리핑 보드</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Nanum+Myeongjo:wght@700;800&display=swap">
+<meta name="theme-color" content="#012d63">
+<meta name="color-scheme" content="light">
+<title>교육청 브리핑 보드 | 전북특별자치도교육청</title>
+<meta name="description" content="전국 16개 시도교육청의 보도자료와 교육 뉴스를 매일 아침 자동으로 모아 교육청별로 보여 드립니다.">
+<meta property="og:title" content="교육청 브리핑 보드 | 전북특별자치도교육청">
+<meta property="og:description" content="전국 16개 시도교육청 보도자료와 교육 뉴스를 매일 자동으로 한곳에.">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
+/* 색상: 전북특별자치도교육청 로고(남색·코랄·청록·노랑) + 교육비전(파랑·주황) — paper.jbedu.ai.kr 와 같은 체계 */
 :root{
-  --paper:#F4F6F9; --panel:#FFFFFF; --panel-2:#FBFCFE;
-  --ink:#101A2E; --ink-2:#41506B; --ink-3:#7A879E;
-  --rule:#DCE3ED; --rule-2:#EDF1F6;
-  --navy:#1F3A75; --navy-soft:#E7EDF9;
-  --signal:#B7410E; --signal-soft:#FBEDE7;
-  --focus:#2A5CC4;
-  --shadow:0 1px 2px rgba(16,26,46,.05), 0 8px 24px -18px rgba(16,26,46,.35);
-}
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-  --paper:#0C1220; --panel:#131B2C; --panel-2:#172133;
-  --ink:#E8EDF6; --ink-2:#A8B6CD; --ink-3:#72809A;
-  --rule:#26314A; --rule-2:#1D2739;
-  --navy:#9DB6EA; --navy-soft:#1B2947;
-  --signal:#F0916A; --signal-soft:#31201A;
-  --focus:#7FA5F0;
-  --shadow:0 1px 2px rgba(0,0,0,.3), 0 10px 28px -20px rgba(0,0,0,.8);
-}
-}
-:root[data-theme="dark"]{
-  --paper:#0C1220; --panel:#131B2C; --panel-2:#172133;
-  --ink:#E8EDF6; --ink-2:#A8B6CD; --ink-3:#72809A;
-  --rule:#26314A; --rule-2:#1D2739;
-  --navy:#9DB6EA; --navy-soft:#1B2947;
-  --signal:#F0916A; --signal-soft:#31201A;
-  --focus:#7FA5F0;
-  --shadow:0 1px 2px rgba(0,0,0,.3), 0 10px 28px -20px rgba(0,0,0,.8);
+  --navy:#012d63; --navy-2:#0b3d7e; --navy-soft:#e6ecf5;
+  --blue:#2479f7; --blue-soft:#e8f1fe;
+  --orange:#f07d00; --orange-soft:#fff1e0;
+  --coral:#eb5d48; --coral-soft:#fdecea;
+  --teal:#00aca9; --teal-soft:#e0f5f4;
+  --yellow:#ffcd1b; --yellow-soft:#fff8dc;
+
+  --ink:#1d2433; --ink-2:#4a5468; --ink-3:#6b7486;
+  --line:#e1e5ec; --line-2:#eef1f5;
+  --bg:#ffffff; --bg-2:#f6f8fb;
+
+  --radius:14px;
+  --wrap:1360px;
+  --gutter:20px;
+  --ctrl-h:64px;
+  --shadow:0 10px 30px rgba(1,45,99,.08);
+  --font:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","맑은 고딕",sans-serif;
 }
 *{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
 body{
-  margin:0; background:var(--paper); color:var(--ink);
-  font-family:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
-  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;
+  margin:0; background:var(--bg-2); color:var(--ink);
+  font-family:var(--font); font-size:15px; line-height:1.6;
+  word-break:keep-all; overflow-wrap:anywhere; -webkit-font-smoothing:antialiased;
 }
-.wrap{max-width:1360px; margin:0 auto; padding-inline:20px; padding-block:0 64px}
+img{max-width:100%; height:auto; display:block}
 a{color:inherit}
-.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums}
+h1,h2{line-height:1.3; margin:0; letter-spacing:-.02em}
+p{margin:0}
+.wrap{max-width:var(--wrap); margin:0 auto; padding-inline:var(--gutter)}
+.mono{font-variant-numeric:tabular-nums}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(--blue); outline-offset:2px; border-radius:6px}
+.skip{position:absolute; left:12px; top:-60px; background:var(--navy); color:#fff; padding:10px 16px; border-radius:8px; z-index:100; text-decoration:none}
+.skip:focus{top:12px}
 
-/* ---------- masthead ---------- */
-header.mast{padding-block:30px 18px; border-bottom:2px solid var(--ink); margin-bottom:0}
-.mast-row{display:flex; flex-wrap:wrap; align-items:flex-end; gap:16px 24px; justify-content:space-between}
-h1{
-  font-family:"Nanum Myeongjo","Apple SD Gothic Neo",serif; font-weight:800;
-  font-size:clamp(26px,3.6vw,38px); line-height:1.15; margin:0; letter-spacing:-.01em;
-  text-wrap:balance;
+/* ---------- 머리글 ---------- */
+.util{background:var(--navy); color:#dfe7f3; font-size:13px}
+.util .wrap{display:flex; align-items:center; gap:16px; min-height:36px; flex-wrap:wrap}
+.util a{text-decoration:none; opacity:.9}
+.util a:hover{opacity:1; text-decoration:underline}
+
+.masthead{background:#fff; border-bottom:1px solid var(--line)}
+.masthead-row{display:flex; align-items:center; justify-content:space-between; gap:16px; min-height:74px}
+.brand{display:flex; align-items:center; gap:14px; text-decoration:none; min-width:0}
+.brand .jbe{height:38px; width:auto}
+.brand .bar{width:1px; height:32px; background:var(--line); flex:none}
+.brand .svc{display:flex; flex-direction:column; line-height:1.2; min-width:0}
+.brand .svc small{font-size:12px; color:var(--ink-3); font-weight:600}
+.brand .svc b{font-size:17px; color:var(--navy); font-weight:800; white-space:nowrap}
+.btn-home{
+  display:inline-flex; align-items:center; gap:8px; background:var(--navy); color:#fff; text-decoration:none;
+  padding:10px 16px; border-radius:999px; font-weight:700; font-size:14.5px; white-space:nowrap;
 }
-h1 .sub{display:block; font-family:"IBM Plex Sans KR",sans-serif; font-weight:400;
-  font-size:13px; letter-spacing:.14em; color:var(--ink-3); margin-bottom:9px}
-.mast-meta{display:flex; gap:22px; flex-wrap:wrap; align-items:baseline; padding-bottom:4px}
-.mm{display:flex; flex-direction:column; gap:1px}
-.mm b{font-size:21px; font-weight:600; line-height:1.1}
-.mm span{font-size:11px; letter-spacing:.09em; color:var(--ink-3)}
-.mm.hot b{color:var(--signal)}
+.btn-home:hover{background:var(--navy-2)}
+.btn-home .dot{width:8px; height:8px; border-radius:50%; background:var(--yellow); box-shadow:0 0 0 3px rgba(255,205,27,.3)}
 
-/* ---------- controls ---------- */
+/* ---------- 제목 영역 ---------- */
+.hero{background:linear-gradient(180deg,#f3f7fd 0%,var(--bg-2) 100%); padding-block:34px 26px}
+.hero-grid{display:flex; flex-wrap:wrap; gap:22px 40px; align-items:flex-end; justify-content:space-between}
+.hero-copy{flex:1 1 380px; min-width:0}
+.eyebrow{display:inline-block; font-size:14px; font-weight:800; color:var(--orange); letter-spacing:.02em; margin-bottom:8px}
+h1{font-size:clamp(28px,3.8vw,40px); color:var(--navy); font-weight:800}
+.lead{font-size:16.5px; color:var(--ink-2); margin-top:10px; max-width:640px}
+
+.stat-row{display:grid; grid-template-columns:repeat(4,minmax(0,1fr)) minmax(0,1.35fr); gap:12px; flex:1 1 660px}
+.stat{
+  background:#fff; border:1px solid var(--line); border-radius:var(--radius);
+  padding:14px 16px 13px; display:grid; gap:2px; align-content:start; position:relative; overflow:hidden;
+}
+.stat::before{content:""; position:absolute; left:0; top:0; right:0; height:3px; background:var(--c,var(--navy))}
+.stat b{display:block; font-size:26px; font-weight:800; color:var(--navy); line-height:1.15}
+.stat span{color:var(--ink-3); font-size:13px; font-weight:600}
+.stat.hot b{color:var(--orange)}
+.stat.time b{font-size:16px; padding-block:6px 4px; white-space:nowrap}
+
+/* ---------- 검색·필터 ---------- */
 .controls{
-  position:sticky; top:0; z-index:20; background:var(--paper);
-  border-bottom:1px solid var(--rule); padding-block:12px;
-  display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center;
+  position:sticky; top:0; z-index:20; background:rgba(246,248,251,.96); backdrop-filter:saturate(1.2) blur(6px);
+  border-bottom:1px solid var(--line); padding-block:12px;
+  display:flex; flex-wrap:wrap; gap:10px 12px; align-items:center;
 }
-.search{flex:1 1 240px; min-width:0; position:relative}
+.search{flex:1 1 260px; min-width:0; position:relative}
 .search input{
-  width:100%; padding:9px 12px 9px 32px; border:1px solid var(--rule); border-radius:3px;
-  background:var(--panel); color:var(--ink); font:inherit; font-size:14px;
+  width:100%; padding:10px 16px 10px 40px; border:2px solid var(--navy); border-radius:999px;
+  background:#fff; color:var(--ink); font:inherit; font-size:15px; box-shadow:var(--shadow);
 }
+.search input:focus{outline:0; border-color:var(--blue)}
 .search input::placeholder{color:var(--ink-3)}
-.search svg{position:absolute; left:10px; top:50%; transform:translateY(-50%); color:var(--ink-3)}
-.seg{display:flex; border:1px solid var(--rule); border-radius:3px; overflow:hidden; background:var(--panel)}
+.search svg{position:absolute; left:15px; top:50%; transform:translateY(-50%); color:var(--navy)}
+.seg{display:flex; border:1px solid #c9d3e2; border-radius:12px; overflow:hidden; background:#fff}
 .seg button{
-  font:inherit; font-size:13px; padding:8px 13px; border:0; background:transparent;
-  color:var(--ink-2); cursor:pointer; border-right:1px solid var(--rule-2);
+  font:inherit; font-size:14px; font-weight:600; padding:9px 14px; border:0; background:transparent;
+  color:var(--ink-2); cursor:pointer; border-right:1px solid var(--line-2); white-space:nowrap;
 }
 .seg button:last-child{border-right:0}
-.seg button[aria-pressed="true"]{background:var(--navy); color:#fff; font-weight:500}
-:root[data-theme="dark"] .seg button[aria-pressed="true"]{color:#0C1220}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .seg button[aria-pressed="true"]{color:#0C1220}}
-:root[data-theme="dark"] .kind.press{color:#0C1220}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .kind.press{color:#0C1220}}
-button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--focus); outline-offset:2px}
+.seg button:hover{background:var(--bg-2); color:var(--navy)}
+.seg button[aria-pressed="true"]{background:var(--navy); color:#fff; font-weight:700}
 
-.tagrow{display:flex; flex-wrap:wrap; gap:6px; padding-block:12px 4px}
+.tagrow{display:flex; flex-wrap:wrap; gap:6px; padding-block:14px 2px}
 .chip{
-  font:inherit; font-size:12.5px; padding:4px 11px; border-radius:999px; cursor:pointer;
-  border:1px solid var(--rule); background:transparent; color:var(--ink-2);
+  font:inherit; font-size:13px; font-weight:700; padding:5px 12px; border-radius:999px; cursor:pointer;
+  border:1px solid var(--line); background:#fff; color:var(--ink-2);
 }
-.chip[aria-pressed="true"]{background:var(--ink); color:var(--paper); border-color:var(--ink)}
-.chip .n{color:var(--ink-3); margin-left:5px; font-size:11px}
-.chip[aria-pressed="true"] .n{color:var(--paper); opacity:.6}
+.chip:hover{border-color:var(--navy); color:var(--navy)}
+.chip[aria-pressed="true"]{background:var(--navy); color:#fff; border-color:var(--navy)}
+.chip .n{color:var(--ink-3); margin-left:5px; font-size:11.5px; font-weight:600}
+.chip[aria-pressed="true"] .n{color:#fff; opacity:.7}
 
-/* ---------- office board ---------- */
-.board{display:grid; grid-template-columns:repeat(auto-fill,minmax(min(310px,100%),1fr)); gap:14px; margin-top:18px}
+/* ---------- 교육청별 보기 ---------- */
+.board{display:grid; grid-template-columns:repeat(auto-fill,minmax(min(310px,100%),1fr)); gap:14px; margin-top:16px}
 .office{
-  background:var(--panel); border:1px solid var(--rule); border-radius:4px;
+  background:#fff; border:1px solid var(--line); border-radius:var(--radius);
   display:flex; flex-direction:column; overflow:hidden; box-shadow:var(--shadow);
 }
 .office > h2{
-  margin:0; display:flex; align-items:center; gap:9px; padding:11px 14px;
-  border-bottom:1px solid var(--rule-2); background:var(--panel-2);
-  font-size:15px; font-weight:600; letter-spacing:-.01em;
+  margin:0; display:flex; align-items:center; gap:9px; padding:13px 16px;
+  border-bottom:2px solid var(--navy); background:#fff;
+  font-size:16.5px; font-weight:800; color:var(--navy);
 }
-.dot{width:9px; height:9px; border-radius:2px; flex:none; background:var(--oc,#888)}
-.office h2 .full{font-size:11px; color:var(--ink-3); font-weight:400; margin-left:auto; white-space:nowrap}
-.office h2 .cnt{font-size:12px; color:var(--ink-3); font-weight:500}
-.items{list-style:none; margin:0; padding:4px 0; overflow-y:auto; max-height:430px}
-.items li{border-bottom:1px solid var(--rule-2)}
+.dot{width:10px; height:10px; border-radius:3px; flex:none; background:var(--oc,#888)}
+.office h2 .full{font-size:12px; color:var(--ink-3); font-weight:600; margin-left:auto; white-space:nowrap; text-decoration:none}
+.office h2 .full:hover{color:var(--navy); text-decoration:underline}
+.office h2 .cnt{
+  font-size:12px; font-weight:700; color:var(--navy); background:var(--navy-soft);
+  border-radius:999px; padding:1px 8px; line-height:1.5;
+}
+.items{list-style:none; margin:0; padding:2px 0; overflow-y:auto; max-height:430px}
+.items li{border-bottom:1px solid var(--line-2)}
 .items li:last-child{border-bottom:0}
-.items a{
-  display:block; padding:9px 14px; text-decoration:none;
-  border-left:3px solid transparent;
-}
-.items a:hover{background:var(--navy-soft); border-left-color:var(--navy)}
-.it-title{font-size:13.5px; line-height:1.45; color:var(--ink); display:block}
-.it-meta{display:flex; gap:7px; align-items:center; flex-wrap:wrap; margin-top:4px; font-size:11px; color:var(--ink-3)}
+.items a{display:block; padding:10px 16px; text-decoration:none; border-left:3px solid transparent}
+.items a:hover{background:var(--bg-2); border-left-color:var(--orange)}
+.it-title{font-size:14px; line-height:1.5; color:var(--ink); display:block; font-weight:500}
+.items a:hover .it-title,.tl a:hover .it-title{color:var(--navy)}
+.it-meta{display:flex; gap:6px 7px; align-items:center; flex-wrap:wrap; margin-top:5px; font-size:12px; color:var(--ink-3)}
 .kind{
-  font-size:10px; letter-spacing:.04em; padding:1px 5px; border-radius:2px;
-  border:1px solid var(--rule); color:var(--ink-2);
+  font-size:11px; font-weight:700; padding:1px 7px; border-radius:999px;
+  background:var(--bg-2); color:var(--ink-2); border:1px solid var(--line);
 }
 .kind.press{background:var(--navy); border-color:var(--navy); color:#fff}
-:root[data-theme="dark"] .kind.press{color:var(--paper)}
-.new{color:var(--signal); font-weight:600; letter-spacing:.02em}
-.empty{padding:26px 14px; color:var(--ink-3); font-size:13px; text-align:center}
+.tagpill{font-size:11px; font-weight:700; color:#007774; background:var(--teal-soft); border-radius:999px; padding:1px 7px}
+.new{font-size:10.5px; font-weight:800; letter-spacing:.03em; color:#fff; background:var(--coral); border-radius:999px; padding:1px 7px}
+.empty{padding:28px 14px; color:var(--ink-3); font-size:14px; text-align:center}
 
-/* ---------- timeline ---------- */
-.tl{margin-top:18px; background:var(--panel); border:1px solid var(--rule); border-radius:4px; box-shadow:var(--shadow)}
+/* ---------- 최신순 보기 ---------- */
+.tl{margin-top:16px; background:#fff; border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); overflow:clip}
 .daysep{
-  position:sticky; top:57px; background:var(--panel-2); border-block:1px solid var(--rule-2);
-  padding:7px 16px; font-size:12px; letter-spacing:.06em; color:var(--ink-2); font-weight:500; z-index:5;
+  position:sticky; top:var(--ctrl-h); background:var(--navy-soft); border-block:1px solid #d3ddeb;
+  padding:8px 18px; font-size:13.5px; color:var(--navy); font-weight:800; z-index:5;
 }
 .tl ul{list-style:none; margin:0; padding:0}
-.tl li{border-bottom:1px solid var(--rule-2)}
-.tl a{display:grid; grid-template-columns:86px 1fr; gap:14px; padding:11px 16px; text-decoration:none; align-items:start}
-.tl a:hover{background:var(--navy-soft)}
-.tl .who{display:flex; align-items:center; gap:7px; font-size:12.5px; color:var(--ink-2); font-weight:500; padding-top:1px}
-.tagpill{font-size:10.5px; color:var(--ink-3); border:1px solid var(--rule); border-radius:999px; padding:0 6px}
+.tl li{border-bottom:1px solid var(--line-2)}
+.tl li:last-child{border-bottom:0}
+.tl a{display:grid; grid-template-columns:96px 1fr; gap:14px; padding:12px 18px; text-decoration:none; align-items:start; border-left:3px solid transparent}
+.tl a:hover{background:var(--bg-2); border-left-color:var(--orange)}
+.tl .who{display:flex; align-items:center; gap:7px; font-size:13.5px; color:var(--navy); font-weight:700; padding-top:1px}
 
-footer{margin-top:34px; padding-top:16px; border-top:1px solid var(--rule); font-size:12px; color:var(--ink-3)}
-footer a{color:var(--navy)}
-@media (max-width:520px){
+/* ---------- 안내·바닥글 ---------- */
+.src-note{
+  display:flex; gap:10px; align-items:flex-start; margin-top:28px; padding:14px 18px; border-radius:12px;
+  background:var(--blue-soft); border:1px solid #bcd6fb; color:#173f7a; font-size:14px;
+}
+.src-note svg{flex:none; margin-top:2px; color:var(--blue)}
+.site-foot{background:#1d2433; color:#aeb7c7; font-size:14px; margin-top:48px}
+.site-foot .wrap{padding-top:28px; padding-bottom:32px; display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap}
+.site-foot img{height:36px; width:auto; opacity:.95}
+.site-foot .fi-txt{flex:1; min-width:260px; line-height:1.8}
+.site-foot a{color:#dfe6f3}
+.site-foot .copy{color:#7f8aa0; font-size:13px; margin-top:6px}
+
+/* ---------- 반응형 ---------- */
+@media (max-width:1100px){
+  .stat-row{flex-basis:100%}
+}
+@media (max-width:760px){
+  .stat-row{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .util .wrap{display:none}
+}
+@media (max-width:640px){
+  :root{--gutter:16px}
   body{font-size:14.5px}
-  .wrap{padding-inline:14px; padding-block:0 48px}
-  header.mast{padding-block:20px 14px}
-  .mast-meta{gap:14px 18px}
-  .controls{position:static; gap:8px}
+  .brand .jbe{height:30px}
+  .brand .bar,.brand .svc small{display:none}
+  .brand{flex-wrap:wrap; gap:3px 10px; padding-block:10px}
+  .brand .svc{flex-basis:100%}
+  .brand .svc b{font-size:14.5px}
+  .masthead-row{min-height:0}
+  .btn-home .t{display:none}
+  .btn-home{padding:10px 12px}
+  .hero{padding-block:22px 18px}
+  .lead{font-size:15px}
+  .stat-row{grid-template-columns:repeat(4,minmax(0,1fr)); gap:8px}
+  .stat{padding:10px 10px 9px; border-radius:12px}
+  .stat b{font-size:19px}
+  .stat span{font-size:11.5px; white-space:nowrap}
+  .stat.time{grid-column:1 / -1; display:flex; align-items:baseline; justify-content:space-between; gap:10px; padding-block:9px}
+  .stat.time b{font-size:14.5px; padding-block:0; order:2}
+  .controls{position:static; gap:8px; background:transparent; backdrop-filter:none}
   .search{flex-basis:100%}
   .seg{flex:1 1 auto}
   .seg button{flex:1; padding:9px 6px}
   .daysep{top:0}
-  .tl a{grid-template-columns:1fr; gap:5px; padding:11px 14px}
-  .mm b{font-size:18px}
+  .tl a{grid-template-columns:1fr; gap:5px; padding:12px 14px}
   .items{max-height:340px}
   .office h2 .full{display:none}
+  .site-foot .wrap{flex-direction:column; gap:14px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important; animation:none!important}}
 </style>
 </head>
 <body>
-<div class="wrap">
-<header class="mast">
-  <div class="mast-row">
-    <h1><span class="sub">전국 시도교육청 일일 동향</span>교육청 브리핑 보드</h1>
-    <div class="mast-meta">
-      <div class="mm hot"><b class="mono" id="s-new">–</b><span>오늘 신규</span></div>
-      <div class="mm"><b class="mono" id="s-all">–</b><span>수집 건수</span></div>
-      <div class="mm"><b class="mono" id="s-press">–</b><span>보도자료</span></div>
-      <div class="mm"><b class="mono" id="s-ai">–</b><span>AI·디지털</span></div>
-      <div class="mm"><b class="mono" id="s-time" style="font-size:14px">–</b><span>최종 수집</span></div>
-    </div>
+<a class="skip" href="#out">본문 바로가기</a>
+<div class="util"><div class="wrap">
+  <a href="https://www.jbe.go.kr/" target="_blank" rel="noopener">전북특별자치도교육청</a>
+  <a href="https://www.moe.go.kr/" target="_blank" rel="noopener">교육부</a>
+  <a href="https://www.keris.or.kr/" target="_blank" rel="noopener">한국교육학술정보원(KERIS)</a>
+  <a href="https://paper.jbedu.ai.kr/" target="_blank" rel="noopener">AI 디지털 활용 연구학교 보고서 지원</a>
+  <a href="https://leading.jbedu.ai.kr/#/" target="_blank" rel="noopener">AI 디지털 활용 선도학교 운영 지원</a>
+</div></div>
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <a class="brand" href="./" aria-label="교육청 브리핑 보드 홈">
+      <img class="jbe" src="assets/img/jbe-logo.svg" alt="전북특별자치도교육청" width="208" height="38">
+      <span class="bar"></span>
+      <span class="svc"><small>전국 시도교육청 일일 동향</small><b>교육청 브리핑 보드</b></span>
+    </a>
+    <a class="btn-home" href="https://www.jbe.go.kr/" target="_blank" rel="noopener"><span class="dot"></span><span class="t">전북교육청 누리집</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
   </div>
 </header>
 
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <span class="eyebrow">전국 시도교육청 일일 동향</span>
+      <h1>교육청 브리핑 보드</h1>
+      <p class="lead">전국 16개 시도교육청의 보도자료와 교육 뉴스를 매일 아침 자동으로 모아 교육청별로 보여 드립니다.</p>
+    </div>
+    <div class="stat-row">
+      <div class="stat hot" style="--c:var(--orange)"><b class="mono" id="s-new">–</b><span>오늘 신규</span></div>
+      <div class="stat" style="--c:var(--navy)"><b class="mono" id="s-all">–</b><span>수집 건수</span></div>
+      <div class="stat" style="--c:var(--blue)"><b class="mono" id="s-press">–</b><span>보도자료</span></div>
+      <div class="stat" style="--c:var(--teal)"><b class="mono" id="s-ai">–</b><span>AI·디지털</span></div>
+      <div class="stat time" style="--c:var(--yellow)"><b class="mono" id="s-time">–</b><span>최종 수집</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap">
 <div class="controls">
   <div class="search">
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
-    <input id="q" type="search" placeholder="제목·기관·키워드 검색 (예: 고교학점제, 늘봄, AI)" autocomplete="off">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+    <input id="q" type="search" placeholder="제목·기관·키워드 검색 (예: 고교학점제, 늘봄, AI)" autocomplete="off" aria-label="소식 검색">
   </div>
   <div class="seg" id="period" role="group" aria-label="기간">
     <button data-v="1">오늘</button><button data-v="3">3일</button><button data-v="7" aria-pressed="true">7일</button><button data-v="0">전체</button>
@@ -199,11 +284,20 @@ footer a{color:var(--navy)}
 <div class="tagrow" id="tagrow"></div>
 <main id="out" aria-live="polite"></main>
 
-<footer>
-  매일 자동 수집 · 출처는 각 시도교육청 보도자료와 언론 보도이며, 제목을 누르면 원문으로 이동합니다.
-  <span id="foot-note"></span>
-</footer>
+<p class="src-note">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+  <span>매일 자동 수집 · 출처는 각 시도교육청 보도자료와 언론 보도이며, 제목을 누르면 원문으로 이동합니다.<span id="foot-note"></span></span>
+</p>
 </div>
+
+<footer class="site-foot"><div class="wrap">
+  <img src="assets/img/jbe-logo-white.png" alt="전북특별자치도교육청" width="199" height="36">
+  <div class="fi-txt">
+    <div>정책국 미래교육과 AI·디지털담당 · (55065) 전북특별자치도 전주시 완산구 홍산로 111 · ☎ 063-239-3215 (평일 09:00~18:00)</div>
+    <div>이 누리집은 전국 시도교육청 소식을 모아 보는 업무 참고용입니다. 기사 내용의 사실관계는 원문으로 확인해 주세요.</div>
+    <div class="copy">Copyright ⓒ 전북특별자치도교육청. All rights reserved.</div>
+  </div>
+</div></footer>
 
 <script>
 const EMBEDDED_DATA = null; /*__DATA__*/
@@ -313,6 +407,12 @@ function wireSeg(id, key, cast){
     render();
   };
 }
+
+// 최신순 보기의 날짜 띠가 고정된 검색 막대 바로 아래에 붙도록 막대 높이를 CSS 변수로 넘긴다
+const controls = document.querySelector(".controls");
+const syncCtrlH = () => document.documentElement.style.setProperty("--ctrl-h", controls.offsetHeight+"px");
+if (window.ResizeObserver) new ResizeObserver(syncCtrlH).observe(controls);
+syncCtrlH();
 
 function boot(d){
   DATA = d;

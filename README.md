@@ -118,7 +118,9 @@ collect.py                     수집기 (여기가 본체)
 to_notion.py                   노션 업로드
 discover.py                    보도자료 게시판 주소 찾기 도우미
 sources.json                   16개 교육청 설정 + 분류 낱말
-docs/index.html                웹 대시보드
+docs/index.html                웹 대시보드 (전북특별자치도교육청 누리집 디자인)
+docs/assets/img/               교육청 로고·파비콘 이미지
+docs/favicon.ico               파비콘
 docs/data.json                 수집 결과 (자동 생성)
 docs/archive/YYYY-MM-DD.json   그날 새로 잡힌 것만 (자동 생성)
 .github/workflows/daily.yml    매일 자동 실행
