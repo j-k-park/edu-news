@@ -1,0 +1,5521 @@
+{
+ "date": "2026-11-17",
+ "items": [
+  {
+   "id": "36b62df77010d66b",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "\"반복업무 줄이고 오류 막는다\"… 동부교육지원청, AI 활용 공모전 개최",
+   "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192618&step1=3&step2=1",
+   "date": "2026-11-16",
+   "source": "공식 보도자료",
+   "kind": "보도자료",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fb7b49afb7f0eafa",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 전환기 대비 학부모 교육 온·오프라인 운영 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00d2VWQ0c2NmtOREhEQl9CRm5nS3owTHVFM3Y0SEpZclRGd1VyVkxWb1ZtSE1UeWtyeE50VGtTMTJyZHB6YnQ0NlltdE5fcDNzN0wyZnM1eUJjQXFnMTVEWm43ZWtjeVFTLWo1dk1Gb9IBb0FVX3lxTE00d2VWQ0c2NmtOREhEQl9CRm5nS3owTHVFM3Y0SEpZclRGd1VyVkxWb1ZtSE1UeWtyeE50VGtTMTJyZHB6YnQ0NlltdE5fcDNzN0wyZnM1eUJjQXFnMTVEWm43ZWtjeVFTLWo1dk1Gbw?oc=5",
+   "date": "2026-11-17",
+   "source": "머니투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "dec176361475b6b3",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 학생들이 진로교육서 익힌 연기·연출 역량…실제 공연으로 선보여",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMkZkdU5VRlppUmxTb05KeEM1UHVYb1BQTm1vak5zY3JOMXB0S2t4SlRTczBXTTZZM1Y3Rlpxckt3V3QzTk55bFUzeUZYWllLVmNjem8zTDh6N2Z1VFhvaWRPbkx5QQ?oc=5",
+   "date": "2026-11-17",
+   "source": "한국대학신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "64ea26d9fa2e7793",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 예비 초·중·고 학부모 교육…정은표·조병영 교수 강연",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQjI3T1JxZkd3MFNGNU9QMWI2cDA1VzBxNDl2VklMYjZsZnBHTzI4T1lRMUctNEdBem5PQTdzYkdXU2JwbFZNeDM1c05vSHRsamw3ejRtdVVjaFUx?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "53b9924a1e60c983",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 행정심판위원회 제도 운영 만족도 설문조사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mUkduT2FBQUY2WW04eVV0RXBzNmV0WjdJMWt3ZnoyeGpnUXdhSS1jLXRVTXdPbXBCRmp5MnlzM1J3ZElITkYwREx4LUFiMVVtWFNhQVJQMWxDNFNLdU9QMU16QVZqLVNrdnJuYXNzZm4?oc=5",
+   "date": "2026-11-16",
+   "source": "성동저널",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "12cf32b4bd7c5e68",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 긴급돌봄지도 배포…초등학교 609곳·기관 714곳 연결",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN1hhUVhYWkd1Umt1X1Izb3RxYWVZZmVFRFpiZ2lCLXJDOWlIQndBSWdON1E2Z2laUW8zald6TWhMVHVaTEJOaDJFWF9oWDVESndDWmZ1d0ZEeUh2eF96aFZEMmNoUQ?oc=5",
+   "date": "2026-11-17",
+   "source": "한국대학신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6f83d5543eb346e8",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 멈춰선 만학도 배움터 살렸다",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOU1Z4WGxxZ1VISFN5SFdnS1JUYlJucjNDY09tSmR5WlpuM0ZlX2xCOF9ZTlBDTXRydlFvVFI3b1JRbW1VcjkwVVNDeklNenJTT1h6VTRZTWpULWhxamJ2SDhacnI0Zw?oc=5",
+   "date": "2026-11-16",
+   "source": "이로운넷",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "509c7e7d3749ba39",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 청소년극단 창작 뮤지컬 공연…교육취약학생 119명 진로교육 지원",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SM2Y2a0lWWC1IOVBreE9zeGl2RzZqU3NNMWc1R0xyOEFjb3F1MFpMZWphNW9yNGFqc0xEU1pEV3J5djhsdmZQaUxubmNsTExCWmdQaU1sZUp4aUNa?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ae988bdd01ae5dee",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "시민의 목소리로 행정심판 문턱 낮춘다” 서울시교육청, 2026년도 행정심판위원회 제도 운영 만족도 설문조사 실시",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mQ2cxSTBGemhrZzhsYUZzWFRXOGY2b0t4anZ1LVE2Y3lOLWx5SGtWVkR5TEd0NjVTMWRLOWJpX3ZqTTk5Z19ydHp6SUVQbkpJZ3oycg?oc=5",
+   "date": "2026-11-16",
+   "source": "성광일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "45cc7b6f67c83032",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 만학도 배움터 운영 위기 막아…85억원 적립금 동결 해제",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rZi1UaWVKNmo2bDNqSXI2M3ZTeFV0YVRrejZfUVFGZ1pheExiRGxJY3BWM19KNzAzdXl0d0lrQjk0ZHVaNW1pc3p3Yl85X19yYXB3YWRIZkhKb2gyOGFWNGdLdWRoZw?oc=5",
+   "date": "2026-11-16",
+   "source": "한국대학신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c9ea5e7d93e4f0f2",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, '긴급돌봄지도' 배포...서울 초등학교 인근 돌봄기관 한눈에",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pR0twSzUyU2p1MW9hWU9YT0tjekttMDNhQTVyV2NMNTM1SG02V016d2pzbDVpd29jUU9NQ1pmd0lENlgtaGNQa0tvZjloajVMbnNRR1lUbUdFYmJKZHA3NElJUVRDdw?oc=5",
+   "date": "2026-11-16",
+   "source": "이로운넷",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a72b1bf829df5b4a",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청 예비 학부모 교육 개최…정은표·조병영 교수 강연",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56eTNxcURELXdLSnY0MW85Rmc0WHFVaHByV0F1SGwzTFhsSEVGcEpsR3ktbEswXzM0LWpkdnZWVEtEcFZqMUo0NjNpUVFiRlhqd1lZb1NObmpnejYtMGhLZlpLQXZNLVQ0?oc=5",
+   "date": "2026-11-17",
+   "source": "https://www.2news.co.kr/",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e699cddb02d2c8e3",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, AI 활용 서·논술형 평가 혁신…학생 300명 참여 '생각을 쓰는 캠프' 운영",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RazFIaDRacDJOUlFidHVXVXZMYlp1dnluUmpuMVRFMDdiTVNBUGNnME9SSDMzejBWOU5oX3U5QkV6MlAyWHBGd1VwWmxFOWxadUJCQ193Z3VjOFE?oc=5",
+   "date": "2026-11-16",
+   "source": "데일리연합",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8c9daa0c14d5e287",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "[서울시교육청] 반복업무 줄이고 오류 막는다, 동부교육지원청 AI 활용 공모전 개최",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6Vm5qZm1pcTZTaDJoYUR2SkQ2bEZrdmh0R0V3d2U3a3RSeXhjWG9FSUxpNnE2X0pZNllwaG5rdGJqbHdv?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b68c899b5a9a5691",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 85억원 적립금 관리 길 열어…만학도 1000명 학습권 보호",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ocUljV0ktZnFlWXNIZWdNa1dPaGFXN3VLR0tMZXEwdnE1ZWxRWE5kYVJKVXdlLWk0cUJWVmdMdDFZS1FTTjJyR05qUWFraXJVZ3hqOFBSVXEwVjhXMnpsSnF0MjMtaWdQLU52U3pTOA?oc=5",
+   "date": "2026-11-16",
+   "source": "대한일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a3d63408182f6376",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 클릭 한 번으로 인근 돌봄기관 찾는 긴급돌봄지도 배포",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9hRkxlMWZLUEpiVTBxQVkzcW45ZTdjSHdWNVRZOWY2NHJRdnE4NWs4ZFBMYllFbXFSTm5PUG5TRk9MRG1u?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cea55dd0ca8b45c6",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, ‘긴급돌봄지도’ 배포…서울 초등학교 609곳 주변 돌봄기관 한눈에 확인",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdGdRZzNvZzZ2c25aVXJJOHlLWXBsSllwTXlrcF8zdW9XMmpaVmhKOS14UGtPOVRaY2VwMldUeS1VOEVxYlVIMFBwVlNubkNFd1dSajR0RXV6dWN5NXdrUEdTLTNDeFdPa29lWVBQc3I?oc=5",
+   "date": "2026-11-16",
+   "source": "한국강사신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "88660cc4ee73bcc9",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, '긴급돌봄지도' 지도 배포…'주변 돌봄교실 한눈에'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NUlkSjE1Wk9YUWMyUG5ObTdvajhQOEVxaDRFUHRnOGdGUURCemN3dTFsM2VWR0pvV0hDZ01FWHAyZ2VDQzRZcVBPRm9rVm5nV1l1NUwxR0J4dWZlQlBWSw?oc=5",
+   "date": "2026-11-16",
+   "source": "메트로신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "eda88cbdf1d05aa5",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "학교 문 닫아도 걱정 뚝…서울시교육청 '긴급돌봄지도' 배포",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtS2M3UjdKTWZKS0FGeVN5NG5PQm1mSU1GYzBhNzhOYjI5ejdVSHc0dGl5R05GdWJwbVJveHRycnZFYm9sSURhMWp3b0I0VFUwajlSb2dBRTNvcVNRSTJBOXpMXzU0X1NC?oc=5",
+   "date": "2026-11-16",
+   "source": "https://www.2news.co.kr/",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "443ec35a6b6681bc",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 초등학교 609곳에 '긴급돌봄지도' 배포",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04Wi11WU1KbVlmUGY1UU9TOW1hZVhHN19RQjZWWUVLR0RSZlhQLW5jdHpFdjR0UUdGVEtLVzMyZ1pQQzUtaW9jbjBOcEExamEyNU1TbXd4SUZkbE5oM0U4b0tTMlJYTnE5RnlhVGFheG3SAXRBVV95cUxQWlZnUEE4TGZIa0J6ajF6RVJwVGtBMVVDb0Z1eVJfeXFTYTEydHlJQ29VWXU5cjRvRUVIalpuaUg1Sy1nVUFJUDl3a3RhV3pqZlIwcWtnWmFPMnNKd3p0Mk5FVElPdVBYU0V5ZXV5MDVRRkg0Uw?oc=5",
+   "date": "2026-11-16",
+   "source": "주간한국",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f69ca0a59422e5da",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 인근 돌봄기관 찾는 ‘긴급돌봄지도’ 배포",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmdLOWVzNVoxS29KZVRadnBGT2plTndka2xxSmpCazJaSjl5bXVQMzc0Um5hOGtRSE5ud20yUm5GZzVHUVFLMllyN0I4MTNlejk0RnR0V0hyTnVYS0hmYUpZM1dTNTJKZ0gyMGZVNTdwVndPUGdpMU5vSjYtQkRWMQ?oc=5",
+   "date": "2026-11-16",
+   "source": "이데일리",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "70c15db595a2da7f",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 행정심판 재결례집 발간으로 교육공동체 권익 보호 강화",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XUk1CbzdBZmxzS0RBcGpoMTdNdFZSajdnMXhFaVptT0xzXzFwTVVXekQ1dGhhSC1kRzRRMjl6UVRNNU1EMWQxOWp4MzJoV0hSY2hWdQ?oc=5",
+   "date": "2026-11-17",
+   "source": "성광일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "197c31a0847a5de9",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 초등학교 609곳에 돌봄기관 한눈에 보는 ‘긴급돌봄지도’ 배포",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yQjFqZmY4NFA0dHdaRl9kTFgxRUMxU2xrbXQ1OFlaZklDaXlJNzllUmhtdTl4dWVLYmNVTnh0VnRHdGZ0MVZYRkwyU2FRZ0c3U2dSd3l1aWJJT0pmd05mXzI1dm51R3Y0eC1FaC1n?oc=5",
+   "date": "2026-11-17",
+   "source": "전국매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ab13c1a5d4d18113",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 우리금융미래재단·굿네이버스와 손잡고 “우리 함께 무대로”청소년극단 발표회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xYmZUVmJzVlNMem1ITW5NY1lQakRWSFFuNlM1YXBDQ3h6MUVYdUdZMGpXeXBfcTd5YUN3Sm9mYlJHdndfclp3MlNDcw?oc=5",
+   "date": "2026-11-17",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0dce1e85e025b01f",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "학교 이름만 검색하면 돌봄시설 한눈에…서울교육청 '긴급돌봄지도' - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13bF9zcGcyQ2R0QjE3OXV5TmdCaHhBNlZ3dm5nN0ZJTU5mT1pRWG1lbEFNbjkxZi1LalhNMkwwTGhvQVNweXd0Wnlyakoya2xMWGUzeXprMXRzX01UTEhhY3BJd2pON09DQmfSAW9BVV95cUxQWjMtMk8zX040eGZhTmFtd3pqM1ZzYk5TRjlhdFhEUVFhazRvbHA4NDY4LXVmcW5yYmN3ZXZCWXUxazhjUl9kQy1PaVhVQmdDWm9MRDBVMDhycFZwSHIxT29XMVA3eFhja2dxM19LdVU?oc=5",
+   "date": "2026-11-16",
+   "source": "머니투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설",
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fc5ec4143446b122",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "전환기의 배움 설계, 학교와 가정의 동행” 서울시교육청, 전환기 대비 학부모 교육 운영",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CUUNkOEJmUVlNRFJkemRnc0Q2eEJ0YlE0SG9sV2pjLVFpT0l0WUtnQ2dRLUhqZmJRZDEtNW1vY3RIeUpyc0VuTVFn?oc=5",
+   "date": "2026-11-17",
+   "source": "미디어투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8d0615f805d9f0a2",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "“갑자기 아이 맡길 곳 없다면”⋯서울시교육청, 긴급돌봄지도 구축",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTm5HMWRtd0s2MHNxc21rWXA1YTdKQkhFN0ZETXk3NG5BVjFVUzktOFR6N3ZwZHIyb2RPaWhHS2lBU21WS24wSkRFbml4dzFUMVZ5bg?oc=5",
+   "date": "2026-11-16",
+   "source": "이투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "66d0fdaa83ac65d2",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "무대 위에서 펼치는 학생들의 꿈⋯서울시교육청, 창작 뮤지컬 개최",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zOGFRSEZuN2hmQVNJRzQ4bWVueGpBZXhDOF9kQVcxc0RWcWJhWVdfLUxHdjFHSUwyU3R1dFl0dVlpVENNRDZHOEoyMVlrV3NJOUpoQg?oc=5",
+   "date": "2026-11-17",
+   "source": "이투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "284d5385ae87f929",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 학생참여단과 교육현안 직접 논의",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYjhVdVRVVTVzT1E3TExvWnlFbHpMZ2xSWC1BdWFVR21iXzRXbk1vV1RMZGIwTUlXNk0wYkk5N0I5Znd6V0FLUVBJWVhSZkJYck5TTEV5b3VHQnZ5dVdWSUg5N2NzMDBZcVlESDZmUFIwcWPSAXdBVV95cUxPY3RNVzEwM2lKZGlZTlV3MGp6cHlObEFITzd3NF96UDVNRHZqeUJtaGpwbEd0d1ZGbEtUZHhTZHd0aVRJNW1CX3lFVF80OUxpYkZqV2xHVEt4R0RWMXBqdkowOXc5dmNWcEg3ckRaS0l4S3k2YzQzNA?oc=5",
+   "date": "2026-11-17",
+   "source": "핀포인트뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "736a7744320803c4",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 청소년 창작뮤지컬 무대 연다",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMaTY3TlJNejBoZjFObjRqWlR6UzRKVjJvbTBXNjVqN0o3aUNGY3I4aG1GSHdkdDhrZHAwV01TaUd6OUFWRjhBQWJQUkY0dTBwcUJCM2VOY2RxYXZDQUNxalBHaWdibzJCd3V6TWhZR2pISVnSAXdBVV95cUxQV2NaU01MeFZlck1hTHczbjRaLWxfVm1TXzJhR1FUZ2F2amFJazFSRUUzSHBxTG9WT0UwTExKaUR1VGJnQW9wVE1vQklYSGdXeEp5UzZkMGhCNHc5QmNkRXBTaUczS3JLSkFUME5iZGdNaUNqTXNjaw?oc=5",
+   "date": "2026-11-17",
+   "source": "핀포인트뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1abb5579222ddd76",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "공연 보던 학생들이 직접 무대로···서울시교육청, 문화예술 교육복지 확대",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUHduU0dOak5fVUJOaFY1aFdWR0VxWjhyTkEySVFtcG1NV0ktaE5jZDJTbmV4TG5KV1FQeXZ1b3hCQUs2X1lvLU9yUDRfbHdfYlgyWTRMY1QySmJQbnBDZ3FKYjNiWEFqaFRRbGEtZUZfYkXSAXdBVV95cUxPUUlLblFyc205WWhLSVh0UGRiQWdOdzBFa0JoZ3dnUkZBckxQZzJHV1d2em9HZk04Y0NBTjBQVUE1cHBrWHQ3a3BhZUo1VTRZbnR0LUpzc0lrYm42RU9HODk1MTZHa2k5OFktYkh5V1N6QnJHc09Mdw?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스프리존",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "432a47dda3c4078c",
+   "office": "서울",
+   "office_code": "seoul",
+   "office_full": "서울특별시교육청",
+   "title": "서울시교육청, 청소년 창작뮤지컬 무대 연다…‘우리 함께 무대로’ 발표회",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52bm9TQk43TXJrckNtTFo0SDFQdXdJb1dtQjk5eEVpdFNqME95dWR3Z1Z3T3g5VWZOUGMtS2QyTDZOaHRiX0M4UFJIZU13OF9KcnNXdFdncnlmLVBad1lNYlhENENKVGRId1FkRXp3?oc=5",
+   "date": "2026-11-17",
+   "source": "전국매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6782ac1991fd104f",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산교육청, '학교급식-영양·식생활 교육 성과발표회' 등[교육소식]",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mS0dRVEE1UFJCVE1PWjRYTWhzdUxlS0JjQ1VQSzFROVJtV3M2OVg5SlN6ZE1wa1hZWDdnemhQengyUXoyWTlxUXdUQlBMVHBBZUYyQXVsWUp1a1NwMDVVMVRGMExycVVTM0N6Q2RDUUJtSWxtaUdSZtIBeEFVX3lxTE1mS0dRVEE1UFJCVE1PWjRYTWhzdUxlS0JjQ1VQSzFROVJtV3M2OVg5SlN6ZE1wa1hZWDdnemhQengyUXoyWTlxUXdUQlBMVHBBZUYyQXVsWUp1a1NwMDVVMVRGMExycVVTM0N6Q2RDUUJtSWxtaUdSZg?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e5afb3598b82bd91",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "“선생님, 고맙습니다”…부산시교육청, 제20회 선생님 자랑대회 원고 모집",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5panBfNGV2dXJNV1lVd0dmMmhVNDRRNENtZE1rcEU1WnBXS3FyUHlnd0dLRkNYNWRPa2RPeVlvbkhVQ1lLQnRFOGVBSXRHRnhXd2x6elJ0WGFsYTZjLVlfSFZUak5pYXps?oc=5",
+   "date": "2026-11-16",
+   "source": "복지TV부울경방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "57d2b56400a76bfe",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "[부산소식] 부산시교육청, 18일 학교급식 성과 발표회",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYlR0c2lUdlRSa3pSZDRkWW1MRDFqeXpkY2xhY21yWEZSVUV2QWlUaVJ6Zm5lX0t3T0tsVjllX1p3N2JlSEQ1blFkRGFhT3Y3RjlfVTd0RzExVzTSAWBBVV95cUxPOTBXWlJYSkt0WFlZdjdfTmZ0X2NfLWEzTE55QnJ3Tm12ZzNMa3paOGE5bHJyNU00TTI0WENWS0R2NzBMVHVwM3dnMlVwTXNLY1RFa2pkNzRxSFZrOG5PMHU?oc=5",
+   "date": "2026-11-17",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5b00002d802e449e",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산교육청, 특수교육 위기상황 긴급 지원",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nNUN1c2pNTDBQZktfZ3E4QlFFMXF5aG94YkVmdG9iMG83elZFTFpYQ2FGRFlxODd1YmJjdVkzeTIxYk9sdWNkZjF0ajFKMDNYcGpmVjJuOHVTZ1JCdXN2NXU4WmdFMlJEREZrUnEzWnQ?oc=5",
+   "date": "2026-11-17",
+   "source": "SK브로드밴드 회사소개",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "29ba72caea3640b3",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산시교육청, 특수교육대상학생 행동 위기 '긴급 지원' 체계 가동",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOaUVZWnNSb2VVSzFodTJEMEFpZjMzMjQwWG00amtGYWFKeDZMYzdXemk2ZlROcTh0SC1ITTJsaVp2dnlNZllzRXB0eGtFZkZQOHVzRE1tcW1RV3J2N3dJWGZZc1N2VHdSNGxlRTZHdUE3TmM?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스프리존",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "202bc8d1aa5220a5",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산교육청, 학교급식·영양교육 연구 우수사례 공유",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzXzhacTdTUC1NeGRCZGVkUHROSzRwaHdMNTZzbzRhRDlSR2lVeXc0amRUQmJQU0lRd29sNVJOd3VodnM1UlVjT3NpUTNwd3NCeEgtSGVORjlwdw?oc=5",
+   "date": "2026-11-17",
+   "source": "파이낸셜뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6f685e53c6ce8117",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "[위클리오늘] 부산시교육청 소식 (11.16)",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83b3MwOF9UQ3cyVTF6bnpUMTlsX3MwcVNmLVNtZUR4Z2RfLVcyeXk0ZDR5Q0pwVVN4MkhKOVVnaHQ1Y2Q0Z3NScmJOaHMya0ljZFlab1NxZy1QdlJVTVBBQW5KNXB5b3R4NzVpN2IwZw?oc=5",
+   "date": "2026-11-16",
+   "source": "위클리오늘",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "032358c096fe867c",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산교육청, 학교급식·영양교육 연구성과 공유…600여 명 참여",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90U1RlT1VOcG1pUk1tYVFNaERqMDZOVlBmOEFxUVpHZElKNk1tTFRUOFlVYWZRSGhNbzlobFdRbjF3aTNLX3FBMU03Q2RjZVBxeUxDdHJaU2hvajV1blVyTzJBOA?oc=5",
+   "date": "2026-11-17",
+   "source": "국토일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여",
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7e3a77f43acecb5d",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "[부산 브리핑 모음(11월16일)] 부산교육청, 사립학교 사무직원 채용 경쟁률 22대 1 등",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qSGxyWlRhMlZvR3E0OTRVdGhpYlhuZUlvODJQLVkzanliQm5YMHgwVWZBR0VhRnFvSEpNbElJeEp2c2d5VmJrYzFERkJBdHZBUUJHZG9UdDAySElzcmplLUNnblhNck4wdlgyNHlTdVdkX1BR?oc=5",
+   "date": "2026-11-16",
+   "source": "대한경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "af91a20298051469",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산교육청, 학교급식·영양교육 현장 연구성과 공유…우수사례 확산",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HbFpPZ2JpM3JEQ243V2V3V0VpWVJWVlFmekxXdU04b05seHp1UW5UdjIwMTJsQVpZcnQtSWNmZkpOa2VBaTBVNXFtR291ODZhQll1ekZId1dwSV9rVDRKeE9vOGtkSGNQdnNN?oc=5",
+   "date": "2026-11-17",
+   "source": "CNB뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "910551446f869bf1",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "서성부 부산시의원, “교원 행정업무 경감, 지원 실적보다현장 체감이 중요”… 부산교육청 실질적 개선 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03VVotV2p0MG9Va0kxNGFaZFRINkY3T3VCQ3FzSzFIcDRiYllhRVVOS2hxRWt2X1lGMzdVa2Qtb2ctNGR4RzE4Rld2T1RqY2dYbmxfemxxcEdLcXFS?oc=5",
+   "date": "2026-11-13",
+   "source": "누리일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "32f663fdde75cf18",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산시교육청, 학교급식·영양 교육 성과공유회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DV1BCOWdkZzVrLXhKWVhnel81dS1VUExGUHlTcWNiX09QRmtpLTROM0xMSHJPOXFkbDAzcTNzdWw4MGl2UjZvUkdjaw?oc=5",
+   "date": "2026-11-17",
+   "source": "아이뉴스24",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cb91a57994f9bd37",
+   "office": "부산",
+   "office_code": "busan",
+   "office_full": "부산광역시교육청",
+   "title": "부산시교육청, 특수교육대상학생 행동중재 긴급처방 나서",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1Z2pDdl84NnhHZG9oMXRmakZrNG45aER5LThPeUNKWEVsamltVGY5c2wwNzlRREVnZldsNGRZelh2Z2I1RnNKdjRtQ2c?oc=5",
+   "date": "2026-11-16",
+   "source": "아이뉴스24",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4029faba2dedafd5",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "대구시교육청, 중3 '마음성장' 집단상담",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXZ1M1clVPZEx0d19sM2lRMWZ6ZmplQXJFb1JNYXFSOEc1YTlZWGZoNWZDV2hzTmlzUDBrTjJTZ2ZqQ1djN0U3OEQ3bnc1Z1liTXpDdGdZN3RTZ0l4ZU56ZUN0czYweG16WGVvZk13LU5GZVpOb1HSAXZBVV95cUxQV2dTNXJVT2RMdHdfbDNpUTFmemZqZUFyRW9STWFxUjhHNWE5WVhmaDVmQ1doc05pc1Awa04yU2dmakNXYzdFNzhEN253NWdZYk16Q3RnWTd0U2dJeGVOemVDdHM2MHhtelhlb2ZNdy1ORmVaTm9R?oc=5",
+   "date": "2026-11-17",
+   "source": "LG헬로비전",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4866e3e03f8aef59",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "대구시교육청, 중3 마음성장 집단상담 프로그램 운영",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KNTVlQWVlMXZKYmtDQ2VENWFiVVJlRE9rTTE2c0dmU0toUEpwV1lfY1pWRmpGdkpzcW1mTTczY2RBS1dFTkJucmI1TnBuZ1FwSjcxUUJzWTBhMTg?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9ff92629e3348bf8",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "대구시교육청, 장애학생 지원 사회복무요원 연수",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zNk9ENm9pcXJUSGdrQmdDblhXejdnNWgzcE9XOGhtLW1YbGFfRnNrOTlFLWtIaHF0cXRISjhrSWpmc1hNSXRKeVRiQ3NoR2V2QUtjcWttSXBSbk41Vzh5elpwMEhWSmZHcnVIbWpOS3o2MmRoaUHSAXZBVV95cUxOczZPRDZvaXFyVEhna0JnQ25YV3o3ZzVoM3BPVzhobS1tWGxhX0Zzazk5RS1rSGhxdHF0SEo4a0lqZnNYTUl0SnlUYkNzaEdldkFLY3FrbUlwUm5ONVc4eXpacDBIVkpmR3J1SG1qTkt6NjJkaGlB?oc=5",
+   "date": "2026-11-16",
+   "source": "LG헬로비전",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0ccc42b8d6ea4d56",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "대구시교육청, 중3 학생 4400여 명 대상 집단상담 나선다",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZQW9OSno1Y1kzaVhPLVVKSS1SVVgzcW1zNmpxcTc4UUNNMEJ5Vi1rR0NPaXh4MUU3R1BvVHhsenItalVhajFENlM5SWxBRWdmWGFwaG5RSFJYZWRVb19ZbzIzZy1jUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "이로운넷",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "df69a13488f38508",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "'학교급식 우수사례' 대구교육청 최우수…동도초 우수 등[교육소식]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KVFppV05Xek1KZUtvcFFMejdiT2xIV2tDYmJmbnBITklCZ0lMMlBubDNCMktNTUtWMXF3X25TZUJKaEViOVBTX2tTcDhtRm0xTndjU0gwUTZ2RDJVbG9oZ9IBeEFVX3lxTE5VY1FJTWY1UEpFRUVCSW16cXhkam5iRHNBNUE0STBabFBfeGpJZkpOaTNXb1RBbXlvVVlqMEdFWmNHemxzeVZ6SG5oZmNZaXg5ZHRlUUNCOExfcFo4RFpkZVJmbWlna0JKMVZ4bFc3V0dwWUUtWEFMQQ?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a6fc196e98709501",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "고교 진학 앞둔 중3 마음 돌본다…대구교육청, 집단상담 운영",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16UFhxNkJ0OERwWlkzelllb0RPVm9NdlF2UmVXdnUxRkpZczlEQ1Rac2ZyU05IVjVEd2dsR2JOU0lXUHlfSHY1MmZYVVhIN0VOSEltRUVZcnVLeGtNSkNaUUE1Z2lDbURJc0NkNFhHaw?oc=5",
+   "date": "2026-11-16",
+   "source": "경북일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cc4d8d8405c33450",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "수능 D-3, 대구교육청 배종열 장학관 “스마트기기 무관용 원칙·일반 안경 착용은 안심”",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94LUZ3Y3d3YmZrd0RUTk9vLVlOYndJbngweXJZT2lzTkpSczZ5SVdpWWN4Z0lURk44RTBtLXExdFV0XzdzaXBSOXBxUTUtVjZnTHRYdlRZTUR4S2hKSkZ5b0pwZmw0Ukg5UVI0?oc=5",
+   "date": "2026-11-16",
+   "source": "BBS불교방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c7857258ccacb162",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "대구시교육청, 수능 '초소형 카메라·이어폰' 부정행위 막는다",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WdUs5dVl4Zkx2QWtLUUtUYmo2VXVNZ3RqckNtNDMwZ1djaTBKOWlUN1RoUjAxcU5YRHpFeThSX1FxNm1xMjlFSnppUzJXSnlCZ2g2STNBY0RHclA4c2lhc1BMVkc2OVZucURBelFUSHd4YjRx?oc=5",
+   "date": "2026-11-17",
+   "source": "아시아뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "042b2e200622a171",
+   "office": "대구",
+   "office_code": "daegu",
+   "office_full": "대구광역시교육청",
+   "title": "고교 진학 앞둔 중3생 4400명…대구교육청 마음성장 상담",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMVB3VU05MzRYb21FLVJFNVNad2t1YUF1ZHY3ZUk4NzZ3SXpzRVk1N3p0VFJFSE93UUZxMk9OdHdRUmxKN3RjalkydWxHaUdIZVJTckRodlVvMU0?oc=5",
+   "date": "2026-11-17",
+   "source": "더에듀",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "757f105787d8f3ef",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 읽걷쓰 집착 후폭풍 “명칭 변경 필요성 재검토해야”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xckdSRFdPZW9XMlR2LWJrS0l4RXJiVUNoYU04ejZkVlJJM3M4S3J4Qm9xR1BDcmkwWmwxRXFDckNZRXFLUjhzZ3ZEcmQwN1dUZ0NWY2VOOFNuOFN5azY1YV9GWGR2Z1F3TXdfMkU1ZWY?oc=5",
+   "date": "2026-11-16",
+   "source": "인천투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bfc3d9f8ab870128",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 국가평생교육진흥원·국립중앙도서관과 MOU",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBra0I2WjZySTlhdXQzZ29ZUEp0VGhHTFF5MWhDalFlbFhMenB2MkRpdHVRbWFuZGFHU1RwNlJzRWlFR09HR1hCWm1SVHp6SC1GVzBfek5WS1B2S21MMTFrV1RkWF9BXzNzQVp6THVn?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0a0e26f4a29a0a98",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, ‘인천어린이청소년영화제’ 개최…학생 제작 영화 200편 선보여",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zdEVOTE8tMHZGMzhxQS1vZ3VGejROSDJJM1g2TV95Q2tOZkE0TmJYOVBucTgyZ20wdGhuZUljREF2aWstX3ZxSnNHOUkxTlpEc3dRc09GTVdObUk?oc=5",
+   "date": "2026-11-16",
+   "source": "경기일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3d1b8bb394902f9f",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 독서문화.평생학습 활성화 업무협약",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEdWxpRDhOREhfR0JRaHE2bml3YVB3d0xYM3drTi1vUk1UQTBKSHh1a1NzTEFFeTlFX0QzaG5FaU5GUW0tVWlrWUVjY2p3N0xjbUd4ZGdaQTVZWXAtcXZubVdHT1lHWHhiNDlF?oc=5",
+   "date": "2026-11-16",
+   "source": "미디어인천신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e0ed75e92aefa96d",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, '동학년 수업으로 성장하다！'…초등 교원 워크숍 개최",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nZkZHSHd6MU1Lazk1THJhdXMzNjZROHlQUWRjSmdTUnZxVzFQUlNEVlZaRU83bWFUUnlkRUV4SGltb0FlYXpxYXRfdk5tVjhnenFzSzB1Qms1ejg?oc=5",
+   "date": "2026-11-12",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수",
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a9d894dcb93f7e9b",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 전국 최초 8개 학생지원센터 통합…학생 지원 강화",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZYkJKVUZMdFNPX2NGZ1Z4aDRfODlLTUhPU1lYOGhWQlRHN1dCdHk4aXdkNThzdURtcFBHSUx0QTV6TjBOc0RrVVdkUE1KWXA2TGF0dm5TblQzeWZfY09sY0ptYUR6bldfaG0wQ3lxVnRmQdIBdkFVX3lxTE5vNGZ2M05BaVNmcFFjcmRSb3RBaHl6UlBsNm9hU05ZbHZBckR5UEdjZFJONFhvZEdVVXFfUEZqSHFFZjhFcm1rR2lzR0Z2dk9OVjJzNndPUEducmJRdksyUjRxZVJpMDUyOEduWlhYR19CbEpTVUE?oc=5",
+   "date": "2026-11-16",
+   "source": "LG헬로비전",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "83b2ff313f1f35a4",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, '제4회 인천어린이청소년영화제' 개최…학생 단편영화 217편 선보여",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TWXMzMmlaM3gxQm5HSnRfYllMaDdjZmduWUt1N3hESVJQVVpSNGhaWmNNcEpZODJPZVZueVNZdlFGbGhNa0FYUDltbVNzYlBUSEJuekgzUF9JQnc?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "19fe08e5edd19997",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 검단초에 ‘토닥토닥 마음교실’ 10호 개소",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uQ2lpeGNHaG9YYV9CaERnUUctdFlWTVdqWk0wUWhudnQ2eWp6T1Y1U3VQWURYdUtUdjIydnlZd1ZsdnNYaWs5b2JNS3c1UjFITERKaDllRTNadDN4Zm0xLXZUeEU?oc=5",
+   "date": "2026-11-17",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a20aac5c6e30665c",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 2027학년도 특성화고 공동 진학설명회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtT3VxdldDN0RBbWpyOEV4MWZ3R0hnYURMcHF1X2lpNTBDTUhQNmhyTzJiRjRZYjhzTHAzRVRiZFNNOWd0bUR2enoyWUdtREdWWWxNYlVuTGNkbXlvRmFhNUtvZko?oc=5",
+   "date": "2026-11-16",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "416871d4384916db",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 제4회 어린이청소년영화제 개최…전국 학생 작품 217편 선보여",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTTU9YbHZpS0lPeDc2ZGZYNWFhZkdvY29aQUZuNGt2Tm5MV1dHZG9HeGt2UHpGdTFxOHlXR2ZWOGIwT1JIdUxjR2ZWQXdMNWFTTjRSS0syV21qRFBYV2hEOUNrUEx5T1dV?oc=5",
+   "date": "2026-11-16",
+   "source": "한국NGO신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c5933b1a50182717",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 검단초 '토닥토닥 마음교실' 10호 개소식",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9udDBPRmF4VTFDUVJfTjhfRWtQWGxQSnMtTDhEMHV5TXV6Z1ljZl9QZ3pvYWNLYVNtQk93THhjSVRiaDNrdXZZdDZ4X1NWbGZzN0w3dHJ0Q0ZMZ0hRSXB1bmh1bHUzY19KRTc2WGNR?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "059a6eef8acf422c",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 제4회 어린이청소년영화제 개최…217편 출품",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WeUl3cUw0eEhsbk5vc3U3WFZ0dV9pWHNSQWpjWGg1aUg2eGRkaFNjODRfdmVzY08xaHlic0RVZkhSZVNzNG5CT2xCcG9wTGhzTjU5RlpSa1loZFU5dFFKVXhoUmI?oc=5",
+   "date": "2026-11-16",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d450e1241404d6db",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천교육청, 시민 독서문화 진흥·평생학습 활성화 박차",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRFh6VjBFOXJKZHVSNFRaZnpsdG5sdHBHa2RCNEFsSThXWHZIaGsyZE5YZU1pUE5RWDhfR2cwYjZTUnNOTDgwQVFLaGxMVDVYUDBSMGtac2dNR21VQ2YzNjJjUGE3dWJNc01SdVJGbHc?oc=5",
+   "date": "2026-11-16",
+   "source": "인천투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cdd95b9ad99e2920",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 중3 학생 2만 2000명 대상 고교학점제 연수",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKLW9yMGNXUkUxSmxsZ2xUT2Q2WWVEamMxZ2xtRjgzaGF5UDRveGNKbDU5NzllTmNZTkVzMjUzdXp6QWRoZjNhZmtnZ1dONlVzMTBvRnpZaWd6aDd1NG8wRQ?oc=5",
+   "date": "2026-11-14",
+   "source": "메트로신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "2bbbd18a3390f931",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "\"진로·학업 설계\" 인천시교육청, 중3 학생 2만 2천여 명 대상 고교학점제 사전교육 운영",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05QjFZWkhreHNuOUY1Y3Z5UFZQaE9RTmJsVVQtN0V2anJoNVUwbXcwd1VwMTZ1ZnU5cjFJaFFja0JtVGxxTmJqV2J1aU1JaFh0MDlacV90VE9HOUtsdGNSZE5nUHlnWGZaU2dVLWpvUEQ?oc=5",
+   "date": "2026-11-16",
+   "source": "한국강사신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7a16cefdec7362a2",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 초등 교원 대상 ‘교과 교육과정 돋보기 연수’ 진행",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yV1BZc3hfU2M1NHpZMFNpa0J1Z2dCc2QwbjNIamFXS3luOEVEQVJYUElJcE1EZDBqMmZDSTNibmpTaTJadDVDRDAtbnRwLVViTmQyMTQwTHpaMGZqQ09IV09RV1hmOGRSb2c?oc=5",
+   "date": "2026-11-17",
+   "source": "경기도민일보 미디어",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f013da93c16734b7",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, ‘선행학습보다 놀이’…유아교육의 방향을 바꾼다",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QbElBbXhyaThGY2RUSWl4RzJFdzZkUERlT0ZueHNkemxJZldVZ0ZOTVpYWnR1UkVUc3VsbHZLSzB3cnhjbkJlZzNkdVhrX3lXYWthd3NFWnFndndtZFRueVY4U0ljSEl1bmgzVTNJaWlIQQ?oc=5",
+   "date": "2026-11-16",
+   "source": "스포츠동아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8e9f78cfb8a1bfd0",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 제1형 당뇨병 학생 위한 ‘푸름이 캠프’ 개최",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LNTFUX2VFdzBvSEgzVkFoYXp1RUx1aUdDUGU3Y3JQMjRMUkhENnQzTE4yY0Nad1JtOEo3YVpWXzFEQ2FnTHF4RDQtejU2RnlpWldVX2tNMm5ZUDBfQmlIWmRYci15dllfdXc?oc=5",
+   "date": "2026-11-17",
+   "source": "경기도민일보 미디어",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d6ce94d000d7bfae",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "인천시교육청, 『공부머리 독서법』 최승필 작가 초청 '교직원 독서교육 방향 제시' 특강 운영",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QbXZfVUtxbno1QUxaNm9paFZhUlUwM2kwUm53LXJ1T3B0WFhFZkZIZTJYZUFDWjF6YWdpUjVnUDV4M2staWJmUXh4Sjh6YzBYUUFIWVUwT0NuLW02RzdCeGljZlJxRU5TMi15c2hpMTk?oc=5",
+   "date": "2026-11-13",
+   "source": "한국강사신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "30d6172712f23dcf",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "[13일 인천시교육청] 학생맞춤통합지원센터 개소 등",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndjJqTjExMWxPNXdWLS12Rm9UN0tDcWxYQTVnYndlN0pGQ0FtakxsZ3MwNGRMazY0MVJqZEprOTV0WndEb0RyS0dNejFleEhXU2h3UklOT1Z1VFhXU1E?oc=5",
+   "date": "2026-11-13",
+   "source": "아시아타임즈",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "94600240e86aad79",
+   "office": "인천",
+   "office_code": "incheon",
+   "office_full": "인천광역시교육청",
+   "title": "고교서 이수한 학점을 대학서 인정…인천교육청-지역대학 '맞손'",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBNnpkQXFlYXJzUEJraGpTY2dpS0lZSXVRUDFiUEktd0FZTkhJMDVRbEFZcW5sYy1kVk1xUDQ5YnJUTDBxTGFtUHBHYV90aU95aGlOMlFVN2VoZ1nSAWBBVV95cUxNajVyQUFVTG9TamVXU3NxbkRzekhBM0g0dFdiaUFLSHJtQWZVY0RLSEFQRGRmRGR2eEx0WExReWxsQWdWdExRODZJRUJjOVB5N3hKZVBKVEM4MHVBQUw3Z3E?oc=5",
+   "date": "2026-11-12",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "531044a763392b4b",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "[교육소식] 전남광주통합교육청, 초등 학교자율시간 설계 지원 등",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvX2F5dXlveEMtQXRVa3RVMy12VUR0emJlR1JNRmtpWVhmNXFrRzE1VV9RVngyaDUwdWo5cEhmQzlydzc0SmpnSl9SRENqWHVVT0ZUSUY5Ymtsbjl3ekY5ZHJNem5SNzYxcV9zeHd1bDdjMWRZa2VFctIBeEFVX3lxTFBvX2F5dXlveEMtQXRVa3RVMy12VUR0emJlR1JNRmtpWVhmNXFrRzE1VV9RVngyaDUwdWo5cEhmQzlydzc0SmpnSl9SRENqWHVVT0ZUSUY5Ymtsbjl3ekY5ZHJNem5SNzYxcV9zeHd1bDdjMWRZa2VFcg?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d47b356e3e55fb1b",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 퇴직 교사 기증기록물 특별전 '쓰다' 개막",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NFU1TVpnemxsT04wZk9kMjFkNnd6UmpyMFZUQzA2WTJWNGdtUy1OX1g4cVN4aHBjUnVXcWtxS1NoQlNIeGVoNlpGbWhyV1RBQXh6SDZmbG1VS1ZvTV9tMg?oc=5",
+   "date": "2026-11-17",
+   "source": "KBC광주방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a498eb927f67e908",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 퇴직교사 70년 교육기록 특별전 개최",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkc1Fja2NEMlFTZFFKTUViRTNHa3c2UXpldTJQcGgwbEltQlI3aXZjUklFeDgzaTZacmphc2J2U2habkExMHUxa0tHdk96NVZtRDE1a2xhQUdQYlBtWTRNRzlXNHk?oc=5",
+   "date": "2026-11-17",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7aaaf3e3edd2c74f",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 7조7418억원 편성…AI·반도체 인재 육성",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zTk5jY2Jha21WYmJ0WkZpaEY5WU11VjJqck44WjlqNS1panBtTzNreVhxYkkzV3NtalJIMFJ0aEJmZmMtSWVwTFVUb2R1cWwxaXR5Q3h6YTJxT2hmMm94NkdLTmg?oc=5",
+   "date": "2026-11-17",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4bc1bed892ec78e5",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 내년 예산 7조7418억 편성…교육활동 보호 강화",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZmNfY1poYmlvV1Y0MnRrUGZsbTBzYkJyUDBleWJLWDNMemNsZzlyWTlBTGhzWGdvalN5OG9aSEpmR2VXZ0p1a2NLLW9Jc3BTRVFGZmtkYS1MOWtldHBZ?oc=5",
+   "date": "2026-11-16",
+   "source": "MTN 머니투데이방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8279c1f4bb537da5",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청 간부들, 수능 관리에 수백만원 수당 챙겨",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTVUxcnltYXQ2a29JMnVEb0FRZFZYWmp0VXJ0M1FQX2JMcWkxOWpGT3JXd2c2VkJacjRpekdqaW9Sd05EanI4eW5UQTZwNFAzUWd1emx2WGJsNFJmUENrRVc2SEotQzdFTTdkOQ?oc=5",
+   "date": "2026-11-17",
+   "source": "광주in",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0a44c6962d8a2fba",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 직업계고 채용연계 협의체서 반도체 인재 양성 논의",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZTJ0R0F1OXJ4dWhndTNMRHMtWXNIWDVoZ0tBWlpOUjhuSHZRLU8tWGxLaXRubHY0QXJiVE83NEUxekN3VUtkdHE4MVBEc3JMWHozdXZFSzJoVDJXNkh5MDJXYnE?oc=5",
+   "date": "2026-11-17",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "2550328cc3696531",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "수능 감독 교사는 수당 17만원인데···전남광주교육청 간부는 최대 330만원 챙겼다",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjRzNDd5dmFXdkRfbGJINnJKSHhWdXp3ajdHOEdRTG1kaFhRZzJQd3plbll6RUdDNU9abFQ1V1FsTjVFelhJd1ZLWnV6WXNmUkVqdmRjUTZwSnl5eTJSRVVfQ1ZsMERHcmJhbjJHTW5SbEtlaF8tdXdoVzZBeXJUbnNHSi1aUmY0Z003UGY5UFZJZmo4VGZDZktxamtRNV9BazhRSk01OTY4UdIBX0FVX3lxTE9NU2xvOWpjb1JWajE1M005QWg2RDZuT29SR3M1bDVrWHlFWnpHUFlMeHJfcWlaVGRHdGR3STRES3dRamE3azFOVW5IZk5kNFRJVS1raURBWnExVDBpOGsw?oc=5",
+   "date": "2026-11-17",
+   "source": "경향신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6e0e55f6f9791aa2",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "반도체 인재 지역서 키운다…전남광주교육청, 기업과 채용 연계",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBseDM3OElIWFhBZGt2MGRwVkh3Mnp0TlF1TlRMQUJIQjRWNGsxLXFuTndzdDB3Z1piSlRZR0JCS1F4UWVBTlZULWM5ZWhiTDNEUlEzYmQzVDJJYUxVOVpIa01GMzh6WTdPUHozdXprOA?oc=5",
+   "date": "2026-11-16",
+   "source": "진일보 | 전남일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "13776e3a3a7f6a49",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "퇴직 교사 두 명이 간직한 70년 기록…전남광주교육청서 ′특별전′",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZZnM5NWlhWWdEQ3FJcTduaGVZbXJVTXkyYm1kclNlMkxxdTB4VnI4dUczWHZSX1pEUWZhMDZXMFF1Y0tSdmJvcGR5MkZmQ3NzVV9SNWw1a9IBU0FVX3lxTE56MWdRckFBOHl4VDExb04xYUZ5Y0JPQXNsTUZPeUt1eV8zZHZaQzRuUXpueWJYQWt1VkZBV1M0THpEVGtGR0VhUlcwLTJQSmpZV3N3?oc=5",
+   "date": "2026-11-16",
+   "source": "KPI뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fdc11f096e2f11ab",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "반도체 인재 확보 경쟁, 교실에서 시작…전남광주교육청 선제 대응",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SODVSRC1Pa2NVNmNaRndYdWFyN2JqSVZncUJNRXp1UkxqX1JFdzlrZWtMVU1sOTJGck5EUVBRd3luOXpDVlF4UW12ZGlJa2pCVklPYTNhQ3AyZw?oc=5",
+   "date": "2026-11-16",
+   "source": "브릿지경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e16d864fa8dee830",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, ‘제1회 K-교육특별시 수업나눔 페스타’ 개최",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Oa01SM1hPbkp0U3ItTURDWDQ2S1lncklNa0NhMmcwMGN6WXFnTWYtUWttSmtOaUxrVkNPUEFxMS1YRVZoek5SeVhRaXJzbEtVQk85WXQ0WVBXOTIxOTljdFlHcUFodTNPd0xBck1MMmdDUUtZ?oc=5",
+   "date": "2026-11-17",
+   "source": "아시아뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a7f6573c6bcaab14",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 악성 민원·교권 침해 지친 교원 마음 치유",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQWtIQzc4Q1dqNnQ1NjFJVm5nRmNTRU12NGxKRWxTT3BrRHp5Wjd0TjcwWF9RdGJuVnZhNDAtclNRSGhOcGdjbWk4XzRNZWdJZ1hNaDRTay1OVVZjdkwtVVhYenNwa1RhSGp5LQ?oc=5",
+   "date": "2026-11-16",
+   "source": "호남교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fe9b1f283635b292",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청·직업계고·기업, 반도체 인재 양성 협력",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qOE9rcUFJSmhYbWpBekZhbm1xSlB6d2VmNDZUaDk1WDg2LTJIZkxfRTlxa3hQVXoyNXRrNnNQRDZqYW9vRmQ5X1QzU1FYWVFsU3c?oc=5",
+   "date": "2026-11-16",
+   "source": "매일경제 마켓",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9783a54bbe33b871",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 반도체 인재양성·채용 연계 강화 ‘맞손’",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUGEtTzFBcExuR3RUVm56bFZ3aTJrWjhJTkluZU00QV9CMk1nc01ieGlqZmxMUFgtd3QyVC03SkJaSnNHZmwwNVlncFhGYVlWeWlhd1IyT3pmNTVfMm1XN2FWX0p4eW9JcG4wUw?oc=5",
+   "date": "2026-11-16",
+   "source": "호남교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6c8dc4c9a50b7a4e",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 2027년 7조 7천418억 원 예산안 편성",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yaXotN0t2VW4yZ0FBTHg3Z1VKSEZnN25kRlY0ck14Zmh3aEJLbWJidHlpOUZoQTlucmN3MVFnSHBOcTJvRjlsbTlUbXRRME5CalBXUWJsUGNXb2NxbTh6SEJ0c241bG9hakdBdHZn?oc=5",
+   "date": "2026-11-17",
+   "source": "전국매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8b46f6eee47e07f6",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "학교장 출장 135일 이어 130일 초과 사례…전남광주교육청 복무관리 잇단 도마",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ieWlUYURIUHFvUk9haWlpY3V1VUJZcVF2RUw3WmJWOW42WjFvVE9QUDMwQ0oxN29RZXpCd0ZqMkxFbExqRnI2QzBUTV9JbFJ1M2dwTnl1QjRmY2VpUDJhRDAwTHI?oc=5",
+   "date": "2026-11-17",
+   "source": "지이코노미",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4bc4550111fdd774",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 내년 예산 7조7418억원 편성…AI·반도체 인재 육성 추진",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaVnpZZk02eE1KWlhWVlQxOGRjVEJyV3ByVGM1Z3U5WmZ5MloxdzZaQzgxdEpiSWpfSVNpeDhTZmVFRVRZXzlCOVp0T0FVczEybVRnSDEtaGFHV05EcUtUOERHUHY?oc=5",
+   "date": "2026-11-16",
+   "source": "베타뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "41602e4babe351d8",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 2027년 교육예산 7조7418억원 편성",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TWUZqeFE0NGJtTXY0LVVqNVVMNXJUWExrWHF2eExHMm4zNnplMjd6OERJdTJ0bmJRYzBINjdpR0VteGdGcld1OXEteWN4dXo0OWNTV20tUl9JaFlJVmxLcDQ5Um1jdnU1VlFGb3FCaGNsajlt?oc=5",
+   "date": "2026-11-17",
+   "source": "이투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e0b2c788523d1b84",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, 2027년 예산 7조7418억원…AI·반도체 인재 양성",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yd05CR2owc2NoNGZBNGlFR0FTTHhacG9ZR0MzR004b2lXQ3Vsang1VDE4Y3JtZnZ2ckltM0RERzQ1YmNaREhRbDh3LUhTNjVkMFN4OVpHQnR6ZXozVy1Nb1ZVemFxakYyTUwteUpFeV93S1lCTldFRjRycjJxUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "더파워",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0b6db8a2bd6360d1",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, ‘교원 마음쉼 프로그램’ 운영",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IblFQQkZIT1p6cnI4NVVjWHFZNjkzSUh6dDRhaVB4c1BnbEZTeFd5Ry1XUFhsMExXNXZfRmpNRzJGVjNfR01Ud3VrYk42Ny1XQkxDZkRVcGYtZERp?oc=5",
+   "date": "2026-11-16",
+   "source": "교육연합신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8f785f902e6457d0",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "퇴직 교사가 기증한 3만 점 기록물…전남광주교육청 특별전 개막",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XS2ZvT1puemxIcnF6WHExS0Y0Q0ZCcDFHc3NEeE1hUlpVTW9ORUpSRXVKcmoyUllxRWZ0YXdKemgzLXlOZFczRF9fYmJ2QWJUZWhIUUdGNGNQTHBOZnlPOXBaYnFZMURZUU5N?oc=5",
+   "date": "2026-11-16",
+   "source": "한국사회복지저널",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4cc9c8aeae17856f",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주교육청, ‘자녀 마음 성장 학부모 공개강좌 ’ 성료",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14YThLYzh1UTZxOHpjeTQtcjRGSmhWRmdDakZHcVhfYTVMQWg2MkxBMWRYd1NJMjFBNUpWdnQ4ektxSEY5ZkJSbDNn?oc=5",
+   "date": "2026-11-17",
+   "source": "미디어투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "39812511fcaf9417",
+   "office": "전남광주",
+   "office_code": "jeonnamgwangju",
+   "office_full": "전남광주통합특별시교육청",
+   "title": "전남광주시교육청·앰코, 반도체 인재 채용 방안 모색",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LWEFOR3ZlQWlyU0JoaVh4Vjd2RldPTEFQUkpibFVLR0NCSWlHZzFGblBjRG96RzF2Q2Rqb1p1OU5MUzVzQ0tWXzI4RnNHZC1sN3FzRWVqNnFpY2tD?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "76aa21a69f8d1c94",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 중증장애인 근로현장 '직접 점검'…고충 해소 나선다",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rQVJJMGpXdGJBSFMwUmR5NnViTEZmNTRtYUVFV1gwd1JxRnQzZzJ3bjVrQWdFX2I3NkpfOGlzXzYtYURibmpRcUF4NndHUUVaeFE0Mjc3dk1oS2x6WUQ3dVBVYkhFaHp2T3pYTkdn?oc=5",
+   "date": "2026-11-17",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6af08749a779fb61",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "[교육소식]대전교육청·뷰티산업진흥원, 직업계고 인재양성 협약 등",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vbUlsczNCLWc2Rlh4S21EZXNCUWF6VzM2d0kxb2wySVlmazhUWExTODh5ekpPenhqeS1JT203WTkxSjU1cVZGZjAya04ydzNvV3BKOERnMmFYOHN2dmtHLUxGZnZCOW03cDdnSGw5VFA4UGV2bDIzaNIBeEFVX3lxTE5vbUlsczNCLWc2Rlh4S21EZXNCUWF6VzM2d0kxb2wySVlmazhUWExTODh5ekpPenhqeS1JT203WTkxSjU1cVZGZjAya04ydzNvV3BKOERnMmFYOHN2dmtHLUxGZnZCOW03cDdnSGw5VFA4UGV2bDIzaA?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "52c13189887818a9",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 직업계고 뷰티 인재 양성…현장실습·취업 연계 강화",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZTc0OUxsc0p5Z0RVakVqVmZxQjdESm1UQkNoV1c0dmtELTVuSmZwQVZxLWEzT3pvUXRFUVpaYUFmRktVSEszYjVBMmUxTWxhV0hfa193WlNXMkdf?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e878e5a3db933871",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 보건교사·교직원 심폐소생술 연수…내달 11일까지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWNThzUWsyLWJaRkd1X3VMcmNNZy1MSkg3ZkVSVXBITzdXalRscXN4VXZGeUgweFlFRjF5MFo1ZWRPYnRCSXZCR1BYMXEwWFlXbTJyaHNsZHN4b0VoR25sYWZOVTgyc1MxZVhNRjBPREt0MFh50gF0QVVfeXFMUFY1OHNRazItYlpGR3VfdUxyY01nLUxKSDdmRVJVcEhPN1dqVGxxc3hVdkZ5SDB4WUVGMXkwWjVlZE9idEJJdkJHUFgxcTBYWVdtMnJoc2xkc3hvRWhHbmxhZk5VODJzUzFlWE1GME9ES3QwWHk?oc=5",
+   "date": "2026-11-16",
+   "source": "주간한국",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5bf55501db1ae9c8",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 학교 대체인력 '9개 직종' 모집…23~25일 접수",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMFVKQ1V1bDRqQkhqa0dhRjFQS3dVYmJBeHcycS1mOEtJVFNWbVUzM0JyR21PZWozczh2ZGZ5dDUtRE1hTHRGZXZOSXlycDlXNF9lR0dVNG1TTC03SkNnZVRzRWVGQUNPWXNtWWF3?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3ae8908b08beb654",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 기간제 교육공무직원 인력풀 구직자 공개모집",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfcEFRMHh3WFRmMWJRSjRuNFkzWWVkMkMyWEVzTlRrNVdqa1lVMDBzVTY3WGgwaHNZRV9lV2VNUjlzd1BKV0RsX2RmTFZ1aGozbWVJS3pnV2FIcEZRdzlOTk5Xd0J6QVg1NURRc1Nn?oc=5",
+   "date": "2026-11-16",
+   "source": "충청투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3df04b6e4b939b28",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 기간제 교육공무직원 인력풀 공개모집",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43dUJ4NWd5N2JxZUQzbkQxRmlIdlZtSFA3bmJzeTg4TWNEM0g4STBIdU1kRWw4SUZYY1JWNExtT2Jtbm5v?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스파고",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "625fed58373fe4c8",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청-대전뷰티산업진흥원 ‘직업계고 뷰티 인재 양성’ 업무협약 체결",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBib01xSTktblp2TFpfLU1LaXB3LUZLdmxqbWxaWXZTWm1QTmhHVFdSc1kzcWFJQjVhb1J6N2o4bC1NeEZYNUMwcFN4WGluUXVzQjlXZHZPQXR0N1kzVDRfdnBkMkpMYUJoZUE?oc=5",
+   "date": "2026-11-16",
+   "source": "천지일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c5489e6d5b0e5760",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 교육공무직 대체인력 9개 직종 모집…23일부터 접수",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mcE1hbG85cmlCN0d1WGs3UFFlRVM4ZjFaMXEtejBRTXlwVmZjaHNOeG40dkFfdlIzT3RhRVRZU0QyZms3czB2eFlGQmxjWVJuaXBIeg?oc=5",
+   "date": "2026-11-17",
+   "source": "타임뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "796d3f99898f8fda",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, ‘초등생활, 행복한 이음’ 찾아가는 보호자 교육 운영",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XVF9ESjdSNkNnZGRqQkpMX010MlBTcFVGRDQwalphMTNuOU5va1pXeUxWYkoyUll2OWZXTkxELWpSdTQ0TU5JSm9JT1BBZTgyaWRDblVIbzBxdUsyNDE2WkM0UWZiVzA?oc=5",
+   "date": "2026-11-16",
+   "source": "코리아방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6cc6596ff7ee0a49",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 수능 초소형 카메라 및 이어폰 부정행위 차단 나선다",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qM3p5U3BfMy1xdmZYcUxsTlhleHRuU0Mxck1Eakk2V0JGTW1EZnJKN0xWYWl6RGZLQWQ0LUM1WUFVSUI3dFYtZ0dLNmtVaVU2NWZ0Rkk4ZWpRbDc0d0tFSk12MWFyZjNaeXdzbG9vQWpTUHJ6S3c?oc=5",
+   "date": "2026-11-17",
+   "source": "굿뉴스365",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "78136d09d4d7ff01",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 2027년 기간제 교육공무직원 인력풀 구직자 공개모집",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIRENJVXlxcDlTSllsVHM3cFJhemIzNmJkVkxITmp5VkhSblpvbVkweTVxMTd1ZVNlMU9pRU1rMEw0WXJ2LS1iSmpCdw?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "796569186ad73dff",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 전국체전 빛낸 대전 학생선수들에 6000만원 포상",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaU0kxUVJINFlMeTk3RTl4WDg3QzZ6eXVuMXpxWVMxcmN3NkJRVTVWOEd4WmtNUFRKRkpqcWtYTmpsaXY3ZHFQOVFmLWRLM0VTa2RDdmpHZjNENlRGUy1OWkJXVWJjaE5rYUE?oc=5",
+   "date": "2026-11-16",
+   "source": "천지일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "df4ee7cac4bda5c0",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 기간제 교육공무직 인력풀 공개 모집…9개 직종 채용",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKWGJKNUJPbl9ZTlFFN3JUUGxwS2U3NEUwZXo4Z0tsbHlMNlpXa2pNV1JFYTVhTS05WUIyaTMxd0tCWllRaXEwNUpJa1k2WHlyOENDNnhBRlpHZ0JzQnow?oc=5",
+   "date": "2026-11-16",
+   "source": "더팩트",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4d789ccc263c2e24",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 학교 현장 대체인력 적기 지원 '2027년 기간제 교육공무직원 인력풀 공개모집'",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pNlV2THZDR1ZjTHpKQUZISFFKUFIxM1VQcnFETklYTkhFb2hQRnVxVk11MG02NXlzQjBXRnltMXRHbUc3Rjh2UHFwQzhVRE8zeHZMcERvRVlOV3hqdHlDSFlXYkZ3dEFBQkdDT3dwQjY?oc=5",
+   "date": "2026-11-17",
+   "source": "한국강사신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3fc4a9e86b783505",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 학교 갈등조정 전문가 양성 강화",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTGJsOW12OV84YzVYa0dUdXE3XzdscUJkNjVpWWF6YnNmVC1FeHBjdnRkeDBTeENhcFdBUDhIdVdYMHFWVmtRUEJVRTR5dTlIZFdoR2lPemlRYmJlODNEdjFmUnBPQ0h5RmV4Q0F2aEI5RE3SAXdBVV95cUxQanZ1QWhrdGgwUjRVU2U5NlZFSWg4X3ZDbUlEYWFSenVNTjk2S3QxTlNvaE1wMzNQSUxXV3ViRlNqb2I4QTFOYkx5bXVzejdfSFFKd2R5eER1NUMxQ250YjZnZjN0b2djQzl3OFhSZUJXMkwxVmxqMA?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스프리존",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "28598aef050359fd",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전교육청, 대전뷰티산업진흥원과 직업계고 뷰티 인재 양성",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xYk44YzRuTVhzRm05d0c5ODlIdHlSU1I2Q1BrU0YzaE9qSy1UblljU0hQSzE2MmlucW5JY0FJY2I4NGdzOU9PTURlbWJzQjBtTWpXaHBGLW1XNTNwTHhoVzN6eDJuRHlGX3RSTg?oc=5",
+   "date": "2026-11-16",
+   "source": "충청뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6429afae01ce906e",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 질문 중심 수업·서논술형 평가 역량 강화",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wd1NfNmFJcTJVQWZPWndERTlRWlFLRi00X2I2SEcyazZ1cnFWamtBQ2VOc0VwT0RzRmJ6TXJrbGYtUWw5S2F3SXlJeWhmc1VpWWNvbWR6dDk4VWFoUTg0RDZLU3BNR1J4OVE3VGRuNl94ODjSAXdBVV95cUxQYUJrY2lPVTV6Qk9uX09CY0JKTUVUbnBhUVZkQzVfSEFNMjE0LXNqdnVXOHpvZjR2dTNUUUNyMVVQbzJqU250WGxfT19YeGRYNUp3WDNTLTNqVlhIVFdFbVdIR1p1ZHhsZkhQUkxSUUNibkI1bzRmcw?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스프리존",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "91bd4d32e9bfeaf2",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "전국체전 금메달 역대 최다…대전교육청, 6000만 원 포상금 지급",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EblAzQ1VGeXFzN3FxUWZnQS1lNjlCZGZxY1oxNEtpWDR5WU9hTGlUZnM2SXRoZ0tlYXBBZnFJTjVad1ZQM3JtYjNwWUlreFBkQVVJTDFkV0VJekxW?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b5089093a7db3e5a",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 초등 입학 앞둔 보호자 교육 나선다",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBnR2ZTTFhFYTI1Mkl3eGRrNGlNYWZrOS1MM3FZTGNrQkM5bHJmaEIzbDMwOFBUaHpTTWhXcXVUZF81cWRn?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스파고",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8f7be386dbd36cfe",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 수능 부정행위 차단 총력…초소형 카메라·이어폰까지 잡는다",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RN2NWWlJUdnRxNHl3OFd5aVF2QUktelJlSlJkcmktMzlpVVoyUzBMcnk3YVJ6eGpuUlRpVmNIOURvdXpLQTRKcElpZHpWRjRQVHNiMTFZTWRnWmPSAVZBVV95cUxOaTdhOWRsaW9pTkpBVWNDcVVfdVVuenZ2VUNHOXZyRTk3ZUp1bXJDNGxGS0JodXdzRFdoZVpGQnJkTmRYcWppa0ZLNEZhdlc1WTI5c0R3UQ?oc=5",
+   "date": "2026-11-17",
+   "source": "더팩트",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ba15f90760eae59a",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청-대전뷰티산업진흥원, 직업계고 뷰티 인재 양성 협력",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MVVMzSVN5b3hYY2dqYmRIZ05pS1Vzcno2ZmprbHdaUkxuUGpoOG1sMGU5MzFGQkFySFZCREVwZlRfSHdkcWNTd3M4S2ctOXIxSzdBSDdGUkdRSDFQYVNQNW9yeW4wMzZESHc?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스티앤티",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fe4539463880e80a",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청·대전뷰티산업진흥원, 직업계고 현장실습·취업 연계 추진",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rNDZ5bkRQY0Z5dHR4OWx5bWJtRjdiVllDVVNRcGRXaDFuSFhWTE8ycjZYQnZleUlnZVpvd0FqRGpwX09TY2daMlJlZG5sRkFDcndpLQ?oc=5",
+   "date": "2026-11-16",
+   "source": "타임뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d9a60137dd5012ab",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청·대전뷰티산업진흥원, 직업계고 뷰티 인재 양성 맞손",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wNGxSQWl5S3RJMW41Nkg1UlpuWU5vekx6amdWc09TQmRKa0JVc002aUdub29BZmNyM2dBS0FDTVhiWjd1dEJSR1llRWl4dUxGMEV2Nmx2dklUMG1admxTaUV4Q1dQVEZXZll4VzlMMjhjN0HSAXdBVV95cUxPOXhVNHkxUzZPRGdTN080d3ctTnF0R1Y4Skpmc3c5VmhXSWhJWnk5aGpzQjFaN3RuOVdMVGd5ZDRqZFB0cTJYZGVmQTJONUF5cU9JazVrUWFZQV9vZnFrWnFUZDRIXzlWVmlRdjByejZpTnRIemw1cw?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스프리존",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "76f91973d57a9508",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "[교육소식]대전교육청 '중증장애인사업 모니터단' 운영 등",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNc2FMdnZkTm92emZYWnQ0cVhNclhyMkVoZU5jVGNkOW5CM3UwUWtqSmp6TGtCOGozUVZxQUdaQXBncGFpbW9faTEwVjBaeE94bFdLQ2ZnanpJeUg4OTNZZdIBeEFVX3lxTE9MdmZwR0VsMWliY0RNemhVM0d0ZXlnSzR0dlRWMGVLM0tLR1NTNVJnbDM4U010eWIyUDFFMU5sLUx1UjhiakhjMmNlLUNia3Q2LVVaSktBMDJiRnhINGZUbTcybmxMMkhPYUp5dXNQZHRVSGJuc0VZaA?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "30d76a1e86c89f87",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "[포토뉴스] 대전시교육청, 전국체전 고등부 입상자·우수교에 포상금 6000만 원 전달",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSHhsUExNWlV1a3l4U0Q4ZExOWE9kZmNrZkFOcVBNc1NVUmdCbGxPeFo2cXNDNVQ3MnBOdG9Yalg1bm9ONXhwTUdqNkFaZG9jc0tNdFhPNEZONmREcHpMZURXazVDSnRNRmpzTnVPdFNYbEnSAXNBVV95cUxQQkh4bFBMTVpVdWt5eFNEOGRMTlhPZGZja2ZBTnFQTXNTVVJnQmxsT3haNnFzQzVUNzJwTnRvWGpYNW5vTjV4cE1HajZBWmRvY3NLTXRYTzRGTjZkRHB6TGVEV2s1Q0p0TUZqc051T3RTWGxJ?oc=5",
+   "date": "2026-11-16",
+   "source": "데일리한국",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "de7ec80d0142d37e",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 대전뷰티산업진흥원과 직업계고 뷰티 인재 양성 협약",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FamkyQko5MGR6cTcwcDg5YmRGd3VaV2FxUDNIOW96Q3hRajY2TkdlYm40VEtNMGlKaG01NmIwcVVlWXNZZmdmazdvaC1wbWZnVnRuMjRqNlNVU2VIUU5aOWhNY0wyWUdwWkpMX05XdjLSAXRBVV95cUxQejY0YkJENXo2c3FxRjVCeExyN1pFSV8wUU5XN0JRdXc1a3ExcjJxNHRCY3VnYlhubUpQMElFZzB2cFA0Y3BERS1BSThvcjJxSE5HU0JTT2NVV0FWSG11UC1HX21sQ3dleWdHLW1mUFhMR0hqRA?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스워커",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "96ce40100cccbe45",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전시교육청, 제14회 전국이중언어말하기대회서 대전 대표 전원 수상",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HRGV5NVJnampnalF3TElFeF9NME5UQklzSVc0U3lsSUNRbkNmd01fMVZOOVVfUTJsOGh1c1ZhNVpxaFBHd2dMa1BYak1sTkdQR1JGTjNzNVBiUTNnb3VfZWJ2dThEd2duZnRyczJ0amlvNFdj?oc=5",
+   "date": "2026-11-17",
+   "source": "아시아뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "45ad5a8f9af9d18e",
+   "office": "대전",
+   "office_code": "daejeon",
+   "office_full": "대전광역시교육청",
+   "title": "대전교육청·뷰티산업진흥원, 직업계고 인재양성 업무협약",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84WGxTYWswbnh5SERYVFp0NFQwaXgtRHI1WWFZUDQ3Mk9DRV84eklpTUl6U0xTcjNLT3AtcmRGa09FZzFQS0J4R1hLYk9IVlBaa3dXYk1ycjA5Ul8zaG1CQVlwakdkWWhmQ3fSAW5BVV95cUxPMTREdnB5aGZGVFNHQVlRbVNxNDYyaUZ3bUFvMGRnazZobFNSaUNsYUFhTEIzWlRLYV9tT3B3Z0hhTlBkVnkyeWpHNGc4YVZoek1Dak5EVjNQaFJKVVByZkNHODdkVDQtTWpYdWtCdw?oc=5",
+   "date": "2026-11-16",
+   "source": "중부매일",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "13bad2cdf85616ee",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "처벌 대신 '대화' 택한 울산시교육청, 전국 첫 '관계 회복 숙려제' 결실",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80U2lGQXY4X05YMURQMnRHbm5wQW4zeUlNNDZ2YUhhQUt6eGtqcWhmanBUR2otUjVjakh3Sk5aWWhRa2NJMWNRakR6MDNDSFNKSnNXNWUzMWs4dw?oc=5",
+   "date": "2026-11-16",
+   "source": "파이낸셜뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bc8427856cc425a3",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산시교육청, 제5기 청렴 시민 감사관 15명 공개 모집",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GU1ZZenl6V0RqLXA4UHlZMElNbXdLUXBmYmpRYlFoWjdnN0hBWUt6NHhzZDQxWWgyMjc1bGdHVUNUdU5aODc2LVo0TWpOQTc4R1ptZnVSeG12S3Boa3RhbG96bUtyMVFubmtObVFB?oc=5",
+   "date": "2026-11-17",
+   "source": "울산종합일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c579bee6ebf10a18",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산시교육청, 관계 회복 중심 학폭 해결 결실",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wWVhvNGc5djl3VG5TUzU2MTVSdUJjNEZCM0dBRmZsaFhId0NPYm9LMTdNLUhMZ1FsZEhnbDVtNlVwbUNuaEJUSXliOGdOemIydDZYT3BGOU5FeFdrRHZoaFhyT2VCZlNJQnNyUzl30gFyQVVfeXFMTUlLMVduVm5IODBpTktnU0FEeUFDUkZLQ0xJcXN2TE95VTZNZk5NRUJwcWlmRkdWUUoyYno4T0RUUEVTdW9xQllELWxaWk9zQ2ZicFQzTzJ4bFI5UmVvRjhpNnlGenhxd0lqaFhxQVA2clh3?oc=5",
+   "date": "2026-11-16",
+   "source": "울산신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0abe578cdeb3cdd5",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산시교육청, 학교 업무경감·효율화 우수 학교 8곳 선정",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Xc2hERXY0T1BnRy1vbjJvekUzSlJzejBBbVAwRWNhNG0xRnlEMFJETjBnb3RSZlluN1QwRmNMUk1VNmFtMWkzbmNud05CVDNtNkdXal9rVmpvTGlzSFkxMUp0VHJKdTN1YzNXNkRn?oc=5",
+   "date": "2026-11-16",
+   "source": "울산종합일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d549b3135c35c046",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청, 학교폭력 '대화'로 푼다…숙려제 신청 100% 해결",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FVnZRV25YX0dvOG9FaER1NDQ5M0l2aUdCQWF2bFh1THdKMXgwOVpvUzdrUnRiOWpVYkVJTm5QVkdiUnNQUVAwak94UHREMXNCN1E?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bb8adf23f449710c",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청, 학교폭력 '관계 회복 숙려제' 신청 사안 100% 자체 해결",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CNldFZHBOV2RsUXhjZ0w0UFBZQzZVbWRxWlo3V1NWN1FPR0pNT29wT1hLR1R3bkJuQ1VjQVNfOXNBdXFwbU82d3ZrNnpadHloTVZCRkJINGVqQmZjSjRlUW4wUDBMOXZMeU1J?oc=5",
+   "date": "2026-11-16",
+   "source": "프레시안",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f3e6e523109e9de6",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청, 학교 업무경감·효율화 우수 학교 8곳 선정",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sNFlCemFyRXM5ZVkyNnNJX05uSlRGQXZZSlNFSHJpTHdTX05NbXhRUEMxelp6TThQQkptQzkxWmlkei1MWkpZcXFFdVZzWHloaklKS29nMVJZdE9aT25ZeFd5T2w1NW8?oc=5",
+   "date": "2026-11-16",
+   "source": "울산시민신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5c984c004befd94f",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "수능 AI 부정행위 우려에 울산교육청 3중 대응",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83R2g2Q2ZaTXRhTlZ2SnhvNHEwMUtrTzBEaHFxU2JvWjdDNW11aUxVUXlrSGs1UVh0MF9aYk96Y3QzdmZJQmdZUEJtM3lQcklPNjdQNzQxRdIBXEFVX3lxTE1qcEhiWGFRbm12Nmg1b1o4UGxQU1RTc3A5d0hENE5NYmY2dXc0cU0yVFhScnUxNmVvd3RKd1hnSjVOYUF5dVI2T1RYYnh5WnhrNjM3SjZnUjBLV1hw?oc=5",
+   "date": "2026-11-17",
+   "source": "기독일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "465d6159757dac42",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청의 값진 실험 ‘학폭 숙려제’… ‘100% 해결’ 숫자보다 빛나야 할 피해자 보호",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VTW5FcHpyVHk0MkN1S3dUR1ZzWW4tQks0dGxWSGpLdXpYcVUxMmpyQnRzeDVKN18yaW93aW5PSmdMMTlpRWZ1NDhvaFNGRGdWUktkdUtn?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스21 통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e00d1d35672ecb5f",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청, 도산서원선비문화수련원과 인성교육 활성화 맞손",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pZW92SF9PTmkxX0h2Z2F5TUM2dHFpNF9kdXpJVlY2eVZhOEdTX2QyNW1hQ0dsS0ZfMVJfV2IwQnNzN1ZZZzR5LWRtRQ?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "66934d84ec52ff23",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청 제5기 청렴 시민 감사관 공개 모집…11월 30일까지 접수",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjT1B6cXE0R0RNQ1VOSHpnNWlzTmhtdXZoR1J5ZERoaHI2SkNNay1xYlZ3ejZsTUNrbDc0OXBNdy1lSTR2Q2JBbWNqbUVSd3pYUXc?oc=5",
+   "date": "2026-11-17",
+   "source": "노컷뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "64204f85483d7be3",
+   "office": "울산",
+   "office_code": "ulsan",
+   "office_full": "울산광역시교육청",
+   "title": "울산교육청, 제5기 청렴 시민 감사관 15명 공개 모집",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeXhqbEZEWF9UZVVUTkZzdmk0VlRkSUwycjVwUEllbF84MXIzQXdRNDBRaE1UWFRGaXZrN28zN0cyZFBHWXJMVER1RUFaTXVCT2owTGxIdkhOaDY3SDk3T0lOcw?oc=5",
+   "date": "2026-11-17",
+   "source": "경기뉴스원",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d2b1f014cb0c8014",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청 금고, 2030년까지 NH농협은행이 맡아",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVFFmSGJpNXY4bUJqZk1DcDFCSGhNQUEtSDRiUnhyR1liX0RKd0kzX3BvYlJ5OUhzdWFnQldjZExBOVhKeE1MRUpIOUZBZzE1UzQ4Mnhlb3NYTjTSAWBBVV95cUxOYVVLWWNRd0JPX0ZGUDRZbWtwVHg4a1pVYkU1UUIxUjNNS1JLVXVQcWI4QXotOHRnSlFVSW5DajB3dE9vaUxKNHN3NlViRXNtLVFvMGk2clZnc3NDUTFJYk4?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "caebbced4d1f745e",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 장애학생 예술적 재능 자립으로 잇는다",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FQjVvZmF2aUs5aGZrWU1zZjRuQUtUZEFHaW9mXzctc2kxSkc0aDNWckp2OGpZeUkwWU0wWkNfUktFYTNSSzVDa1Fscmt5LTZublE4WkNSclo0NGF0ZVI0QW50ZEt3Mkd6cjJYdGEzSk8zZFXSAXNBVV95cUxNRUI1b2ZhdmlLOWhma1lNc2Y0bkFLVGRBR2lvZl83LXNpMUpHNGgzVnJKdjhqWXlJMFlNMFpDX1JLRWEzUks1Q2tRbHJreS02bm5ROFpDUnJaNDRhdGVSNEFudGRLdzJHenIyWHRhM0pPM2RV?oc=5",
+   "date": "2026-11-16",
+   "source": "대전일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f0774a295532edaa",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, 교육금고에 NH농협은행 단독 입찰로 지정...2027년부터 4년간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TdE0temlkb19pdGtzZzRMbGJEVTIwYjg4aXF4WXBGWUVGdVp0aGoxbWxLRzlUMFk1TnpMblNocjJsQU5MLUtfRzJoLTFWTGZ1TERZSTZOX1paQ3I0dVBVTUYyQ1daQ2J2TThMb2xn?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "43834ac7b76b9551",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청 \"수능서 스마트기기 착용만 해도 시험 무효 처리\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CSU1fSTAyQ0F6WWQ3NFlPQU1iSi1kWjBIS2M3NkpnYjJndkdXTm1INUFTWWJsOGtGMUdtdWZob2Q1RUoxeTdSVm1DR1hhUDVfRW9CXzduUk4zTE3SAWBBVV95cUxPOG1pSkNLUGtqNlJ4YjFRaGphM0RlTmhKejR3elB0VmFRb0NaYmdnVnhEVDc4a0xpMkhMbXZlSHZsdlBucXBLcktsV3lvaVQ3ZDI5dE8xaDAzOWswS3pIWEM?oc=5",
+   "date": "2026-11-17",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1fdab2f23d8e97ba",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 수능서 스마트안경·AI 활용 부정행위 감독 강화",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaSmZrTjNzUGhhUUtNT0tqRVQ5SFZoVl9hcVRyQVM0dnpzOUUwV2xtN1F3ejJab040bHZ2T0hiRXRrMk5oS1ZiYmtRb1FIaGEyLWJkVUJYcmJTVndpRXRqYtIBYEFVX3lxTFBaSmZrTjNzUGhhUUtNT0tqRVQ5SFZoVl9hcVRyQVM0dnpzOUUwV2xtN1F3ejJab040bHZ2T0hiRXRrMk5oS1ZiYmtRb1FIaGEyLWJkVUJYcmJTVndpRXRqYg?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9e64ebe694b93fd8",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청-NH농협은행, ‘교육금고’ 재약정 체결… 2030년까지",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5S3NVbUlVYkRHVEpBYWxXRDlUcjlsRGlIZ0I1ODMwc212WUJ2Z1o3N0dkT0xELVd6UmVwRDFIbWpBaE13bkNrUHlJLVYwWjRaVTJzYnhqY3VPeDM3a09GNVpRRTNxVVlULThRUg?oc=5",
+   "date": "2026-11-17",
+   "source": "충청뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c02fffeff79d1d62",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, NH농협은행과 차기 금고 약정 체결",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10UjR0aDZnWlZZdmg2clJwV3Bod0Q3cHFvazNkdm1PSDBadzAxSTVnaDJuMXVfQ3RxRkJONWxLamRvcG9Mb2t5N3J1NkF5QWt2Nk5CMno4M0Q5blBSaU9B?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1e80b2108468e668",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 지역예술가와 함께하는 초등생 예술체험 운영",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByc3VMSUgyUzRQOVNXdnlWWTUwTlNqNF9tYWxnVG8ySzV4MEpiLW9tVVRidUd2dTgtQ252MXpzV2cwRHFwT2ZiNG1GR2oyYmgxNm9PaG91eDVBWGkz?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "49323339868ae290",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청 10년만에 초등 기본학력 평가 재추진 '주목'",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40MElKODZpb29FZmtHZUF4N2dwNHJiRFdXWGVsMWRkSE10dVFlbUwtTk9KXzRGU1FMV09yZnpzaUdwanRtb0hITFk1ZWtRZExfTnVxbjdTaVZUcUxlZWZ3?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "09dadf5747081e4c",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청 금고, NH농협은행이 4년 더 맡는다",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xSHJpOXNWVjZvQUx5czBlREJNUVJyZlM2T1FDNlZzaDlualdQTnRxeGtXNFFoRzlRNHJOUXM4MUdVYlBCdFJGUklyNnk1NWg0UF8xdHo2UUU2YjVY?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "685e09664058568a",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 국립체육영재학교 유치 위해 발로 뛴다",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWjZWLUJBSGxrRWRfTGtxaVRBU3J4SXNYdHRoTWczUExxd09LSDcxWFdMRjZENmIzOHNrbHZZekJoYjlMc0pfS1dLYlRnQmZvYTlXSG5TSGU5bEJpUUVpWTJ2d2VadU0?oc=5",
+   "date": "2026-11-17",
+   "source": "세종의소리",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "61a3d418c2db7e7b",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "“AI 안경으로 수능 커닝 했다가는…” 세종시교육청",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85T3lCaXdYLWt2a0ZYcFc1cUQ5ZWRWSHp6OFhTVGpoa0o4eU1Ja3JrSGFqU3EwVVVueXlqMEJHbGVNVTZMT1A5R0M0Z3gxdERVYzBpczl1RC1HWUZOUFRDOXcydUh5TWM?oc=5",
+   "date": "2026-11-16",
+   "source": "세종의소리",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e7a981aae16b2c2a",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 농협은행과 교육금고 약정",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZNU82cUJCYXg3UHF0ZHlIdkhnWGpIVHpvd3llUWhQd09RYmZfZk9jdm4zODJ1WW9OR2FwODE4Qjh6VjY0TENia2dQR3RWZGZPMU1VQjAybWwxeWY1ajZqTEIzT1VFYjdORDNmZWlLMEUzM2s?oc=5",
+   "date": "2026-11-17",
+   "source": "세종시민일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "dcd12db7dcb26df2",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청 \"수능 시험장에서 스마트 기기 착용만 해도 부정행위\"",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IMWZHVkN5UEVzU3oySE13bjVXMndVWmNCUEk5ZE0weWxfdkV5a1VxRkdhcnA4a2FCUWNiZUNYSmt0am1LVDBaTnYySnhYTDFYX0E?oc=5",
+   "date": "2026-11-17",
+   "source": "노컷뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "360afcaaa391dd35",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, NH농협은행과 교육금고 약정 체결",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPalZGV2M0VW5uNGt1VUJaOC1LVmdLMDFLVEVIWUM4SHVjZ3VHTmItaFZYRHFKb2hVVklFbmQ0cm1CWFNVTkxLc2syOXctRUtYZVpIbHA5QzYwQlFVMkFfOFlSU1dIZUdZMFROb25n?oc=5",
+   "date": "2026-11-16",
+   "source": "충청투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d0bc93d26a13caa3",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, ‘2026 전국 장애학생 문화예술교육 성과공유회’",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ba1FoanY3TUhiUnZqcTkwSFVESDNYVUNZc0lTMTR0aVlPWW9jdjUzeFhoR0JpUkdqck9jWHNpSS1BOW9rVk1rVU5xaWRhSWlpdHFLYi02OUg2MkNyTlJqLWdCZ015NzhoRUg4Qg?oc=5",
+   "date": "2026-11-17",
+   "source": "충청뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ed29338739fc55de",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, NH농협은행 세종본부와 교육금고 약정 체결",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9udHI4SnU1NUk5TlFXTk5ZR2ljalB0aDFmVjFIcFN0c2N2LWNJV3o0MHNUN1cxenkxM0pMMEdCcy16aFl4Z1Rsa2lIUzNCVklMSHlQYlM1ZC01YTQtU3FCV1JxRnZLVEJldlE?oc=5",
+   "date": "2026-11-16",
+   "source": "천지일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f2a6c7670cba1e69",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, NH농협은행과 교육금고 운영 약정 체결",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45bjRUN2VIS3MzMWFCV2FQdnhlUlM0ZHJkdWhfNmlIT2ttV1dZbmVzNkR3TjZpQWlNb2V0VjFzcnlPT3MxY3VQR19TNmdtN3VVaWpJNEVBMHhPQQ?oc=5",
+   "date": "2026-11-16",
+   "source": "브릿지경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1db01f42a2f14841",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청 3회 추경 1조 2883억원, 시의회 상임위서 수정가결",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yeU5UUk1ac0JTSlNNR0t1bUJ6aFdacWhXZGtjelZfV0dFMjY0Q3hCQ21HeVZMZ0NnZHYxN0g5d1JlUG1MUlRXcHBoaDl6bjI0dU9PaEhYMC1GQmt3STliOFFSVldYUzNF?oc=5",
+   "date": "2026-11-16",
+   "source": "충청타임즈",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c3d56bf6c4291f45",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청 금고, 2030년까지 4년간 NH농협은행 담당",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0X2FfSXEwcjcyUDJlZVlrS1N3c04zYlpzMnRFZ0J6cm51TmdIUUV4aUhtY0t1ekNJZG9mY19uWG0tVnZVRC0zUzBtRmgxVFlIQ0xqNGQ4M2tZbVdBTlFkODJUdGJ2dmh0?oc=5",
+   "date": "2026-11-16",
+   "source": "세종포스트",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "63fd2fd34ba9cd13",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, 행정실무원 역량 강화 연수 개최",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaTEJDNC1LNk5VczJBbVpFaktDbTlGOG1oNlJZLXhCdktsczRaTEN2TWF5VVJKMUpQWTRCdlJwd1RLbVljMFNjWkM5aWt2Q04wbGhrdnp5SmRLUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "브릿지경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "067044df59c87690",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청 금고에 NH농협은행 지정",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcDRJLUhCdWNTOXNBQU11N2liSGVhMTczOXBiSms5NllTdHlrSmpuUjVUZmRuQngwQnYwUUtDT1ViSWk0b3dCbHYtWGVHa0M0QTRYVjdfVVZHMVZJNUt2Q0FVeURreDFBMW9hdA?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스엔톡",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "53c4590d30829004",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 지역예술가와 함께하는 학생 예술체험 ‘온’마을 이웃예술가 시즌2 운영",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MSElYdkROd2FmdmhMczlXRVA0cTIyeDBOX2N4V19yR19KSDZZbGtwazY1TzFyb1lDSGlVdGo1ODBYQ1hZVGtVUXRzVFFGZG5PTUNjRUJDeEV6b3BrX05NcEo5SzdKTnlsOEE?oc=5",
+   "date": "2026-11-16",
+   "source": "금강일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "dfbfb4e0fb9a1a7e",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 전국 장애학생 문화예술교육 성과공유회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aN0pOamwzVEswOWR0dk1qY0FveG55WEg4N1hFWDVCcF9FZ1JYN3I5QTY4SnZ0eWtWMG43V1diS2l5ck5sVlNMcWVYbXp0YUZZZzhrSzZ0U19YUkNxaERwY3VGRnQzQ3VIeGc?oc=5",
+   "date": "2026-11-16",
+   "source": "금강일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3998f736e219faf1",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, 유치원 교원 대상 생활기록부 연수 실시",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54TUpyNTNSa3JOZll0Wm85R2RWTEtkWlc3bjc1ajR1VGRaVmppeDB6S3hvcFltdC1ndi1BR0t1UXdYR0llMVFCSEU4UVhBWUJvQ2hWYWFmZDdsUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "브릿지경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수",
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6e39fbc84e0d1e16",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, 병가는 '사유 없이' 계약은 '서류 없이'… 감사 지적 속 '담양 대숲 연수'",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbFpvOUxvTzBMNHh2RUo4Vmp4emZNQUVzTUZhQmRMTVE5aXVTWFpSM2RlR1BqblRUQngtaFR4Q3pVUHBkRmFBTk51WjNZYV9LV0w5TGVrT2tMTHZnYjVIamRuSVBTQ3BIVnk0MQ?oc=5",
+   "date": "2026-11-16",
+   "source": "굿모닝경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "522878fd41d8db02",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, 장애학생 예술 재능 키워 자립 돕는다…전국 우수사례 공유",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KMU9pUGhpTG1kQURscmluY1d1QW56c2tYNVlXMGg5b3QtbDAwY2xNRU1KTThSUG1heC1ac1pQZlR6UkdvbWI1YnhNMG5qaFV0bkdfYTZ0YlNvSWNNekU0?oc=5",
+   "date": "2026-11-16",
+   "source": "더팩트",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "267ade8ed90901d9",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 수능 '스마트안경 감독' 배치…AI 부정행위 막는다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LSEx4ZlBpNGIyTTNlZ2Y3TWtrdzc1eFlSd1NaYml3LWt3TW40Nnlib2tnTFZnMkZ1aXAxdlotbm9DVmExYzQwYXgtVmJzbFIyZllBZ1hEWS1CdUd1b0g1clVuM1A1cC1XelVTY0pzNNIBc0FVX3lxTFBaaUlwLXhtVzZuZzV0U2ZMQUY5MFRLcUxlQml6Mm1XMDVtM01hSzlMTU1PWGhrQ1B6T0Y0SGgwcEo3blV0SWdPWl84anlCcm8xdnpKNG1DbTJJQWYtTXlLeDlFSEJ4N3BJSFdKNkJ5V3lBblU?oc=5",
+   "date": "2026-11-16",
+   "source": "대전일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "16b0d1fa866d7b92",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청 ‘585억 감액 추경안’…시의회 상임위 수정 가결",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSMmtmUnMzUXBLSU9mZk11WmthckU5cFZraTNDWUZadUdkSHhGblRjZjNGRFBGdTVlX1hjWVd4VU9YSGhhOUN3V1ZyR3NkWEJsQUQ5Y2NsWEw3b2M?oc=5",
+   "date": "2026-11-16",
+   "source": "에너지경제신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6368035c5c5a34d1",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 초등 기본학력 평가 부활 추진",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kTGxPbFJsMzNRMW9teG0wU1V6aXF2c01EVENiOGZoM3RFNlF4UEQzSGdWc0lOMzlKdTRRTE9Ddnl3SmNEc0t0RUE4Z0hDS3JOcEE?oc=5",
+   "date": "2026-11-16",
+   "source": "노컷뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0e09240239adb291",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청, 국립체육영재학교 유치 총력전",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9wVkItZUhjODZ0al9SUEpCZkg4eVFrY19UT2NLZXFOQ1VVbkJ6OWp4cEo5S2h3azFIaEphU00tWEpwc3p0?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스파고",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7197fc1666300d8b",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "“세종시교육청 현장 밀착 유아 생활기록부 연수 실시”",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMmJtTkgxbXNVT0VKaU03N1ItNFBGWU5DZkpvT3paazFNMVkyNmFEUXk0VzR5b09hN2tYM0RQRDZBWHVtS0pkaVY0dG9Ec19FVlFGZzNucTUtazNLYXlDQXJ4bDJTd0NmbXpLRGJ3cHVBSHpy?oc=5",
+   "date": "2026-11-15",
+   "source": "아시아뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "683955b1b398a7c5",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종교육청 교육금고, NH농협은행이 4년 더 맡는다.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xM0NoM3ZnaXNUV2tnSXQ3YzMxSDNtTy01SG83X1FDb3N4d3Zoc3QwbU1meWRaUG5xc291SlNsRjl2QkotaVRzUER2RkJUNmd1YW0yekc4bTRPMnVxbFNaa24wSUV6UWpYZlVV?oc=5",
+   "date": "2026-11-16",
+   "source": "현대경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ffd78710f098cb25",
+   "office": "세종",
+   "office_code": "sejong",
+   "office_full": "세종특별자치시교육청",
+   "title": "세종시교육청, 제19회 전국학교스포츠클럽 축전서 빛난 세종 아이들!!",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vOG1LUWZZOFRMU0Zhc3lTVEFLZ0l5eExhTHBuOElZQlc1UFBuTloyQzFFVGcwVGR6V1VDNTBjcHh1UEExUWJteEdtYm9CSkhNWU5YN0pNZXZ5RFdzeGNhQWln?oc=5",
+   "date": "2026-11-17",
+   "source": "㈜한국탑뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b3ea2d65fa3f477f",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 우수 수업 100선 선정…내년 교육현장 확산 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QQnR0YTloUHJFQThYMzBka2hVdHpNVVlpbUF0dWIySlBRUlpUNDFqQ0tXd3lYOVhGZ1UwSEI3SzZBdURvMUNTTGNCQnJIQU5HQkVqcFcyQnV3ZjVzVmo2OXZQSzR4bUp0N0R5Y2JId9IBb0FVX3lxTE5QQnR0YTloUHJFQThYMzBka2hVdHpNVVlpbUF0dWIySlBRUlpUNDFqQ0tXd3lYOVhGZ1UwSEI3SzZBdURvMUNTTGNCQnJIQU5HQkVqcFcyQnV3ZjVzVmo2OXZQSzR4bUp0N0R5Y2JIdw?oc=5",
+   "date": "2026-11-16",
+   "source": "머니투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "925e3abd2100e50a",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 수업 우수 사례 100편 발굴…내년 현장 보급",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wVlljU0U0MkZSbUJZZ3MxWktNWEJRczh3T3NSTFVDTzRQcmZubHFlNG9YQ0ROMExtWnZTenJvNmZmZjltRlhIVjlxRlR1ZTg0Ym05dGJKSF9yYmc?oc=5",
+   "date": "2026-11-16",
+   "source": "경기일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0fa850886d261149",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 역량 교육 우수사례 ‘100편’ 선정",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15OXZZX09UejU3VG42RU1wVEFNdlRqNUNKSXhoVG5GaHEwR2pSblFJQTl4MUZNNFNHQ05CTERzSDdGekt4Y0xEek16VU96NDBqWjktZmFLQjBKSkstZHJvNWEzekUzVFlOb3VBTzhHV2E?oc=5",
+   "date": "2026-11-16",
+   "source": "인천일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e0ca7604e8dc63c3",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청 \"2027학년도 수능 ‘AI·스마트안경’ 부정행위 원천 차단 총력\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uazBmak1UZkpRbWh4MlJieHZDUEduQlVSaDhseDNBbl82dGtkQndJN1FWOUhQZFNCSDlObkYyQ0dESXVILXdxQkY2SXNQakMxaW9SRUxqa2F4cV82clVNRE1Ib0ZxRHZ3eUxzSDBaZnRfZzdE0gF0QVVfeXFMTW5rMGZqTVRmSlFtaHgyUmJ4dkNQR25CVVJoOGx4M0FuXzZ0a2RCd0k3UVY5SFBkU0JIOU5uRjJDR0RJdUgtd3FCRjZJc1BqQzFpb1JFTGprYXhxXzZyVU1ETUhvRnFEdnd5THNIMFpmdF9nN0Q?oc=5",
+   "date": "2026-11-16",
+   "source": "주간한국",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "56d3c6114d9eb9f1",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "한신대 교육대학원, 경기도교육청 AI 교육정책 주제 교수법 특강 개최",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyY0tuU3diaDc4eTlUQUt3UjU4SGlfVUFvMER3LS1STzRlWlVXQVZ0UVAtTEtkMTJ3R0FYYW1hcWRTSXRaRFlsUFl4Qk9KcnJfVzJnZWhLbGpMakNibVNpY2lKZ3k5cEU?oc=5",
+   "date": "2026-11-16",
+   "source": "교수신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "68a50ae7b1f41aea",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 수능서 '스마트안경' 부정행위 차단…2인 1조 배치",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9naUFJZC1vYmdqbzR0ZnpOQ2w2RUZ5RFFvSnQ0Mmptd1RpaU1iYktqWHo1TXBtYVlDdjVDdjNvb3lHVUtIR2s2bHdPaWNUd1d6V1lRMHRn?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8137860e9391ab55",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 역량교육 우수 수업 100편 선정… 내년 학교 현장 보급",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNkFSVDAyVnV2OWQtbTUtOGlOQm44dEQwaGFMV1dJR0FKLVJONkZIZm54QTQyM3Fac0MwUWRGUzNFMjBHUDNmYjNDWmdDYlZXNFg4ZzRLYnJxel9LUmUxU2FPQUZ3b25VUWc?oc=5",
+   "date": "2026-11-16",
+   "source": "천지일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6083cd4ff8f8f72e",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 역량교육 우수 수업사례 100선 선정…학교 현장 보급",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96aWp6RHdiMWFBR1ZZR0V6N2hEblZQZHhrYjhRTTlXQ0NRbGpTc0VQaURKREVWZUM2Rng4aVJVQm5qZUJibms5ZktOaWZyUHN1QWxPeVJJVEVaU0ZUb0MzejRkMmIxT1hzT2lSOXktVQ?oc=5",
+   "date": "2026-11-16",
+   "source": "기호일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e9cf5a7710f91910",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 학교 신·증축 현장 8곳 불법하도급 합동점검 실시",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oczkzUUo3am1EeXZNZzFPblI5cVJ6UGhhcEZkRWZjNnFUdTkxSkNpZjZyVy0xdlZIckVjcER2c0prOUQ4cWdNOFBJRE9VRXc4UThvb1ZvX1BfUlZZ?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fa35532ec566892e",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 수능 시험장에 스마트안경 의심사례 판단 전담 인력 배치",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdFNmS3ZjUDl5X2czaWhaYmJSRFBfdksxbkNaTXI4Y19CX3hhejUtOHd3a2V4YjZMYW45V0lKb3dmSXJtMXhCeURXeXl1M3NlMHfSAVNBVV95cUxNZ21EV0lJVjMzbEt5eVVwMXZTcWFCS092ZHZzRWxMU0RINWZVMExrcXhVbW5nQ01HNUI5TjEtYkpkZGNTcGdaMGtXX21ueXhHbU4wVQ?oc=5",
+   "date": "2026-11-16",
+   "source": "서울경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b65699fb91841bf3",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 수능 스마트안경 부정행위 대응 전담반 운영",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBVUDJZY2JHSEx3akxCdWZBS2s0TGRBY2Y2RHh1b29lcW1XMVZYYzdvT25JMGdIamtWMnVCTUdXOHYzTVU?oc=5",
+   "date": "2026-11-17",
+   "source": "군포시민신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "50636e717d1cdcd9",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청·한국교원대, 미래교육 혁신 맞손",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52bkdDN1ZzZER6QUQ4T25VWEpuMkF6T09DZXFidW1iQm8xTzFiUHlOTVBPOW91U3FZejBUQ1JuSVRNeXYtNjZGSjEtQnY4WE9ZTF9mT1RUUmNMTDZ4TGJzeUdmOGk?oc=5",
+   "date": "2026-11-16",
+   "source": "경기인저널",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "82946500e0b6215b",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "2026 경기도교육청 디지털 역량교육 100선 공모전 개최",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81ZXRuX2c0QzVHRDV5YUk5SXhRel9qX21tZGppQnJ0R1FUOXBRSHBYSE1MR09zdXBlX25TTXRwdnR2dWFRVm1sekZJSERMbnVrRHdRbnZMdy1BNFZIMmU4RmZ2WUZLV2pL?oc=5",
+   "date": "2026-11-16",
+   "source": "일간경기",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b714baa2e9419b88",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 수업 우수 사례 100선 발굴",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lOEJmWnBSQm5obWxHWlJWOW13UkZhTXFZdGNaQURROExYajI0VXRiSFBMZUZVRXhUNVRYeF9ud1Y5MkpSdHlxN2hVbw?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9a5812afd89a10da",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청과 한국교원대학교, 인공지능 시대의 교육혁신 및 연구 협력 위해 맞손",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSR09qLUs2OGQyX3AxZmh2U0ZYUU1ORHREODltR2hLR0swbF9Xem1mZU5Ua3pCSmpZOWpSMllkWklGZkRhdnhWSnoyMA?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c410b7609470b76a",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청 교원 연수 예산 편중 집행과 허위 공개 도마 위",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9taVlSQWF0cGFpcGdoVlBZOFVRUmMzajJQRkYyUjJqRlk5ODEweDRUY3JjYVNGOEJvaWN6NExoV3NBbEw5a3Jqdy1yS0dUdklnSkRkelNRYkY5UzlHTDIxXzJHakdCYjJLUXRoYUJRMF92dw?oc=5",
+   "date": "2026-11-14",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수",
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e4b2d404020037ec",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청율곡연수원, 신규임용예정자 대상 성장단계별 맞춤형 연수 운영",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wOWJhaHpTT2RmX2didXQtLUtVamNtS2RLVjdIN1o0TndzSDlvemRzeS1UZEplZV9xZDVPazRhZjgyU2Uzam1pSW0zTQ?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3d1587298133fcaa",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 학교 공사 불법하도급 차단…8개 현장 합동점검",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNXBGdVhHVmxUdWh6MkJrWUEwYldtb3I5SmxNZnVqT1F6V3dnNU9jT2lvNWJOendGSTZJYzNFZC11OTBUNm93OVFuSG1jcG5Mc0oxekJtQXNzRGc?oc=5",
+   "date": "2026-11-16",
+   "source": "에너지경제신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "11bf43cd2d40ff04",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 디지털 역량교육 우수 수업사례 100편 선정",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hdmUyVDdiME9paHUydGZYYjg2VUJ1TmNTa0hwSUF5anJKSVdabG9kYkx1ODk0UzV4MzB5OEJyMW9YTGhFSWtvOUN1bXhWYTNsSnB1Z2s4V2RwS2YyRGdSX0Z6cjhNZmphOHpGZ0FlQzhIVU0?oc=5",
+   "date": "2026-11-16",
+   "source": "동방일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "91e4241cc60397bc",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 2027학년도 수능 스마트안경 부정행위 원천 차단 총력",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsS1hiQVVPRGNuTFRKWjdTQ3VISmJURlQxX0VtVGdvNnpqZFZMLXFJcHJZUEZCRWRMNEZmazBrMnk5dVpfZldOczlDNA?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "87b5101c6c571938",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 교육지원청과 함께 학교 공사현장 불법하도급 합동점검 실시",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sdWJIRGxXcDdqYnZ0UDFmLUlGYjZJY3pFbms0bXRtX01paG96TzM4ZE8xeVVIVW5XYmZDVVpWdk1Na0tCVnJKSDBXdw?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bd587bdf17f13d63",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 학교 공사 현장 8곳 불법하도급 합동 점검",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQ3RWR29kRWJXQWN4RHl2dTZmT0VhQ3VGTk9ueU1PbWd5WW55YTRWck5XaTFuRHhkSVB6OXVVT1lnQjlsbVEtMTZXOXF5QXJCLVlRQWVUWjJKcHFKNDlZ?oc=5",
+   "date": "2026-11-16",
+   "source": "더팩트",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "49430d2b65d18caa",
+   "office": "경기",
+   "office_code": "gyeonggi",
+   "office_full": "경기도교육청",
+   "title": "경기도교육청, 수능 'AI 스마트안경' 부정행위 차단…702명 투입",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qR2pHTFZWZ1VGU2Y5ZkJmdFVoRkJMWU5tWGpBb1hoMkN2UXdON25CNWhzUXdsVF9lVVNobVp2Sy0xc3BHOVVOYkcxY3Eta0NqNUxHMjNoeTQtNUI5Qk05NEFUMlBDdFYzbkticmVUYm0?oc=5",
+   "date": "2026-11-16",
+   "source": "신아일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "edaaf2d7d80c8d3a",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원교육청, 제13기 강원교육발전자문위원회 첫 회의 개최",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BRG9QbmFjVzhIcFhLTnByVFhjSE5YcmJDMkxGcEV6S3pUZVYxZk5qWUh0SmM0YkxMT0s4X0c5MlljVDBzVV9Lb0xzN0lVTG1UdUp6MkptOHNtbEV6ZmNCSNIBYEFVX3lxTE9BRG9QbmFjVzhIcFhLTnByVFhjSE5YcmJDMkxGcEV6S3pUZVYxZk5qWUh0SmM0YkxMT0s4X0c5MlljVDBzVV9Lb0xzN0lVTG1UdUp6MkptOHNtbEV6ZmNCSA?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0cbb104507ff9442",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원교육청, '학교 독서 성장 프로젝트' 개편 추진",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaWTlHYTI3SXFCTGZTVmpHLWh5YVlFVHUwc0w1TUFKcm1Eb25KVGRFR3IzdHF6eHgzZFo5bVRBTlJBRlF6c1lPdkNmOHdITnBQNU1pVGpxdjIzUGlXM2Y2MNIBYEFVX3lxTFBaWTlHYTI3SXFCTGZTVmpHLWh5YVlFVHUwc0w1TUFKcm1Eb25KVGRFR3IzdHF6eHgzZFo5bVRBTlJBRlF6c1lPdkNmOHdITnBQNU1pVGpxdjIzUGlXM2Y2MA?oc=5",
+   "date": "2026-11-17",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5eb81a3e58871df7",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "\"고쳐 다시쓴다\"…강원교육청, 학생용 스마트기기 자원순환 체계 구축",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XbzZoWXVXRXUzbzlnR2p0dHU4R3lfVVM2X0dRZnZSbmVqeUdWMjNxMmZQR3MwNlJ1U0pUcGdNTHJQakRSS0txNTh5R3dHSUswX0N3Zw?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bd75b7c59af275f4",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원교육청, 학생용 스마트기기 자원 순환 체계 구축 추진",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jYXRlMXRrY0FaYTh5RmdLSGl1TjZYUDFhTm9zZWMwaTRqeTJGb2NCYXRueG9Jclg2WHBkb3VjbDZMVXNPVVpKaDItYy1YSmVXdGxuYXN6N3Nfd2fSAWBBVV95cUxQRDdJbkgxOGlETnJYQ0FCaEx1NlUzczBLNWVyRXVxNG5pMnJMeDlOVWpBaXM2R0ZXT21rVmFLV2tCTC1QcjgxazBjeHRWN2RTWlgzZU50NVc1amVSTDVLSDE?oc=5",
+   "date": "2026-11-17",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5983768871f4411d",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원교육청, 도내 기술계고 출신 지방공무원 경력 채용…필기 23명 합격",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1USDR0aGlvVmtTWlNjVFpEbUlTQTNESkFsVzB0VmtlTzVrX3dPQi1xanQyajZZSW5DbXVqUm9tTEVtMUk3Wjc2Z3dRY2hUcTJRUFhzeg?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "47bbf8354f803eb4",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원교육청, 제13기 교육발전자문위원회 첫 회의",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oQ0hzbmZLd2dscWlCa2Y1TFpUU3pwTEQtRngwWFFJT0lWVTBTd045bThWVFpZTk5zVDg5NHFnYUl1ckYtWjJ6emF3RWxQRFV4QlZZYngxdDMtOXBVbGtKRjA2R1J4a2I0V2pNS0xn?oc=5",
+   "date": "2026-11-17",
+   "source": "전국매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f4e6db8793e2c951",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원교육청, 제13기 교육발전자문위원회 출범…2027년 주요 교육정책 논의",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qNl9yZzV2cm5OVW0yZVBxRzE3VUdUNHZkcV9raEtZX3hlX2Q0aVFmT3dOMU5EbVdxYnE2dS1rQmxOWEpVV3FsaTJEVlNLZm5GTHVSaXFZYW5jQ0lCcmRzcGh2STlHWG1pQVlrbURmc3g?oc=5",
+   "date": "2026-11-16",
+   "source": "신아일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d047534ff31ca3e6",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "낡은 태블릿 버리고 또 산다? 강원교육청, 스마트기기 순환 대수술 나선다",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6V1NDaWxjNFRaNzAwNl9BMVRZQkxtWFdnWFgtQVBuaUZyaFBLT09lNWkwLVBJYXFuTmpHdEM3VDNjYmVZQ0lMV0dCRm1TVmdVRVMxZ2ZZcWFtLXdLRWl6REZBWndlaUNhNGZUNjdjMXJWUQ?oc=5",
+   "date": "2026-11-17",
+   "source": "http://www.reporternside.com/",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c0d1ff1e5f504173",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "[포토뉴스]강원도교육청, 제13기 교육발전자문위원회",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfR0JWT3JycWNlTkJwaUNHZXNxWHNNd2dSN00tVkNUNGdKaWRIbnBpTE81V0hfX0p6bW5rYXJmb0JNR2FrejBvbmoyX3RQWVFtVk9LMGh3bTU3S2c?oc=5",
+   "date": "2026-11-16",
+   "source": "강원일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d65b1344a72dfc0e",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "[강원특별자치도교육청] 제13기 강원교육발전자문위원회 제1차 회의 개최",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbWg1OW5SU2dkR2JLNW1Nd2VNTE1JaGhwUlQ3bC1OYV96bzhyWElRcllIZVZuTVYtVzAzRXZkUzRMMTBuWlZSYU9sUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b44c342cfc825a09",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원특별자치도교육청, 학생용 스마트기기 자원순환 체계 구축",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IdHlyWWI1T1JFWmZXM2F2d3huQ2hydDhjWmRvaEFiZDVqNXpBdnhmbndRcFdDOU5CRXFmVl9tSEFBZFNFMC01Mkk0WVo0YWdlaXFQa05ScVpsSHJ2YWVObHBLYmo?oc=5",
+   "date": "2026-11-17",
+   "source": "매일일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fb2f57e287f46e8f",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원특별자치도교육청, 학생용 스마트기기 자원 순환 체계 구축 추진",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGbVdmSFNHanZ5ZG1DSXZmR1lnMWFsV0R1NlZkN1FjQ0VMN3BCWkRCUWppN1JoX3RZR0lEUTl2UjczX081T2x3YUV0cHgtTjRWWURMLTIwWUtWMTQ4QVpUQVVJTXdjajQ?oc=5",
+   "date": "2026-11-17",
+   "source": "코리아방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7c5f96d25bc0798c",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원특별자치도교육청, 2026년 국제 바칼로레아(IB) 설명회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lZW1aWThFLWZoa3UzbGhKSFlqQ3VvMlNZcTNPeklBVXhKWUVBSVFhQmRQN2VneE9raUtsdDI3UWt4RjBMb3lxVEJZM0k1MUZoSFNPNnpXekVRVTNaUEZTSTFqRQ?oc=5",
+   "date": "2026-11-16",
+   "source": "대한민국교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6391a94386e1b66a",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원특별자치도교육청, 22개 교육문화관·도서관서 '학생 독서성장 프로젝트' 확대 운영",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsRElRVnJvZUtDT0Z5QmRDTzRrcGd5ZXU2S2JPUmdaajYwbzlnOGFXazVod05IY0N1YThXNFZhMEcxc3h0Y1ExWldubktpcjRWaUVSekVwbVg5YXd0TVJNdXJQak9udTEtcnBvQlZjM0E?oc=5",
+   "date": "2026-11-17",
+   "source": "신아일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "861719ccd5756464",
+   "office": "강원",
+   "office_code": "gangwon",
+   "office_full": "강원특별자치도교육청",
+   "title": "강원도교육청 내년 예산 3천3백억 원 부족",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hWllkRkE0NmIwSEJVUDRRVlFabDZOeGdCSllab2xRcGpEeVZ2TGdTZ1hwZHVtWXdoNGVjQktOZHVXOFBBVWI0d042anh2cldOU2FwUU9TaTdoLTU3dzZ5YTJianoyQQ?oc=5",
+   "date": "2026-11-11",
+   "source": "KBS 뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a81bbcb98ad374d4",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, AI 교수학습 공통모듈 시범 선정…다채움에 우선 적용",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUFhsblJkeXVfOEtnNTlrNV9KVTIzRlVZbzhncXhncHJWVlk1THBnUkdBN3llRExkdldDR2FlcHFHSVVRV2ZlWnB1anNMUXE1QmNBY2dJemhzVHptVEZpM1JfdU9xVkd0RWtmOWhB?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f8d8f96a9401cf25",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 유보통합 사업 성과 점검하고 현장 의견 듣는다 : 네이버 블로그",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjRreVktNEtMQ2h2QWRteDI3QWQwU0lfVGFYWDJRVXMwR3VMdnVZQ2dJUmRuNkNTNTkyWkdncDluVzRtcWdQWkxkNmN0SVZRVzNtU04yQm1PcE5JVEwybC15OHVhZnNTX0t4d2FwQ1hXUlFoaXp3d3Y3WG50cXlZd2M2ZldBSHMtaUlDbkp5MA?oc=5",
+   "date": "2026-11-17",
+   "source": "Naver Blog",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "46728880f9e102fc",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 교육부 AI 디지털 교수학습 공통모듈 시범교육청 선정 : 네이버 블로그",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEh4aDNfdV9DbUFjQXJ4R2RrdFdCUHFzbWVNTHNJeTI5NGFGWktwbzA4dnF0QThiaVo1blpmbGhEZnFuTEdnclFhUmc0bjNsZHJwVElGcUl4TTNLYU9yVmNpMlRHWFNudUZsN1Z3SW05QXpYR0drcHk1dWxlUmpWSFA1RGJaSVROdjJsT0dzOA?oc=5",
+   "date": "2026-11-16",
+   "source": "Naver Blog",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "68853714815e875e",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청 '물품 관리 방안, 회계 실무 매뉴얼' 개선",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oY3BwQ3BqVEVhWGx5U3p5SWtNb2lXRWxJMHBiU1I2RHZReDFxLTZlMDJCRzVUcVY4eWtHNUJwUkFINEtiQ2lTUW5FeHJhYWZUeUlnOWNPby1PWXRUM1lLcHpINnhJUnFLN0pXZ0RtcWFjdjhXQXM5LdIBeEFVX3lxTE5oY3BwQ3BqVEVhWGx5U3p5SWtNb2lXRWxJMHBiU1I2RHZReDFxLTZlMDJCRzVUcVY4eWtHNUJwUkFINEtiQ2lTUW5FeHJhYWZUeUlnOWNPby1PWXRUM1lLcHpINnhJUnFLN0pXZ0RtcWFjdjhXQXM5LQ?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a84985cdc20662bc",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청 카카오톡 이모티콘 배포 일정 변경 : 네이버 블로그",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEhTdjF3M0c2SFRoOXRBd0F2RGxJNWVEVDU3ZnhWOFM5MXFUeEZoS0lBdXRycXg0a2diS2FwTEpCWF9zNkYyUFRFaXUtUVhTTk9QcTVRQ2NYcnBLUWJtcGJQb19lbW9adDhfS2lMa0hOa3hLNjduTFlsUnRnOXJSdXJiRk9CSC1oMXRmNkRkRQ?oc=5",
+   "date": "2026-11-16",
+   "source": "Naver Blog",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cb8b4765f39abb48",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 충주청년경제포럼과 도서구입비 기탁식 개최 : 네이버 블로그",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEplbXZ6SUl1MHdlejB3UEVycjZrZU9MS2pLOGtmcVMwUFBoM0ROTTVXbi1nNkFGLWZ3YUU5SkM5Z2plR2VkaUtuYkU4MEF3R3Zqc1hIcjZZYVE3YUp6LVRrRnFWYnhOMjU4UHpyUUVvSjdCTjFrVHJSWXRNeFZXbzlxNTc4aFg5M3NhLXhrQQ?oc=5",
+   "date": "2026-11-16",
+   "source": "Naver Blog",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "23cc29ab7e22b3fb",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 청렴시책 현장 점검…업무 부담 큰 사업 손본다",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZjlXc25VOUpaMnZJYnlMV042b0ZvckFWYTlHRDNnTG91R3Z6OWFORjFwX19yNVNVM2tub2VfWXFtVmM0eEpjVm1QdjZOY29IRHdWaWVSZ0IzNUZl?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c1be107c70e4ffad",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 2027년 교육홍보달력 수록 학생 작품 12점 선정",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CTUl0aGhVUkNLVmUxeGhZcUpZNUhMVzJYUW1fMGxrb0RHdjJ2TEdmRVlRQlhrQXVUcTdCN3F4UG9wQVZjMkF5eDVmQUFNek9qVTNjYmJCcTFxRUFyWmMyN0t0UE94bkhVV0s0?oc=5",
+   "date": "2026-11-16",
+   "source": "BBS불교방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cc4ab24a04b316cf",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 교육부 AI 디지털 교수학습 기반 구축 시범사업 선정",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWDRUdHQ1UW1FbEljc2U5bHZSRkZSOUxmSExJQXhHUHRCZEZYOGlpUU5OWnJyZTJEUEhvQUZ1eV9pNGtQRkNvNnJjeG0wT1hrQVBNWldyMl9jZ3RvbTdBOXBxMmV0THNseHFB?oc=5",
+   "date": "2026-11-16",
+   "source": "BBS불교방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bfe46a6632b1dc72",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 회계 실무매뉴얼·물품관리 개선안 마련",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvazdjbWlFVkUtVzZPQzkyOVV3ZHJLUWdxeXczWTg3MTZDdjJfYUROTXJhWXB5X216M3U4Wm9aVGJTWlFvWm5PQjNrUFptZGV5eGxXNDhZSGRKWVJhNXA4?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "abd78f4a697ff89b",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 2027년 교육홍보달력에 수록할 학생 작품 12점 선정",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15Y21aNTVrZm9sa1k3bEJySHJCZEdhU3RMWDJ3by1YeUlyVjIxcGFhRzZLLWYxcGktUDl0WXBSWlhjT0RVZUZQUHdVYXRDNGpHek50MThVX0Rwc1VTQnhz?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "30f5fc2f05b2d468",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청 'AI 디지털 교수학습 공통모듈 시범교육청' 선정",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LazVqb1MtdjMwSXJjX1l1T3k1djBGSEpSaXQyZEZ6Q0V2RzRKNTFPenlnRVhoU3ZNaklHVjFJOFk0WEZQY1I2dURQNjE3QkFyTWc4VnBPUWRrcUpBN3BJ?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e6ca340678228e38",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 회계 실무매뉴얼과 물품관리 개선방안 마련",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xcGlIUlBLcW44WFh4dmdRSkhlZTM3Q1E3NEhmcU9PcTNPTlN4NTJqcm0zdGJHY25JblQ5a3FZdXZfU0I1cW56NzVtUjlKZjBDbTFSUDNIUnN6RDdvYS1pd0xOeVdPYTFBYkUw?oc=5",
+   "date": "2026-11-16",
+   "source": "서울뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f7fb06d3fe4ae7e4",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 학생 미술작품 12점 수록 2027년 달력 제작",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBveVpfb1lRTnZFRS05dTZtdWxVeHBHZlhRU3B4UzFjd0lPVHkyVzZXcHc5UndLMDVxMklMbWlKbUNDRmRYWEZIQ1NZNE5yYS1HMmc?oc=5",
+   "date": "2026-11-16",
+   "source": "노컷뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cacaa828c80da16c",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청, 회계·물품 업무개선 TF 운영…실무매뉴얼 마련",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzc1ptd2xmanprc1NySWJxY3o5WFAydThaZVFvUnM2UjF0ZW5YOERwdXFQRzBPYkYxTnZpUHNmNTdSQXcycWhMQy1SeHlObkRaSHRwb2R3RHNXYzhNVlN2a1l6TEM5UU9CWUxGSlpB?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f389e683198048a5",
+   "office": "충북",
+   "office_code": "chungbuk",
+   "office_full": "충청북도교육청",
+   "title": "충북교육청 'AI 교수학습 구축' 사업 시범 교육청 선정",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ROHNIdnB6S1hJQWpBRkNISWNyUEdNZllDMnJjLXJ0d0pBbDVid19KZ3J2QkNxa21Dcll5cGV3VXhacFNKUVRuckd6WF9USmNKR1hrMFBMTDl1azJjMkc2bdIBeEFVX3lxTE1RenB5ZHRrWVBweHlCbEN4c3pMUmJBcWVWRjg1SnVZWWgyeTFKVXF1UEZYUHNaTTgwQTJrMzFVVERsNXlzWVYzYXpBUjY2ay1fcHFRUWVlSEZsN1FxaUoyMWJTeWVxeTF4Z3poZURVNUZLU3p1TWVLMw?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3592f43f276baa91",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "학교 떠나는 아이들, 충남교육청은 '기타'로 분류만",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKVzEzQ1YwVEc4YWNRU1A1OFNWcDBXcllkUHB5LVNRNnJZcHlnSnpQSm1QSk8zcmRNR0c0NDZUMkZPaEZ1aHlDeF94SEZrMW5HM01KN2twcDFXRU11SjNFN180TGptc1BxMXQwT3phcmdWYlpCaVBV?oc=5",
+   "date": "2026-11-17",
+   "source": "OhmyNews",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0773db8e53201162",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "\"주문도 결제도 혼자서 척척\"…충남교육청, 어르신 디지털 문해교육 마무리",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vbUl2emVqcVZrQWJ3U3RFZmtnUkZvajR6LUsyVlpZTWtFSlBTVFZvM09CZWJWWmVjZi1WM082MmhuUnZqX0FPdGVteEU1WG5BT1VkZHJRcmlNOGV4WG9KOEZzU2dvcXY2RnI0ejJR?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "16fcc784870b04bb",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 중고등학교 18곳서 흡연·마약 예방 공연",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNW1ReEUyR0F2Sk54N3VyV0w1NXJwRlVBdWVUSnp0MXhCNFYtbzBQTmo4R2Q4ZE1IMVFoRXVpUjE4NjN0a01TeFhKS1YtMVFlS2VRWkNvZjE2SDd4Y2NDWGV4cWZBSTVPYWphZlNB?oc=5",
+   "date": "2026-11-16",
+   "source": "국제뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a18b7c9e12f56b4c",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 어르신 1000명 디지털 문해교육 마쳐…15개 시군서 진행",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sOS00US1ObVEzRFp2N3dSNzA0bGVzQVc4by1BWVQwQWstRkxVUVNwYzNzVXkxY2gzbndmOWZTV2ZNQzdkcHhWMGhuei1YblZ3bVFFd3VNN1VNUnVHQXNOS2RPTUlfLTNHZE02c3lNM01ldmZM0gF0QVVfeXFMTWw5LTRRLU5tUTNEWnY3d1I3MDRsZXNBVzhvLUFZVDBBay1GTFVRU3BjM3NVeTFjaDNud2Y5ZlNXZk1DN2RweFYwaG56LVhuVndtUUV3dU03VU1SdUdBc05LZE9NSV8tM0dkTTZzeU0zTWV2Zkw?oc=5",
+   "date": "2026-11-16",
+   "source": "주간한국",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9a513565d9c2c5ee",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "\"이제 눈치 안 봐요\"…충남교육청 '어르신 키오스크 교육' 호응",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GZ3lPWEMtUlpFdVV2bHdKREtNQU5PaUF3TlBiVDhOV0h3bUx3R28zVktDWEMxYWlmYi1SSVdabG1CTEFJTWxhUE5OWTFsUU1COUdzR0RjNVRWSkQ4OXVmaGE2WmNia00xNkhRUkV3SXZQUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "굿모닝충청",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "af4308c653a3b66d",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청 개인정보 이유로 자료 제공 소극",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBualgwanlrbDVzdkJWUjBOSlVEdFNyUi13YjlNNVVoUkZYc1cyWFhWVGlkZTZxQWRHZjc2SnBxMmZacElNSFdfZFJ2aWFGZ3VEUk4wMjhwYUZkVHVpZ1dMMjJMZm5UVG5ZWDVwRWxoONIBc0FVX3lxTE9wMW9SNzVrQzJ0dGdhemphci01V2pYX2JZUHlRdkVEUkpEVzduQktRQW9USGZTcWhjeU95U2IxekVxcmZSUDAtelUwWmw0NmY0YkVFaEpLX2JCQW5meVIwQnhPaWdfbHZUQzNURE1sX3R6SWc?oc=5",
+   "date": "2026-11-16",
+   "source": "대전일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "51db554c61e0bb58",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청 \"수능 시험장 53곳에 금속탐지기 평균 10대 배치\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVDhWcmNkZkgtbDNsRFFaN3ZjcUVoeW9TaTUweUJac200TlBZZkl0WjNIM1RjYlF0Ul9ZU20wWUo2TG9FNHROeUl1b3NsOTRpZE83eG5ubmNJa191b25OSVBzemlESlBmYXlqd1VnRFBqdw?oc=5",
+   "date": "2026-11-16",
+   "source": "굿모닝충청",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8eb906d78628b548",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교사노조 \"충남교육청, AI 부정행위 대책 구체화해야\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tTmNWQk80Q1lTSVJjUHYyVmRMOVlUbl9uNXlTMTNDa2ZMNl9nUDRrdHpuX1M5OGlJdnJRTnhBRTBkMHh3eG83ZmNKVUh0Ry1zWHgwbVFsYjZzZGfSAWBBVV95cUxNeWFCNTNZYTc5RHBqaTRfQUtkZVNzT1F1RmRYY0tvNERUNXFOUER6bEtURDFDcUVFSF9XeXdOUE0wUHVuSEdTT2d3ZmsxbFRHQUR5LUV0aG5tdXJxVHBVd24?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7d78bde8d03991f4",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "수능 사흘 앞 AI 부정행위 우려 충남교육청 대응 주목",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcUFhVm5pT0dnMWFraG5DQUVUMExSMHpoRDcyeFplbm9uOTU1dEhfYXpIY3BoQWdSMGxCQ0tWSDBoQ1hxUTB3WU1xUkQyLWx3M3FmTmVTczVTUTdKc2YyUVQ0WmE4WmR5U1FXLVpn0gFuQVVfeXFMTWpxQWFWbmlPR2cxYWtobkNBRVQwTFIwemhENzJ4WmVub245NTV0SF9hekhjcGhBZ1IwbEJDS1ZIMGhDWHFRMHdZTXFSRDItbHczcWZOZVNzNVNRN0pzZjJRVDRaYThaZHlTUVctWmc?oc=5",
+   "date": "2026-11-16",
+   "source": "중부매일",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4d8c7078a5a45d88",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청 행감서 '부실 자료' 질타…갑질 신고 대응도 도마",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NTmxyTlZkNnBfbGdpQTFCTVBHN3BuSFNVYXZJdFFNWXZKVG93a2hzMWpYdGNjX0RSOWhuVzBKSlQ0Y3FLLWw4M0I4UThHWS1FV0FhdjBHWTFsUnlPMDRxRVNGWVl1VTZ1cWJDNEtub2s1dw?oc=5",
+   "date": "2026-11-16",
+   "source": "굿모닝충청",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "942e85fc9170e5db",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "당진 한정초 전교생, 충남교육청 학생안전체험관서 안전체험",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdzc5R2IySXVuSk5wY1BtSGRZSHFDeGY0aEFTenczZWlYMHZnS3R1VWVKTzgyaVdZc1FhNXBjaC1vTWpONnQzRG9FLUNrRWdvaWp5dmdBT0dpOWowa09sc2loMEV4YWxz?oc=5",
+   "date": "2026-11-16",
+   "source": "당진신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여",
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "2662a808820b7e09",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청 예산 3700억 부족…사업·인력 운영 효율성 도마",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yS0NHdExSVWRTX19SNU50MjAwTE9yUFZXaDlmQ1AtMV9BSmNxeXdnMWlSbE05ZVpVZnVGbmtGeHoya0pnMGpPQnpFcWlVY0hsdjdNalBkUHNwcWdtYVFIdDFLeW5LZDY5dENCNHZn?oc=5",
+   "date": "2026-11-16",
+   "source": "충청투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "77d80525022789bb",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 초등 학교생활기록부 기재·점검 이해 연수 실시",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12dlpMb1BRakhvejVleUIxUGEwZ2pndGpmUEJSamZEak53UWlzc2phZGZxbWpRaHFTNGRIYXB0NFRKcHgtc3Q0aUp3bVVka2N2TlZGV3lwY0NhS2RXeFJSU0hNNUdCVHRaVVN1aFpNUnJlYnhpb1E?oc=5",
+   "date": "2026-11-17",
+   "source": "굿뉴스365",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "87cf34e961d92203",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 위기 학교 공동 지원 나선다",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IZkUzUDRnVl9vZ0VoVUJJdWhuOUlaT2tVanp0ams5YV93SDZpMEhUM2U5eVlqd2tnTXNYUVIteTgxSUg1a1J2U1hocUdHN3gxc0p1dmg4dzBXQWtPckZPU2JYSmd4Wl9zQ2c?oc=5",
+   "date": "2026-11-15",
+   "source": "금강일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "148e27ebe0938ea8",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 수능 감독 인력 보강…AI 부정행위 대응 강화",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13RjdzcG8xYWVzLWc1TlRYdTJMZWVpcXFBR1MxQjdicVhKTzZKQjlVZ2k5ci1ZcWFUQW1pWEFuUGZybVN2OXNGT0hFbkV1eEpFQWxRS01BemdjeXNzdVRJZXVJUVFDaHZoSFczN0ZkRTRiUQ?oc=5",
+   "date": "2026-11-17",
+   "source": "굿모닝충청",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "56fdca6caf1e7d4e",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 초등 생활기록부 기재·점검 강화",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iWjlyb2VUNGxmcS1CelNHUG5UZGozNG1Xd1NGdm5wV2dIX0FYUVlvNUNkRlJkdGFpWkVwMUprUHN5ODRFdlNRWTJDN0FfOHJMSy1NM2F6bjl4SnEtNU9zaXhkQXUtU052YlZWU0JEYWQwTjR5?oc=5",
+   "date": "2026-11-17",
+   "source": "대한경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4aac7904261a2155",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "[논평] 5년 새 33% 급증한 충남 고교 학업중단… 충남교육청은 위기 청소년의 ‘배울 권리’를 즉각 복원하라",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iMWNpOVZYSk8zSlB0Tm9hdkdIVFJFWmxwUG5VTUxHR3c0Q2ZBdVBQZ2U0ZjJKRm5WNC1nampqRFZPOWw1NXpvblpqVzZscXZyV1RwSEFSa0RUNmREcXFBX3VDNWFKVUE5T0pBWGt3?oc=5",
+   "date": "2026-11-16",
+   "source": "금산중앙신문방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8cc4c9d3067e244b",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 어르신 1000명 디지털 문해교육 마무리",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mM0tVZUFDbVNZdE41QlU1bXA3d3BGc1R5eFhxREpuYzVvVzF1MkhmVmZFUGsxZm1aWS1CaHFYMmNiZUEydmhwYkUwUTJhNDVqR09fV0F1UEZfNnA0Y0pIekl2eUV0R1B6Smc?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스티앤티",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1dad32ede57e51cd",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청 ‘인공지능 직업교육 프로그램’ 진행",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2U2xWUUItSWExcFdfWkdzRDNoMWctc3NxQWZXdEFydUNkY3RTNTBXR2ZkTi1sWlRpRDJuSWFQdm1qaFdQYXNLeEpRWENCN2RhQV9zU09SY3F1YmhDMTI4OUc0TVBzemY2cnc?oc=5",
+   "date": "2026-11-16",
+   "source": "금강일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ff26d470827c5b4d",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 휴머노이드 로봇 활용 미래 직업교육 운영",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MTVJiS3NXNnhETGhabjhaU1cxbnduQ2xOUFZhRUJGXzFZMHZtWHp0bURtVHJHNFZnSkR0WkNPSTF3aXN5bzNwTk9EZzdMSV9XMjZyYVcyM0wwZDFSNkRiS1pIVUFiak5hTDhXZ25n?oc=5",
+   "date": "2026-11-16",
+   "source": "전국매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e51ff6f1ace5d6a9",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "수능 D-3, 충남교육청 AI 부정행위 차단 준비…금속탐지기 실효성은",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE96aEVOOHNJUUZKam9uZFdha1cyUTNQWl81M3RGMWZla01OcnQ3bWlqTjdTOVB3cklkaW1qdkhtcmFzd01y?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스파고",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "fa3a141ca24812a2",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "[포토] 충남교육청, 시니어 디지털 문해교육 성료",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UzV6UWxGYURreEhQYXZTTm5sdU1oaDZfUmVlcEs4aDhEOTFuX0lwSXVtLXB5VUN1c2tmWWI4NFp5VFg5YXJhc2xsbzY1c1BjMFpYcWx5ckdaeDV1bE1WU1h3azhibEpQN0c2dVNYNW9PcnM?oc=5",
+   "date": "2026-11-16",
+   "source": "충남일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9e2cf9db7405f548",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 중학생 AI 직업교육 시작…휴머노이드 로봇 직접 코딩",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uWFVKNHhpd01NQkdxb2Y0dVFVUHk3OTNVYmRPTDdJWWNOZTRqbVJYUW5aZWdNNS1hNXFfd1JaQ3BMaHRIcmQtSnpoU1JuNk5jLXJManJWZ3JWYl9aYUpWbXhYdEJqTVBZdUE?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스티앤티",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3cfaf37ae6b8335d",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "[포토] 충남교육청, 인공지능 직업교육 프로그램 운영",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04b2RrUGtoaDlETnZYY2lOYzNpMkFJaEY1bV9sb3VERXBnXzBsY0JTbk1JdUtndUlhX3FjdXBQTUNxeFZnMk53V1FoWHRHV0gtVnc2d3l1WXNPbmhBVVJEOHBVTlh3NENra1A3VjVpV3lfeVU?oc=5",
+   "date": "2026-11-16",
+   "source": "충남일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8fb3c64c3150a743",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "[포토] 충남교육청, 찾아가는 흡연·마약 예방 교육 공연 운영",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mSFlQa2wxZ2pJX2F0S2oxTFZpV2lvVTZuSFRzSXdCNVItTjJPMGFMMXZGX2lZUmhITnlOT2ctZVdxQWlSOFVqNm1WbU9aYlNEQ1FNbndIbVk2Q01lVkZ3X0tEX0pfN3ZvZDNkQkppR2Vfc2c?oc=5",
+   "date": "2026-11-16",
+   "source": "충남일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9de82c11a11071f5",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 어르신 1000명 대상 디지털 문해교육 마무리",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3cjRLd2dya2E1dFJDQUwzb2E1a1FTTVNTenREWGlnVTdlaUdZbzlPdEo5RlNWNzhhelhNNkFNQkhOT2ZUak5LVzROZWdsMWp4Z1NkcVlWVm5VS3lVbDd3MjRNZWU0ZmVMb3Zjakc1djA?oc=5",
+   "date": "2026-11-16",
+   "source": "신아일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "69299ac2063a844e",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 인공지능 직업교육 프로그램 본격 운영",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbl8wSzVLdVJaZGJ0VGZvYXVkMWRTal8wU04xemNBNW9BZFgtVmVKZkdCamloOWRRcU50ZElqSXJxcHVLbDVQRVItTGtObTVkRkwxdDF6N3RFWC1qNVJXY3NqZ0pIU3Q4djQ0?oc=5",
+   "date": "2026-11-16",
+   "source": "디트NEWS24",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "00abd7858c9b043c",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 도내 15개 시군 어르신 1000명 시니어 디지털 문해교육 성료",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51WUtyZGxkQ1VGUGlkRGJYNEtpcUt4UHp4d3pBdVF0Sk52cGNJRGR4LXNCSmZSV3VnUEowYkJNenp4MTN0WmRwenI3MUtvcDRITEFsVmVyTW41VjRTeGhLamlaN2FjVkVzeFVCcDZOT2jSAXRBVV95cUxOTkFJQjNoeTJ5Z09SaUJHQ0wtS2NEbUw3WFRDOXhYcS1CZ0hLejA0ZnkwdDAwWXc3Q1hHYmxJRGhxRmF2TXluT040TzdtTjBBVWs3cUFOUFFodGQ1aFNfcnRDYTV1NkJxY0kwQUE3ekFSR2xmNA?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스워커",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4d7f6969776dce45",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 14개 교육지원청서 학교생활기록부 담당교원 연수 실시",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5rbHNMbS03LWNpUnFOSzVIbmx0T09FUmpWYlYwWVBKMzFwd0ZENjBtbnljRms4WGdrUFlXaFA4YVcweWw0?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스파고",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ec8c8924093d08d7",
+   "office": "충남",
+   "office_code": "chungnam",
+   "office_full": "충청남도교육청",
+   "title": "충남교육청, 도내 중고등학교 18개교서 찾아가는 흡연 마약 예방 뮤지컬 운영",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TQk9MUUVGZE0wcWh4X0wxNEItUjFmcHFsV21fT2RkTEU4NW51d1d5aUtweWYwRGFLS2txWmNnQjk0Y0pQUlloSnQtMDd6SGo0bFZueTFLRkpmcnBodGZLeEtfaE9iaHVBMVpfVS1DZEHSAXRBVV95cUxNbGd4eUpSTl9WdGlVajlIU2RyYndValRXN1NKalk5em1MY21UcFo2d0ctRGp3YW90dWxTdGlDZDhJdzY1MVhnZlMyRi1Xa2RuRXRJSTFfaHh1NHdfUWctQnRwanZJR3RpaElGeFZYMTRuMnhWYQ?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스워커",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "643cd79151c244e6",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청의 선택과 집중…“한 푼도 허투루 쓰지 않겠다”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56d3B5dW1sM0xJNDI1NmVhSURrV2R3LXF2LWhBTjcyWjFmTm9zdEx0TlU3WUJHdXRmYmZQUTNHa1lDQ2ZTNlRLcW5CY2FHaDMteW1pcC01S012QU0?oc=5",
+   "date": "2026-11-16",
+   "source": "KBS 뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "436f0b361a566f5f",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "수능 앞두고 AI 안경 초비상…전북교육청 \"가방 복도 보관\"",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wa0xidHlFcUFleFdJQjBYYmsyY3hZd2F0blNUbURnWlYwNVo1dFhtUXN2U3MwRXpJbmNZSTYzaWFVa0dkeHV0ZERtcGlfN1dxQUtadXRCcy1KRnlBQV8xejZVN2Q0OHJfX21lbmE3bWhHWHg3QzRhY9IBeEFVX3lxTE5Wa0xidHlFcUFleFdJQjBYYmsyY3hZd2F0blNUbURnWlYwNVo1dFhtUXN2U3MwRXpJbmNZSTYzaWFVa0dkeHV0ZERtcGlfN1dxQUtadXRCcy1KRnlBQV8xejZVN2Q0OHJfX21lbmE3bWhHWHg3QzRhYw?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b1143c0cfb07057f",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청·남원시, 지역 교육혁신 협력 강화",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93eFV0VDlLT05SNFZqc2lMMHEtYUJKYlVHUXc4MHdRTG5pZHBKNTQ1bW9WeGtKRHZ3YTRaTFl4LXlwZjZHbm9SUklpTnowRl9IM3NaM0Z3d1JCSzE1ZkVV?oc=5",
+   "date": "2026-11-04",
+   "source": "MTN 머니투데이방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5f80aea6a3322a1f",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청 \"수능 때 모든 수험생 가방 복도로\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nRVdfejVabkpRVmJvWWpjdkxOS3dGX2s5elZ6b2R3YzRjMEowaGRIeVE3d2RLVzY2N3Y0ZmRLV3EtR2ZBdU85cEtKYkhiUXdSSVg1alVNSlkzSnk0Ti1xNFhHaE9xUHA3ZEVKZHcxYXRKdw?oc=5",
+   "date": "2026-11-16",
+   "source": "LG헬로비전",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5f52c3f07858f8bf",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "AI 부정행위에 전북교육청 \"수능 때 모든 수험생 가방 복도로\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xYUdlQnU2TUxjamhXblU4ZWlseHBBa3BrcjJ3LXFKMEN6MUdFT0t3ZVZwZlBqenFINi1QRC1uQUtXZk1uSUw4VDlLbkxZRTVlLVVrWGw2dWpBMXPSAWBBVV95cUxNZjZUOUhBdGlVLXZmYWdhU3JFVEdSUmpqYTF4MzNMQjFKOTB1NXE5R3dkSFprWWZzTF9ERWVTOTlGRmpYd3NhYVd5VDFlRjFWYktPUUoxWHZBUkJ2cUprY00?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9c9972058b5ed23d",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청 2027년 본예산안 4조4,421억원 편성",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MWDVETnpRSkVrdXBlNVd2anVZZTRLUGViN010aHB3M2ZUVl90RGY1c29zRWg2TmxFZWk0RjhjeWVCTkNJczBmVjJ5NHQtcXJ0NExNbnRoaUZoenJQamtwbkRTTTV5VXhIRll3?oc=5",
+   "date": "2026-11-17",
+   "source": "경북신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c117f0b54c73aba7",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청 4조 4,421억 본예산… \"도의회, 학교·학생 볼모 삼아선 안 돼\" 전북타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zNnYwdHJHNVczdlVpN0xqY0FvSldkMHZpSUVuRFpKelNXMlUyX2FWaldlWmstRUc1dC1EU1d1S0lLQXAwdFJTV3dqci1ZWXRLRDYwMmo5MTdlT3p0c09sdUZFQTFuQQ?oc=5",
+   "date": "2026-11-16",
+   "source": "전북타임즈",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c345e2b3c98d2ae0",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 전북GPT→전북AI로 새출발… 교직원 이용 편의 높여",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sSzVob2lZZUNNNVBHSDMwTEt0T0x1V0luM0s2eTBvWE5jX1hjRVY0WGE2NVduT2g4ZlpkMk5Mc19PMnd0dGNSMVFR?oc=5",
+   "date": "2026-11-16",
+   "source": "미디어투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1b6edf0eb22b4e97",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 학생·학부모 1,400명, 마음속 이야기 나눈다",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DM2psSlY4cjYwWjZwZTgwRG52Q213YmtBZWM5WEdPbmJqQU9KYWVYWUpncnIzandweDVUWGRFcjAyM291MHAzVGVOb2V4MHZPU2xPTm5sQ25GWThOQkpRVzZNNmxJdzNfa083STY1eGVZY3lp?oc=5",
+   "date": "2026-11-16",
+   "source": "글로벌뉴스통신GNA",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "56fa8196f6727b31",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 내년 예산 학생 안전·교원 교육활동 보호 집중 투자",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SNXd4cVdGZ0VpY2FDaWEwWVoyRF9FOHVRUC1DZEE5ODJacVRoX1pfbjhCQ2Flcl9ab0NLQU9yN0s1Z0lCMzZNY0ZJUnh0dnAzejBIZHJ3dTJKZHZaaGNYZ19PMA?oc=5",
+   "date": "2026-11-16",
+   "source": "쿠키뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설",
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "633bd442643d8f68",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 교직원 생성형 AI ‘전북AI’ 새 단장",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QlhiYThWaXF4emUzSHBoRkpaeG9wY181YlFLMC1ZcUhNZU5uRnVPLXRSLVVYZnFTLUhBX19fczlDX184S20zaHJqanNSU1E2V0E2LWhnX0dHaWE1a1lJ?oc=5",
+   "date": "2026-11-16",
+   "source": "전북미래교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "81bf390852cf9df3",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 학생·학부모 1,400명과 마음건강 토크쇼",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FUmNnVDlMNU1GSG9jcXBJNW5VS29GZk53bmVFS002WFBwalloaUc3Q3JjTmN3cFBkb1NzRkF6U3ZNT3lCX3VZNDV2cl96RlNYN045WWNFZHRzWk9OT2p3?oc=5",
+   "date": "2026-11-16",
+   "source": "전북미래교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "39b3d1374b3a89db",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청 내년 예산 4조 4,421억원… 학생 안전·지역교육 집중",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaVE1bTFNbldEMXIwTFhGWl9fbFM1LWdURVJSY3ZjMFNzRkdiTHNuM2p0NE5sZFVrSXFYSUNCWjN1ZHRjbUFJQTdoM09uTWlJMEhobFprMVJhUHBNV3k0?oc=5",
+   "date": "2026-11-16",
+   "source": "완주신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설",
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "928982eacc2f42ac",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 내년 본예산 4조4421억 원 편성",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11TkVPTEs1STJOVFNBSVFJS2xoZENFVk56ckFmRlpBMkNiUV9wcGFMS2doRHhMamVvRlBfMkJGR3FyaTdLSlRLSmpiNHR3N0JwVFpDQ2VBeDlVR3hudWdEcUhFLW85azhjQ3l3anhuTjk1c03SAXdBVV95cUxNdng1UGMxY0pES2puanNrQUpRa2hXV2FHOVo5RGFjTi10UEZKSE9hX2loaGRGODluNmx0OE1mMDgzcWFBbFJpQ0xwWTF6bUNrQXU5cWl5WUsyajBZWERGZlM2OW9MR2hodGdsVTluWkdTN0kxX2ZpUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "핀포인트뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9b1beb3b28384c9c",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청 교육가족합창단, 12월 3일 제4회 정기연주회",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TLU5hNEZOQkIzaUF0cWYyZmlVTHJYUDlpdVEtOG5mZDdUUnZJNmNPcWh2akI4RDFVRmFHNmFTaGNyb2pUMTB3ZHlFOERfamE4b1lKZ3N3WVRzaE9VZ3VmU0swZ2dqUXpFYjdj?oc=5",
+   "date": "2026-11-16",
+   "source": "프레시안",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ae562ef63557c0cc",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "“A·B·C부터 차근차근, 응원합니다”…전북교육청, 만학도 여학생에 교재 선물",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QWWlCTDFySXZIVXEzWjdHR1E5ZHdhZXVGVjY3OEFBQ3JsUl9tSGFIX0hnZFVOWTlHYlpsdzNTSGpBSHA5a0Z5amRxcF9nclcxaENKdURmekFtMC0yLWpzWUxCYWJFblBUZUc4?oc=5",
+   "date": "2026-11-16",
+   "source": "프레시안",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bf3ed6dd9b2bf69f",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "수능 앞 전북교육청 \"전자기기 소지 시 부정행위\"…천호성 교육감 \"몸에 칩 심는 시대 올지도\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4bE1mc2lvemFQRWRza250S080WlBKMXdRRGVlOC1nREFfX1FIYVd3YVBrc3Fxb1RuTDB6eHY3b2U4ZUx3QmV2MWdYS2JBZ0hJMHlfTmpKNEhvWDdscldZ?oc=5",
+   "date": "2026-11-16",
+   "source": "전북미래교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4a5a9667edbc2336",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북특별자치도교육청, 2027학년도 대입 정시 대면 집중상담 370명 모집…12월 2일부터 순차 예약",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pelZ5bTdQSmdMRnYtSkdiSlg4dVV0Ukl0aENfcVZGdEVWMnZxdVU5NVBaZ0k1Zkd0aFdqb2hWM2taVTJBRV9JNEJPZG95SXc2eTFXeWE5eEE0WFdYaFhwNjl2N0FXdw?oc=5",
+   "date": "2026-11-15",
+   "source": "교육을 비추다",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "d8c7bd1fb70e7ef4",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 생성형 AI 플랫폼 ‘전북AI’로 새출발",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MXozSFY0eUo0RjdaMzBuQ3V5bWpfc0hHb2hfekFqNmJCSER5c1k0cHhlZFE2bTUyTDRneHhYYTRuYzhkZzgtbjZXVlRFLTJYQkphd1lna2J2T1g2YVZERXJfQzhjeUdI?oc=5",
+   "date": "2026-11-14",
+   "source": "투데이안",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4d40c4fdda41ce69",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "\"도민의 참신한 아이디어가 교육을 바꾼다\"…전북교육청, 정책 제안 대국민 공모전 실시",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faWY2TldwYVNhb0gtOFo4amtQYlRsMDhUYmZTMVVsbWY5RVh1OThkSExWVHM5VlpTanRwcWFmN0NlNFF3VVN3bGp0a1BIdnpSQlYzTS1ha0VUaWRPZ0tqeEpwTQ?oc=5",
+   "date": "2026-11-13",
+   "source": "더펜뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4c66cc4b40898c59",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "[교육타파] 행감 관통한 '의회 보고 누락'…전북교육청 사업 번복·축소·재검토 줄줄이 지적",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SU1dEcXlHNmowQl82YnZpd2tUM0JNdXZtSkZ2bS02bDN1V2ZRX29ITlFLWnR0TlVUZmhyMV9zbHlRMzZxT1AzVU9Cd1JNMER1b1RnMURXMWF0OVVVWXdz?oc=5",
+   "date": "2026-11-17",
+   "source": "전북미래교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b3acb7c832c83c14",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 13일 전주대서 학생 마음건강 토크 콘서트",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQNEdWY1FNZWZTUHZDZkpwR0lLMEdjQXRoWm1sNDJoWmlTd1RPUkVURjdIS0dMVVM1cENMbzFwVWpxcDF4MkJUc052MGpINXBRRWhWejd5dkM1RGpFU3cw?oc=5",
+   "date": "2026-11-13",
+   "source": "전북미래교육신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "05ed937af8614863",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, “교육 가족들 전주천변 거닐며 환경보호 실천해요”",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13TzdDcVpFUW1tN01CZU9QTU5tT2xfWFA3M2ZvWC1DRG9RMGg1YnFPUHZLNDN3QTdBVG5fQi1OSUdFU1djZG5YdTk3QUpLdjFpLTJKcC1TemFSNE42?oc=5",
+   "date": "2026-11-17",
+   "source": "아시아뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "40c9cc40ab73b157",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 교육가족 300여 명과 ESG 실천걷기 나선다",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GbEJvLU9EQ3VsdVRuOEx3LUE2WFlleE1oZFRwaFZJMG1ET1ZhRDBCRUhDcFl1dDVTRjlnNlhRYlg2Qks2eVp0VE15U2VSaDh0T2QxckV4NDJ1dEQxdWU4LVFmTGh2VkNQ?oc=5",
+   "date": "2026-11-17",
+   "source": "투데이안",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "091ed7fff6efb917",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 도민 대상 '정책 제안' 아이디어 공모",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90RldCd2VFbE5XNGRnSWc1R1I4ZV9pMlBETjNFbVVJaHRfb0dtZm5LRDEwaHNKWWlMZXlhbWlfZzNweWtvd25CdzBYVHpianFvaHc?oc=5",
+   "date": "2026-11-13",
+   "source": "노컷뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "aba298321a3c2524",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 미취학·미인정결석 아동 취학관리 강화",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meXRHdlNXTTI1NlNPU2JXcEhfUThuT0JWcmUtNTRQaWg3LTl2X2UxNUJtR2c5cEhuYm5MeGEwN19WVlBHVjBGT2p3WUNnZHdVcENpUWJoa04yeFFo?oc=5",
+   "date": "2026-11-17",
+   "source": "아시아뉴스통신",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "71819445d3921a04",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 2027년도 예산 4조 4421억 원 편성… 학생 안전·지역 상생교육 강화",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15dWpCelFUMG9lY0h2V3FxdWl2ZlBmVC0yMHRrVWljT1Y2dkZKaGVhRXNoak1WT0k0V1N5WERPb2l3akRWYTFLYW8zdHNSZ3U5NUFKWk9MdGJnS01x?oc=5",
+   "date": "2026-11-12",
+   "source": "교육연합신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "예산·시설",
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "df9def62f73eecc6",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 제19회 전국학교스포츠클럽 배구대회 성료",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4X2JBRVZoTkxoejEzUFZncWF3TDl2RERacGVSd3NuX2pwOEhMU3d4YzdFWGJERzhoZUttSHdrTWVLQUp5RHFnRHNWc3otaWE2SUxSam45UFREODZxdDQ2WXFobHYzd1cx?oc=5",
+   "date": "2026-11-17",
+   "source": "투데이안",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7f6794290e844e95",
+   "office": "전북",
+   "office_code": "jeonbuk",
+   "office_full": "전북특별자치도교육청",
+   "title": "전북교육청, 계약실무편람 2년만에 전면 개정…학교 계약업무 지원",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsTk9fdEFzRjR0emh0c3F4ZnQxZENiYWV2RlU0alNlcWlGX0JHVWlqQzBwWEZ2cXRTVUd4Y3JtVlUwRDV1M0tpN21MWDllLTVhNzFudTVlRHRucEpFMXVPNGhQeFNOaGg1RUd5dFN3?oc=5",
+   "date": "2026-11-12",
+   "source": "이투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "184d13b003cb1c9a",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 장애영유아 맞춤형 교육 지원 위한 교직원 전문성 강화",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VjcyUlBRYnEtZFh0WFpqZFo5Vk5WdXNpcWIwTGY4M3c2b2owMVJyaDVBei1FRGU2c3FkenlGX0gzVDI3QXF0VVFZZGFEQkllTzl1OHZtck1yMk1fR2VHRmFSY3l6Zw?oc=5",
+   "date": "2026-11-17",
+   "source": "데일리대구경북뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c2f135684dc5f373",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 도민과의 약속 실천 본격화",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SbGxMbk9pOGVZOVN2TXpPMlFPTjNWRHk3SnNZeXZMbS1jeXlQQXk1WVJ2eUwtY2xxRTJGOXRHN0NSbFZJYUNzdHRUY0NETUt4YmZuV0J3TW5GM0hLb2JrWHhyQUxGdw?oc=5",
+   "date": "2026-11-17",
+   "source": "데일리대구경북뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "35ceb24c3b676aaf",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "학교 여건 따라 장학도 다르게…경북교육청 \"맞춤형 지원\"",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlTGF6YkU5U0l0VDJ3S1ZVWmZ2TGZyVGdjWFl5VnpESUY4d0FKR3NTcWpLVlhMLVFLWm1qTTI4N3RhTXFscG5wSDdDaVVMZWNCQllfRVJFNm1HcTF3VGxFS0Nod1c0eG9CUGNUSkVMcDhOQkdaRGdTb9IBeEFVX3lxTFBlTGF6YkU5U0l0VDJ3S1ZVWmZ2TGZyVGdjWFl5VnpESUY4d0FKR3NTcWpLVlhMLVFLWm1qTTI4N3RhTXFscG5wSDdDaVVMZWNCQllfRVJFNm1HcTF3VGxFS0Nod1c0eG9CUGNUSkVMcDhOQkdaRGdTbw?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7a5740d16178c9b4",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 교육시설 설계공모 당선작품 상설 전시",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41M3ZzREdXb1dSOG94QUYwZXVWSm9sbERxTnhuNUhUZTFxeWlPSHQzUU94NmVPYVNoUEFfbnRWTHJNOVdua0ZBdTFTNFpRNE9IRFFJNEJRSDNOWnVtWEtQSlhIV2dHdw?oc=5",
+   "date": "2026-11-17",
+   "source": "데일리대구경북뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "인사·조직",
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "42e01c106d26c535",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 지역사회와 함께 생활 속 청렴문화 확산",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wNWJFVnRlMnlNQmZtRXNyVUNyeDRIUmxnaFdqMVRkQWZtR1k4UU15Wmh3eHRhQlVhS1NjY1FRbmdyMXJ6R2xDMkZDU1lNeFJGdVBmTm4tOWNkYnlldDZUQ1FuN1Jydw?oc=5",
+   "date": "2026-11-17",
+   "source": "데일리대구경북뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8594b5def64abda0",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 전국 최초 유치원․어린이집 경제교육 워크북 보급",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vclVfR2lJRThYZVExNl9XMUJtLUlBVmU1Y0Y1Z0FmVy1Xc0FYVmk3eWpUT0lNclYwbXVCMG8tUWY1M05JN0dDQ1JjRkZMNEVMZWNacFFBdDlkY2JUZHdrcDUyaUpRdw?oc=5",
+   "date": "2026-11-17",
+   "source": "데일리대구경북뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e68da2bf81722bb4",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 전국이중언어말하기대회 경북 대표 3명 전원 수상",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNMG5ETVJLT2Rsa1F6ME9ZMUh2VXI2QmMwQ2FWTUZTM0wwbjZrMTFhcUhuQnJ0cEoxbWd0a1U4a0t6WEVjVXktanpEZUNhb2RwakJNdkF1blk1YXQyeXIyVXplWC1XZw?oc=5",
+   "date": "2026-11-17",
+   "source": "데일리대구경북뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0072087357ed2071",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 59개 공약사업 도민과 점검…공약이행평가단 출범",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UeElqQXl0WEllSFNYNjZsSUNIYkhRYUJ1VDlRaE1YWGtkLWFxQ0dJZ295cHAxdzFYYnk2RWsyUlBfV3ZHSmdDZThqSFcxT1RIaVd6MFpqNzRpdlVxV25waHllYXZpMWI5ekxmY1RzUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "경북일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "cebc8a01953525f6",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 전국 최초 유치원·어린이집 경제교육 워크북 보급...놀이 중심 지원",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11YWpOZ2tqSXdBVGhhQWFyQVAyTXRRWld5MFk3RU9UYWdrQ1ZPcHQtMXFRVjI2ejg5YnpoLUswa3BfcW9FVDlIeU5FV1ROeDUyM0FFXzdnWVp2Ujk0bUQ3Ui02RGlrZmdtVDVB?oc=5",
+   "date": "2026-11-16",
+   "source": "BBS불교방송",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3a7750b30552bb8b",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 농어촌 유아 대상 경제교육 워크북 보급 나서",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNYUF4RVprRWRPVm9VYm5DMVE2dnY2ZkZMNmYtX0hSejBuMTlmOG1QVTBSRGFRV2ZSZ0pDUEVKMWkzZHpnelBvc2gzdVpKYUJBbTdMSUlpMUE5U3oxby0zWEwyRC0zZw?oc=5",
+   "date": "2026-11-16",
+   "source": "이로운넷",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "53fa6714888b90da",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육 공약 59개 사업 도민이 직접 점검…경북교육청, 교육감 공약 이행평가단 출범",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zdnRJNC1Dc2d2MWt0QVJCMVY5aTFJY1RpWGtJV1dBZGJyM1VNV2MxTWtoS2JjenNOTlpyYTNuZHJFZ1cwakJuVXdlQ0R1TEYxcE5rNkhudlg3RmZ0bmtESVBsdUthQ3VKVWc?oc=5",
+   "date": "2026-11-16",
+   "source": "www.hidomin.com",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0170668499308c68",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 교육감 공약 평가단 59명 구성…공약 이행 점검 나서",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UQldULVhHcEx5VmFmVVV4M2Y1WmtVTVNIR2I0b2JlUEtYN1JyODIxY3VDUVpMdkNwb3d2bFlVaDdvVFZxbUFQSlZFVmduQ2NfZmZFZFpkLW9RTUdWdXFKTU9CVjA4dw?oc=5",
+   "date": "2026-11-16",
+   "source": "이로운넷",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5eca532420f7ef96",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "AI 시대 ‘스스로 묻는 교실’…경북교육청, 질문 중심 수업 확대",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TjRuaHYzM3F0bFgzR21pVVBqbHRkT0NRN2FjVkE4UnZ6WXdsTjFDalczMG5zdUt5aGNsbUxOU0RmaDBXU0FJZFpLQm1iVmcxNFZ6WlhGa1pQRGIyWHJn?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스1",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f574bfc4780bfaa4",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "[패트롤] 경북도-경북교육청-남부지방산림청",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52T09oaHJ1WmxSdW10WUtDN3hYbm5ieDdnTXVsZUNTUVVnSlBWR3dWTHp6dWZFOEhGcjVTcEhXUXFrVlJNT1JGLXVoanl1RlY3WXZNN0w2ZjFNQ2s?oc=5",
+   "date": "2026-11-17",
+   "source": "에너지경제신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "ff6f8dbcedaa1cd4",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 이주배경학생 3명...전국이중언어말하기대회 전원 입상",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56TjhiWkRGQjgxXzk2aURxb1h0RkU0cVlwLUlRVm5DdGd0UXV4eVBTRzViZUtqNHZiaG9pbUhKdmpMN0F2clVJTlJCVDhTNnNNelBMdnZ5QmpPMW40UTIwaDc4QU5hUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "이로운넷",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "bd2282e05a39232a",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 학생 질문 중심 수업․평가로 교실 수업 혁신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0td2c2aHFtM05aZzB2WGIzY3RpSlMxbndqOFpuU05GS3FtNm9Wa1Z4SkFtSUZ3WUl2SnFmaFRCMWhoRURYTFFodG44WTk4MjQ4LWFHcDB4YmJjQUxDVUNIQXQtYlp2NGQ1bmEtMTBOUElrU3Nv?oc=5",
+   "date": "2026-11-16",
+   "source": "구미뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9ef7e40efeb9d114",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 교육감 공약이행평가단 59명 위촉",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGVTZIZlQwYUwyS2xaOWdoTGMxN0lQY3BOcGxGb2hQb0g0dTU3Tll5dDhuUXJvbExIOUhxbnk4cnY4S09ZUG1WTEJobS1vclpzSWIxQk4xZ0VNY3JwQ2dtUUFZamJFMmx0eDFWekZqV0hOQdIBdkFVX3lxTFAwOHdtLW45dEc2amxIbGl1dDNrbWhXOFpPSVdMaUFvZlNCX0Vmb3VKd0JOcmtPZ2l4SVVkU3J1VzhkZF8yOVpBVm1aX3pkaXBEU0xueTltb0EtbTE3TV8teENNUjRVYThsdGJxaW93dWk3U0V4VXc?oc=5",
+   "date": "2026-11-16",
+   "source": "LG헬로비전",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c909d40fb112ad20",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 미래교육 정책연구 3건 확정",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kWFV6dnVIZ3ZqQjJkTzBoQzNrZUtvN05uTXdxelpQVDRzUzZtbXZVMVgycWFGLUowVHR3WkhfUEhvSW1FLXAyQmozUFBMVmY1RHN5NnFSaEpsc3dQSmljWGoyekxGRWdFalZJVkNkajdfOXh3?oc=5",
+   "date": "2026-11-13",
+   "source": "대한경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b72a0c8f02b39b46",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 전국이중언어말하기대회 전원 수상",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ObmYxbmt2ZlRiZmlwNUxiYmRJRmJXVmhNYXhzaUstS0wtQ1RXY3dzNUtxcmdNYnBOVEFTbENxN3hkSXBvVl9EUHV5VFZpNVVZb0YwVktHbjE?oc=5",
+   "date": "2026-11-16",
+   "source": "경북신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c2fa3a90fa4b3359",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "[사설] 경북교육청 '통합 행감'은 도의회의 편의적 발상 아닌가",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OQk9XRHFCbzBpWEs4TnhRd3BEVTRjc011TUswOE02M0RPOERjazNEZFAtWkJPVE5Cc3Y1eWxoVVhCUWtFaGR0TllmMldlSTlUaldNc2J4aVdNdkdGaXRCeko0eEgyQm8?oc=5",
+   "date": "2026-11-16",
+   "source": "영남경제",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5d9d95d6453aef66",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 유아 경제교육 워크북 전국 최초 보급",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LQnQ5NHNua0ptZURrdlNqMU9ZQ09OOE13T2xxTm80WmZjWWdJRmt6b29Xa1JWWGtKNFA2bU9hOXdDZXdvSU9xN3pGbk5QRnROdjliUmZIeU5jMGFTZmtvcFUxSlZlSjNNekxz?oc=5",
+   "date": "2026-11-16",
+   "source": "CNB뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3b9f089a1b3878b2",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 제19대 교육감 공약이행평가단 출범",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yeGxXMkdjcTJ0a0loLXk4WGhIYkZHRVJEb0liRFFQQ0NYNWxfcGcxS0xWSGRvUngzVVZVQWR6UkFaUGcwMzhkS0ZvOTRwd2M5T3lNSWJSYXE?oc=5",
+   "date": "2026-11-16",
+   "source": "경북신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "f8d487d6ec24a3dc",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 교육감 공약이행평가단 출범… 123개 공약과제 점검",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83X2dfTmVQUVktMk81eVJtTUdQQWpOWWtid1l1ZjVGZVRBNWxSVmVucWdVNjE4alJ6UUV0VUFWNHVka0I2NUxSNEZadEV6a21CVzZEUQ?oc=5",
+   "date": "2026-11-16",
+   "source": "이투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "4d11c840e4da9b02",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 유아 경제놀이 워크북 전국 첫 보급",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMFRhVXRobEFqX3IwTDZ6TUdzcHc5OHFvTmg4SFJQM1M4R0lYZlRIczViMHFza0hMb3lXaG91ZERRTTVIVVotNkM4VFVFZDlXdUstUUgxeWtGTEgwWlJfb0U0UjJWbUtzOHc?oc=5",
+   "date": "2026-11-16",
+   "source": "천지일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "5a047f1c53fe1fbf",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 교육복지사업 만족도 97.3%⋯맞춤형 지원 확대 속 내실화 과제",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTmNaTlotdW1EYTZfZmFtSnA1TEtVR1hZZDdtOXpVbEstNlZaMUNUMUpQTVpUa1pUNDlCZUFBNXN4aDJGTjJEZm05QURPZXFoY3RZZVhqaE5ac0pBNjhtZ082VHdncV9t?oc=5",
+   "date": "2026-11-17",
+   "source": "대구일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8e8da4569eca7f26",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 중3 진로연계교육 자료 보완…고교 진학 준비 지원",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNWd0SWI3ak5iNWpwQWpINFI0UnhYZnZaY2VieHR0RGowMmVXWS1GQUdzdXJ6ajAySGVleTZ5TmNybEt3dVRmb2pCUU1GSjg4Y0xlVGV1NFBKQ043cDItcS1B?oc=5",
+   "date": "2026-11-16",
+   "source": "매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "b397ebe6c29754d0",
+   "office": "경북",
+   "office_code": "gyeongbuk",
+   "office_full": "경상북도교육청",
+   "title": "경북교육청, 보차도 미분리 학교 24곳 통학 안전 점검",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aMjNrMDNwZlp5WjRvd2gycERXTEZlVTczZGRoUkMxZ1pZaWp6ZmVuM2l1R1I0b1FmajBPMEs1b1F2UlZQUFA1SVRxbktFaGZvczJ2OGhsdURLUnJud3VaV0JR?oc=5",
+   "date": "2026-11-16",
+   "source": "매일신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "7e6993f956099aa8",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 교육감 공약사업평가委 '첫 회의'",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5anJkbFAyRVJTUXpfdEtfeUt5Z1RIeG5oOVVoWFFVLVZJem9pRUVCRmpWa0NQaUgyZWgtc3BaLUlfZU1FUzJLN2cxa2VfTlFMZTBwMHMxT0Q1Mkd4aFlxdjVXRzl4S2wwSFlUMFhwVDhEZXRZWk4xUNIBeEFVX3lxTFB5anJkbFAyRVJTUXpfdEtfeUt5Z1RIeG5oOVVoWFFVLVZJem9pRUVCRmpWa0NQaUgyZWgtc3BaLUlfZU1FUzJLN2cxa2VfTlFMZTBwMHMxT0Q1Mkd4aFlxdjVXRzl4S2wwSFlUMFhwVDhEZXRZWk4xUA?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴시스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "0ae8be25081295ff",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "수능 ‘AI 커닝’ 비상…경남교육청 “스마트안경 대응 강화”",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LOC1HUUxPWW9jYTJaZE9kOXBJYjBzUnMydk80cENpTGszdkNTNHB5NWMtME5WWUJia2xMR25QemRkZjVZWk9MSVZrQy1rZ2lweUtJNTJuTEUwaVYxM3pFc3BjRE80UTRpM0E?oc=5",
+   "date": "2026-11-16",
+   "source": "경남도민일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "61294553160cb21e",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, '직업교육 혁신지구' 위원회 개최…인재 양성 논의",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MS0JZVUJLcDRMN3Z1eEZIb1ZyejJPajJiM0ZRamtpbTBCRUJ6ZHZnV3NqdEc3M2VJdkR5OGd6TExKcThQZXFwZjZLU1NNeEVXTUd6ZjRMQ09qYWd5TVRKLdIBYEFVX3lxTE1MS0JZVUJLcDRMN3Z1eEZIb1ZyejJPajJiM0ZRamtpbTBCRUJ6ZHZnV3NqdEc3M2VJdkR5OGd6TExKcThQZXFwZjZLU1NNeEVXTUd6ZjRMQ09qYWd5TVRKLQ?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "326dd5efdfe6e1f9",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청 부교육감 두 달째 공석… 연내 임명 목소리",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yeC1yVUo5Y1VjNDBZOXNCWVRYMXA5Q3lpWGpNeWFnWUluczZkVmRrSWIyRl9CVENib29FTWc5YkJTTWNKNmFmdnNyWVJBd212SWhrbm5aNnZ0RDM1cFBRLS10WjF6YTNrREJN?oc=5",
+   "date": "2026-11-16",
+   "source": "경남신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "12214a9d1fe0367a",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 교육감 공약사업평가위원회 첫 회의 개최",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQkRvSVZLUnVKZFVfaVR6bGY3alRycmQxNVVRQzE3S2NZUVR0QnppV2ctT0ZlSXl4TE5FVnNzT24zRk1yalY3WDR3TDAzLTVxcmt1ck1OVGwzRjA?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "교육과정·수업"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a3bf1e76d089dbfe",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 유치원·어린이집 찾아가는 언어문화다양성 학부모 연수",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VbThfWGlGVmQwV2tWdXdIMTNmRUxJTkFhTUtTUGhESnVteGdWa3pBX0NEMlQyc2tJRUlaT044dURpXzBVVldzLXFlRmMzbVNYR0dEWW1NWnd2VF9jOHRGQktsWU1nRHVuMGUw?oc=5",
+   "date": "2026-11-16",
+   "source": "경남신문",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "돌봄·유아",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "6b50508e204ff06a",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 직업교육 혁신지구 협력위원회 개최",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84OW15VFJGSkNZdTBIYXlrMW5JVzY5MnhaNXBsYjVFR3FWRXV5NDlZc0FGZG1tekdhQUhyYXJvX3N6U2JadjRneXFxM2hDX01SWG9DR2Z1Q3pOZkd6MXJqX3FNYUdWX19jeEE?oc=5",
+   "date": "2026-11-16",
+   "source": "경남도민일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9294e08ef435d44e",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "[교육소식] 경남교육청, 수능 준비 마무리·지역 산업 맞춤형 직업교육 협력 강화",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SmxXTlprWHBQXzR0QU1oVE1YLUVRSnJ3S1Vpbl9LNHhpS1JQam4zSkp2ejBJTmtJN2lYTHVKOW1DZFF3Ym92TS1FLTh4V3Vmb081WnVJR2JnYTF0OUY2ZjA2WQ?oc=5",
+   "date": "2026-11-16",
+   "source": "쿠키뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3c7ce7d31206a088",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 학부모 언어문화다양성 연수…6곳서 내달 2일까지",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2OXJJR1Vwcmk2SUxzcUtLbEx2djJFUmR5OExPVk9rQktlZGhYc2JudE96ZWRSVWtuUGJZcE50YWMyRmIxR3RLWHpBdTY1LS1NcHhzSm1ZdHVNRnfSAWBBVV95cUxOMlY2YlFndkJuMF9uTVRxWC1IcV80ZTAwQnpHSUt1bXpUWU9RUGFzQTNQQTYwQlFPam5tTkxUNTBQbTAyN244ekZGU3R5YXJPZzYzWktOa0pMOUlCT2dUaFg?oc=5",
+   "date": "2026-11-16",
+   "source": "연합뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "582d5144bef16e76",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청 직속기관 운영비리 의혹에 구조조정 예고",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWWpfY2JCOTVSb1VjaHFLdUplYlJ1eGJjcGFWYVFEaEU0SXVhLWxJaS1ERDR1OXVqU1hUY0VLSzBVamx3eGxxanNZaWhFNzUxOGt2WHR5c2FKak5hUUlXY2xQcHBMR1N3VHVCdWZMZHZXaTlGV1gxMQ?oc=5",
+   "date": "2026-11-17",
+   "source": "부산일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "9e0c2d9a0e4da0a0",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 언어문화다양성 찾아가는 학부모 연수 운영",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NbGt2OXhYSDVtYkVtdUdZZGVSLVV1X0VvcFNOcHNtRUFoRlpmdmlyNERVNlI2SUdyb2tCRGo0NFFnczhRMHM1eXhwQUVXREttMWpNTHhqWWZZUXVSQno2MjVZbEdLYm5tVlE?oc=5",
+   "date": "2026-11-16",
+   "source": "경남도민일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e07b6559d5012e07",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, ‘언어문화다양성’ 학부모 연수 개최",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUQUJRejNXYnJvY2cweTI4WWdQVXZDUEg5bVg1OXlxLVY5dlBxRkEtSzNIR1pPWmdDa2NubTd1bFpjWHlIaURCdlI0T1JsQURMSkFveTBqbDd6UjR3S2pJWDBCTkt2MkRfcDJZ?oc=5",
+   "date": "2026-11-16",
+   "source": "경남일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "06af328f749a287b",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 지역 산업 맞춤형 직업교육 협력 강화",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DRlg5T2lxQzc3NlE2aWdfTkxNNlRXS2UzUkVScnljWHhfa1VfbnlNbFRhMTY2Q1MwTzRWNE1ZeTZUUzJTcV9tV2dIRQ?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "38f5635e862c9fd3",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 항공·미래자동차·의생명 인재 양성… 지역 산업 맞춤형 교육 강화",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MMmJ5am1IVkJHSmdtMm4yc2VVR2dXUDhZRWxNcXo5VHdUTExJTDFXaEpmbXFIUkZ4d2E1MXdkQ1NaR01xMWo5U1BDXzJaZXF5amZ6cmQ4dmpOYzVaVnZGU0dMZFhVdkI5SDctQ3hHc2xfTEE?oc=5",
+   "date": "2026-11-16",
+   "source": "코리아이글뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "1e2f9a7252f6c0bb",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 수능 비상체계 가동부터 학교급식·아침간편식 개선까지 교육 현장 지원 강화",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPeDBTLVJvYmZYWVFvZ0pjRHpwTHJ5WXktQXgta0lBRFhkbnFxT0VXQUpXT2R5QzZFVmNhSVJuZGJWc29IVHgycnFjelloSV81Wlc0SFR3Tl9TZThhVGxfMlE5SQ?oc=5",
+   "date": "2026-11-16",
+   "source": "쿠키뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "예산·시설"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "68bf90074206ddbc",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 온라인 연수로 전 교직원 학교회계 실무 역량 높인다",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EUS1sQmpwTDVqWDB4TTE1bUtIS3M4WHdpb3ptdVI3dElGdVM3Q19vMHRMVV9pLURGc2xCdE9xUjdWUmdPMEwweXJB?oc=5",
+   "date": "2026-11-15",
+   "source": "미디어투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "교원·연수"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "3cf6c00b6c0e320b",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청 경남 학생 3명, 제14회 전국 이중언어말하기대회 참가",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBNDlfSVJDQXdRdjZXR2xHN2tUWmdxN3NNaHRNcURtdkJxZkZHQktOM1lQaGNPTjdsTHVBazF2M0pIN0FyYkRCdG1B?oc=5",
+   "date": "2026-11-15",
+   "source": "미디어투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "a819f7e77b2d8c7c",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 유치원 어린이집 찾아가는 언어문화다양성 학부모 연수 개최",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuMGI5Yy1KUjNMZXlXVHNlOVdLY3hsZHRZcmRoSG5OdW1INlNjVWpxX1ZOdE44SDR1RXFyeE1pMHJUYVpTODhkTFotbw?oc=5",
+   "date": "2026-11-16",
+   "source": "더코리아",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "행사·시상",
+    "돌봄·유아"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "8165462fbf3a4215",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 교육감 공약 검증 시스템 구축…도민·학생 참여 확대",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyWlhFWU92OHF0azRFeXpSRWRXVVQ4d3B3bzZQNlk0SzBZM1RqVXF4Rl9tVGE4VlZHTEhNRVdDdmNwTm5IZzdaQjdNYVBYNTV5eGdsbG00ZFdUREg4?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "학생자치·참여"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "329832d9ee5d4891",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청 56개 팀 448명, 밀양에서 스포츠스태킹 실력 겨룬다",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5hekZ0Y3RuNGIzQ1pkbmRZa3NKY2kxWkdOZmZzTWx3dGpoYUFocUlrNWRXNTJKa3A4QjVULVNuRE50NFMyYVdfQWNn?oc=5",
+   "date": "2026-11-15",
+   "source": "미디어투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "23ecea9edb02d8ad",
+   "office": "경남",
+   "office_code": "gyeongnam",
+   "office_full": "경상남도교육청",
+   "title": "경남교육청, 직업교육 혁신지구 협력 방안 논의…산업 수요 맞춤형 강화",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04UFNVRHB0THpTbDFqYnBQUldYUWMwSWw1QjNrdThEOENPT3lBQ2dSNUFhZWZDMUxjZnFQWUlTakYtMFl4MlQ0dGNqUTVyeWRERjNWdkVuQU55bldV?oc=5",
+   "date": "2026-11-16",
+   "source": "뉴스핌",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "e8d1f8a05dc983b3",
+   "office": "제주",
+   "office_code": "jeju",
+   "office_full": "제주특별자치도교육청",
+   "title": "“4급 1명 파견 실효성 있나”...제주교육청, 교육협력관 폐지 검토",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaajJYcHZrb2FqQVpCMVVaeWVjbW56b0djLVdTQXF4ZDFSY1R6dHI0Q015d0dxSlNzVktXZkNVbmxLRTN6Wm9WOE1ZNndiMTNVWkdwY1JEOFFvLXdlMjRuTjBJbFh1T2w2amFZ?oc=5",
+   "date": "2026-11-16",
+   "source": "제주의소리",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "기타"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "c03945dce92cf17d",
+   "office": "제주",
+   "office_code": "jeju",
+   "office_full": "제주특별자치도교육청",
+   "title": "AI 안경 부정행위에 수능 감독관도 긴장…제주교육청 보호 대책 검토",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40Y2FHWnNSRGlDRHdTNnJhMnF4ZmowN1hxTHdPNVUyeDRGRjFxMnJJXzR5dU5SYURRSXN5ZHM3T3ZUUmlLSUpaYTBUb0lKWTFPZDBoamZacWFJcjdjQUNjcDRKZldPWldXQmlyY1Q1Yw?oc=5",
+   "date": "2026-11-16",
+   "source": "진일보 | 전남일보",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "eb4e2c67e4808b9a",
+   "office": "제주",
+   "office_code": "jeju",
+   "office_full": "제주특별자치도교육청",
+   "title": "수능 앞두고 불거진 AI 스마트안경 논란, 제주교육청 대책은?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VcmxTalphWWlObENIeG9JZVBzN01tY2tZTk9WMnJwRHBCZjlyY2dPeTVOQ044TlBpX2h5dVJnczV3QTNMUTRtdWZCTF8zVjdKOTRhcFhybjNEMGJfZlduSkVFVU8zcWdiUXJYcjBn?oc=5",
+   "date": "2026-11-16",
+   "source": "제주투데이",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "2baf514999bf7b56",
+   "office": "제주",
+   "office_code": "jeju",
+   "office_full": "제주특별자치도교육청",
+   "title": "“인건비는 558억 늘고 가용재원은 줄고”…김황국 의원, 제주교육청 재정위기 대응 촉구",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fR0JLYi1LbHVDUW5UWWxVZGVUVzZLWUJJMmhWUjMwelpSTkpDTENzRXk1YlV5VVFuSnYxcXRDeG52ekNrZnlERllxbHgxbGtHUVppWUE5T20yRXJmeV9wbkVHc01ucXIzMGlXZA?oc=5",
+   "date": "2026-11-17",
+   "source": "뉴스N제주",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "안전·생활"
+   ],
+   "collected_at": "2026-11-17"
+  },
+  {
+   "id": "69234ced709e6772",
+   "office": "제주",
+   "office_code": "jeju",
+   "office_full": "제주특별자치도교육청",
+   "title": "AI 안경 부정행위 파문에 수능 앞둔 제주교육청도 비상",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rWDMwbDlVMnRaV0daQ0g5TzJPS21aSEc5Q2tGRGhVSTlzVHU1ZnViYWpfMFFLampiTTl3VUVLV0hDUEpkdWFZVHZoOTkzQ0x1NlE?oc=5",
+   "date": "2026-11-16",
+   "source": "노컷뉴스",
+   "kind": "뉴스",
+   "summary": "",
+   "tags": [
+    "진로·입시",
+    "AI·디지털"
+   ],
+   "collected_at": "2026-11-17"
+  }
+ ]
+}
