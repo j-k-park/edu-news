@@ -28,6 +28,13 @@ jobs:
       - name: 소식 수집
         run: python collect.py
 
+      - name: 오늘의 핵심 요약
+        continue-on-error: true
+        env:
+          BAZE_API_KEY: ${{ secrets.BAZE_API_KEY }}
+          BAZE_API_BASE: ${{ secrets.BAZE_API_BASE }}
+        run: python summarize.py
+
       - name: 노션에 저장
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
@@ -39,5 +46,6 @@ jobs:
           git config user.name  "eduwatch-bot"
           git config user.email "actions@github.com"
           git add docs/data.json docs/archive
+          [ -f docs/briefing.json ] && git add docs/briefing.json
           git diff --staged --quiet || git commit -m "수집: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
           git push
