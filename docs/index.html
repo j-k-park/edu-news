@@ -93,6 +93,37 @@ h1{font-size:clamp(28px,3.8vw,40px); color:var(--navy); font-weight:800}
 .stat.hot b{color:var(--orange)}
 .stat.time b{font-size:16px; padding-block:6px 4px; white-space:nowrap}
 
+/* ---------- 오늘의 핵심 ---------- */
+.brief{
+  margin-top:18px; background:#fff; border:1px solid var(--line); border-radius:var(--radius);
+  box-shadow:var(--shadow); padding:18px 22px 16px; position:relative; overflow:hidden;
+}
+.brief::before{content:""; position:absolute; left:0; top:0; bottom:0; width:4px; background:var(--navy)}
+.brief-head{display:flex; align-items:baseline; gap:6px 14px; flex-wrap:wrap; padding-bottom:12px; border-bottom:1px solid var(--line-2)}
+.brief-head h2{display:flex; align-items:center; gap:9px; font-size:19px; font-weight:800; color:var(--navy)}
+.brief-meta{font-size:13px; color:var(--ink-3); font-weight:600}
+.brief-list{
+  list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr));
+  grid-auto-flow:column; grid-template-rows:repeat(var(--rows,5),auto); column-gap:28px;
+}
+.brief-list li{display:grid; grid-template-columns:26px 1fr; gap:10px; padding:11px 0; border-bottom:1px dashed var(--line)}
+.brief-list .no{
+  width:24px; height:24px; border-radius:50%; background:var(--navy-soft); color:var(--navy);
+  font-size:12.5px; font-weight:800; display:grid; place-items:center; margin-top:1px;
+}
+.brief-list li:nth-child(-n+3) .no{background:var(--navy); color:#fff}
+.brief-list .hd{display:block; font-size:14.5px; font-weight:800; color:var(--navy); line-height:1.45}
+.brief-list p{font-size:14.5px; color:var(--ink); line-height:1.65; margin-top:2px}
+.bmeta{display:flex; flex-wrap:wrap; align-items:center; gap:4px 10px; margin-top:6px; font-size:12px; color:var(--ink-3)}
+.bmeta .of{display:inline-flex; align-items:center; gap:4px; font-weight:600; color:var(--ink-2)}
+.bmeta .of .dot{width:8px; height:8px; border-radius:2px}
+.kw{
+  font:inherit; font-size:12px; font-weight:700; color:var(--blue); background:var(--blue-soft);
+  border:0; border-radius:999px; padding:2px 10px; cursor:pointer; margin-left:auto;
+}
+.kw:hover{background:#d4e5fd; color:var(--navy)}
+.brief-note{margin-top:10px; font-size:12.5px; color:var(--ink-3)}
+
 /* ---------- 검색·필터 ---------- */
 .controls{
   position:sticky; top:0; z-index:20; background:rgba(246,248,251,.96); backdrop-filter:saturate(1.2) blur(6px);
@@ -144,6 +175,12 @@ h1{font-size:clamp(28px,3.8vw,40px); color:var(--navy); font-weight:800}
   font-size:12px; font-weight:700; color:var(--navy); background:var(--navy-soft);
   border-radius:999px; padding:1px 8px; line-height:1.5;
 }
+.office.today{border-color:#f6c48a}
+.office.today > h2{border-bottom-color:var(--orange); background:var(--orange-soft); color:#a14f00}
+.office.today h2 .cnt{background:var(--orange); color:#fff}
+.office.today h2 .full{display:inline; color:#a14f00; opacity:.85}
+.office.today .items a:hover{border-left-color:var(--navy)}
+.spark{width:10px; height:10px; border-radius:50%; flex:none; background:var(--orange); box-shadow:0 0 0 3px rgba(240,125,0,.22)}
 .items{list-style:none; margin:0; padding:2px 0; overflow-y:auto; max-height:430px}
 .items li{border-bottom:1px solid var(--line-2)}
 .items li:last-child{border-bottom:0}
@@ -223,6 +260,11 @@ h1{font-size:clamp(28px,3.8vw,40px); color:var(--navy); font-weight:800}
   .items{max-height:340px}
   .office h2 .full{display:none}
   .site-foot .wrap{flex-direction:column; gap:14px}
+  .brief{padding:15px 16px 13px; margin-top:14px}
+  .brief-head h2{font-size:17px}
+}
+@media (max-width:900px){
+  .brief-list{grid-template-columns:1fr; grid-auto-flow:row; grid-template-rows:none}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important; animation:none!important}}
 </style>
@@ -262,6 +304,7 @@ h1{font-size:clamp(28px,3.8vw,40px); color:var(--navy); font-weight:800}
       <div class="stat time" style="--c:var(--yellow)"><b class="mono" id="s-time">–</b><span>최종 수집</span></div>
     </div>
   </div>
+  <div class="wrap"><section class="brief" id="brief" aria-labelledby="brief-h" hidden></section></div>
 </section>
 
 <div class="wrap">
@@ -316,9 +359,9 @@ const todayStr = () => new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
 const daysAgo = n => new Date(Date.now()+9*3600e3-n*864e5).toISOString().slice(0,10);
 const fmtDate = d => d.slice(5).replace("-",".");
 
-function filtered(){
+function filtered(anyPeriod){
   const q = state.q.trim().toLowerCase();
-  const from = state.period ? daysAgo(state.period-1) : "0000";
+  const from = state.period && !anyPeriod ? daysAgo(state.period-1) : "0000";
   return DATA.items.filter(i =>
     i.date >= from &&
     (!state.kind || i.kind === state.kind) &&
@@ -327,8 +370,8 @@ function filtered(){
   );
 }
 
-function itemHTML(i, withOffice){
-  const isNew = i.collected_at === DATA.today;
+function itemHTML(i, withOffice, hideNew){
+  const isNew = !hideNew && i.collected_at === DATA.today;
   return `<li><a href="${esc(i.url)}" target="_blank" rel="noopener">
     <span class="it-title">${esc(i.title)}</span>
     <span class="it-meta">
@@ -341,12 +384,27 @@ function itemHTML(i, withOffice){
     </span></a></li>`;
 }
 
+// 오늘 신규 칸: 기간 버튼과 상관없이 오늘 새로 모인 소식만, 구분·분류·검색 조건은 그대로 적용
+function renderTodayCard(){
+  const list = filtered(true).filter(i => i.collected_at === DATA.today);
+  const [, m, d] = DATA.today.split("-").map(Number);
+  return `<section class="office today">
+    <h2><span class="spark" aria-hidden="true"></span>오늘 신규
+      <span class="cnt mono">${list.length}</span>
+      <span class="full">${m}월 ${d}일 수집 · 전 교육청</span></h2>
+    ${list.length
+      ? `<ul class="items">${list.map(i=>itemHTML(i,true,true)).join("")}</ul>`
+      : `<p class="empty">오늘 새로 모인 소식이 없습니다</p>`}
+  </section>`;
+}
+
 function renderBoard(items){
   const by = {};
   items.forEach(i => (by[i.office] ||= []).push(i));
-  return `<div class="board">` + DATA.offices.map(o => {
+  const offices = [...DATA.offices].sort((a,b) => (b.name==="전북") - (a.name==="전북"));
+  return `<div class="board">` + offices.map((o, idx) => {
     const list = by[o.name] || [];
-    return `<section class="office">
+    return (idx === 1 ? renderTodayCard() : "") + `<section class="office">
       <h2><span class="dot" style="--oc:${OFFICE_COLOR[o.name]||"#888"}"></span>${esc(o.name)}
         <span class="cnt mono">${list.length}</span>
         <a class="full" href="${esc(o.site)}" target="_blank" rel="noopener">${esc(o.full)} ↗</a></h2>
@@ -398,6 +456,45 @@ function renderTags(){
   };
 }
 
+// 오늘의 핵심: summarize.py 가 매일 만든 briefing.json 을 보여 준다
+function renderBrief(b){
+  const el = document.getElementById("brief");
+  if(!b || !Array.isArray(b.points) || !b.points.length) return;
+  const [, m, d] = b.date.split("-").map(Number);
+  const isToday = b.date === DATA.today;
+  const todays = DATA.items.filter(i => i.collected_at === b.date);
+  const officeHTML = list => {
+    const shown = list.slice(0,4).map(o =>
+      `<span class="of"><span class="dot" style="--oc:${OFFICE_COLOR[o]||"#888"}"></span>${esc(o)}</span>`).join("");
+    return shown + (list.length > 4 ? `<span>외 ${list.length-4}곳</span>` : "");
+  };
+  const pts = b.points.slice(0,10);
+  el.innerHTML = `
+    <div class="brief-head">
+      <h2 id="brief-h"><span class="spark" aria-hidden="true"></span>${isToday ? "오늘의 핵심" : "최근 핵심"}</h2>
+      <span class="brief-meta">${m}월 ${d}일 신규 ${Number(b.based_on||todays.length).toLocaleString("ko")}건 기준 · ${pts.length}가지 요약</span>
+    </div>
+    <ol class="brief-list" style="--rows:${Math.ceil(pts.length/2)}">${pts.map((p,n) => {
+      const kw = String(p.keyword||"");
+      const hits = kw ? todays.filter(i => i.title.toLowerCase().includes(kw.toLowerCase())).length : 0;
+      return `<li><span class="no mono">${n+1}</span><div>
+        ${p.head ? `<b class="hd">${esc(p.head)}</b>` : ""}
+        <p>${esc(p.text)}</p>
+        <div class="bmeta">${officeHTML(p.offices||[])}
+          ${hits ? `<button class="kw" data-kw="${esc(kw)}" aria-label="${esc(kw)} 관련 소식 ${hits}건 보기">관련 소식 ${hits}건 →</button>` : ""}
+        </div></div></li>`;
+    }).join("")}</ol>
+    <p class="brief-note">AI가 그날 새로 모인 소식의 제목만 보고 정리했어요. 정확한 내용은 원문으로 확인해 주세요.</p>`;
+  el.hidden = false;
+  el.onclick = e => {
+    const btn = e.target.closest(".kw"); if(!btn) return;
+    const q = document.getElementById("q");
+    q.value = btn.dataset.kw; state.q = btn.dataset.kw;
+    render();
+    document.querySelector(".controls").scrollIntoView({behavior:"smooth", block:"start"});
+  };
+}
+
 function wireSeg(id, key, cast){
   const el = document.getElementById(id);
   el.onclick = e => {
@@ -429,6 +526,7 @@ function boot(d){
     clearTimeout(t); t = setTimeout(() => { state.q = e.target.value; render(); }, 140);
   });
   render();
+  fetch("briefing.json", {cache:"no-cache"}).then(r => r.ok ? r.json() : null).then(renderBrief).catch(() => {});
 }
 
 if (EMBEDDED_DATA) boot(EMBEDDED_DATA);
